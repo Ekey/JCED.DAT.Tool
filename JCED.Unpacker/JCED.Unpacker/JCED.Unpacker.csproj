@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{C3B27338-A8C1-4B40-B956-9CC5DE55F02B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Juiced.Unpacker</RootNamespace>
-    <AssemblyName>Juiced.Unpacker</AssemblyName>
+    <RootNamespace>JCED.Unpacker</RootNamespace>
+    <AssemblyName>JCED.Unpacker</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
