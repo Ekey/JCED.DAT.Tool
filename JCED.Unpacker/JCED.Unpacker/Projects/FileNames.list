@@ -5702,6 +5702,7 @@ windows\english\extras.eng
 windows\english\garageload.eng
 windows\english\gearboxmenu.eng
 windows\english\hornmenu.eng
+windows\english\hud_challenge_results.eng
 windows\english\hud_cruise.eng
 windows\english\hud_cruise_results.eng
 windows\english\hud_pause.eng
@@ -5862,6 +5863,7 @@ windows\german\extras.ger
 windows\german\garageload.ger
 windows\german\gearboxmenu.ger
 windows\german\hornmenu.ger
+windows\german\hud_challenge_results.ger
 windows\german\hud_cruise.ger
 windows\german\hud_cruise_results.ger
 windows\german\hud_pause.ger
@@ -6037,6 +6039,7 @@ windows\italian\extras.ita
 windows\italian\garageload.ita
 windows\italian\gearboxmenu.ita
 windows\italian\hornmenu.ita
+windows\italian\hud_challenge_results.ita
 windows\italian\hud_cruise.ita
 windows\italian\hud_cruise_results.ita
 windows\italian\hud_pause.ita
@@ -6404,6 +6407,7 @@ windows\spanish\extras.spa
 windows\spanish\garageload.spa
 windows\spanish\gearboxmenu.spa
 windows\spanish\hornmenu.spa
+windows\spanish\hud_challenge_results.spa
 windows\spanish\hud_cruise.spa
 windows\spanish\hud_cruise_results.spa
 windows\spanish\hud_pause.spa
