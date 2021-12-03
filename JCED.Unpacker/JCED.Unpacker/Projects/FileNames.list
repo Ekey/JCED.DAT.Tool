@@ -91,18 +91,48 @@ angel north central.tdf
 angel superspeedway.tdf
 angel superspeedway_0.pqh
 angel superspeedway_0.sqh
+angel superspeedway_1.pqh
+angel superspeedway_1.sqh
 angel superspeedway_3.pqh
 angel superspeedway_3.sqh
 angel superspeedway_morn_dry.atm
+angel superspeedway_night_dry.atm
+angel superspeedway_night_wet.atm
+angel superspeedway_noon_dry.atm
 angel superspeedway_noon_wet.atm
 angel superspeedway_shad_morn.shd
 angel superspeedway_shad_night.shd
+angel superspeedway_shad_noon.shd
+angel superspeedway_speedway_p2p.cld
+angel superspeedway_speedway_p2p.d8m
+angel superspeedway_speedway_p2p.d8w
+angel superspeedway_speedway_p2p.ocl
+angel superspeedway_speedway_p2p.spl
+angel superspeedway_speedway_r1_rev.cld
+angel superspeedway_speedway_r1_rev.d8m
+angel superspeedway_speedway_r1_rev.d8w
+angel superspeedway_speedway_r1_rev.ocl
+angel superspeedway_speedway_r1_rev.spl
 angel superspeedway_speedway_r2.cld
 angel superspeedway_speedway_r2.d8m
 angel superspeedway_speedway_r2.d8w
 angel superspeedway_speedway_r2.ocl
 angel superspeedway_speedway_r2.spl
+angel superspeedway_speedway_r3.cld
+angel superspeedway_speedway_r3.d8m
+angel superspeedway_speedway_r3.d8w
+angel superspeedway_speedway_r3.ocl
+angel superspeedway_speedway_r3.spl
 angel westside.tdf
+angel westside_1.pqh
+angel westside_1.sqh
+angel westside_angelwest_p2p01.cld
+angel westside_angelwest_p2p01.d8m
+angel westside_angelwest_p2p01.d8w
+angel westside_angelwest_p2p01.ocl
+angel westside_angelwest_p2p01.spl
+angel westside_noon_dry.atm
+angel westside_shad_noon.shd
 angel_city.boh
 angel_north_cruise01_intro.cam
 angel_north_p2p01_intro.cam
@@ -145,20 +175,42 @@ atmospheres\respect.atm
 atmospheres\rolling.atm
 atmospheres\scrapyard.atm
 atmospheres\showroom.atm
+black2.ddt
 bonnet_collidee.ocd
 bonnet_collider.ocd
 brake_disc2.ddt
 brakes.txt
 campbell hills.tdf
+campbell hills_1.pqh
+campbell hills_1.sqh
 campbell hills_3.pqh
 campbell hills_3.sqh
+campbell hills_campbell_p2p01_rev.cld
+campbell hills_campbell_p2p01_rev.d8m
+campbell hills_campbell_p2p01_rev.d8w
+campbell hills_campbell_p2p01_rev.ocl
+campbell hills_campbell_p2p01_rev.spl
 campbell hills_campbell_r1.cld
 campbell hills_campbell_r1.d8m
 campbell hills_campbell_r1.d8w
 campbell hills_campbell_r1.ocl
 campbell hills_campbell_r1.spl
+campbell hills_campbell_r1_rev.cld
+campbell hills_campbell_r1_rev.d8m
+campbell hills_campbell_r1_rev.d8w
+campbell hills_campbell_r1_rev.ocl
+campbell hills_campbell_r1_rev.spl
+campbell hills_campbell_r2.cld
+campbell hills_campbell_r2.d8m
+campbell hills_campbell_r2.d8w
+campbell hills_campbell_r2.ocl
+campbell hills_campbell_r2.spl
+campbell hills_eve_wet.atm
+campbell hills_night_dry.atm
+campbell hills_noon_dry.atm
 campbell hills_noon_wet.atm
 campbell hills_shad_night.shd
+campbell hills_shad_noon.shd
 campbell_cruise01_intro.cam
 campbell_p2p01_intro.cam
 campbell_p2p01_rev_intro.cam
@@ -260,6 +312,7 @@ decal_crew_vs6.ddt
 decal_crew_vs7.ddt
 decal_crew_vs8.ddt
 decal_dcsports.ddt
+decal_ebc.ddt
 decal_eibach.ddt
 decal_enkei.ddt
 decal_falken.ddt
@@ -408,6 +461,11 @@ downtown angel city_downtown_cruise01.d8m
 downtown angel city_downtown_cruise01.d8w
 downtown angel city_downtown_cruise01.ocl
 downtown angel city_downtown_cruise01.spl
+downtown angel city_downtown_p2p.cld
+downtown angel city_downtown_p2p.d8m
+downtown angel city_downtown_p2p.d8w
+downtown angel city_downtown_p2p.ocl
+downtown angel city_downtown_p2p.spl
 downtown angel city_downtown_r1.cld
 downtown angel city_downtown_r1.d8m
 downtown angel city_downtown_r1.d8w
@@ -418,6 +476,11 @@ downtown angel city_downtown_r1_rev.d8m
 downtown angel city_downtown_r1_rev.d8w
 downtown angel city_downtown_r1_rev.ocl
 downtown angel city_downtown_r1_rev.spl
+downtown angel city_downtown_r2_rev.cld
+downtown angel city_downtown_r2_rev.d8m
+downtown angel city_downtown_r2_rev.d8w
+downtown angel city_downtown_r2_rev.ocl
+downtown angel city_downtown_r2_rev.spl
 downtown angel city_night_dry.atm
 downtown angel city_noon_dry.atm
 downtown angel city_shad_night.shd
@@ -513,6 +576,11 @@ e3unlock.txt
 east angel island.tdf
 east angel island_1.pqh
 east angel island_1.sqh
+east angel island_east_angel_cruise01.cld
+east angel island_east_angel_cruise01.d8m
+east angel island_east_angel_cruise01.d8w
+east angel island_east_angel_cruise01.ocl
+east angel island_east_angel_cruise01.spl
 east angel island_east_angel_r3.cld
 east angel island_east_angel_r3.d8m
 east angel island_east_angel_r3.d8w
@@ -543,12 +611,19 @@ effectsdefsdt_dry.txt
 effectsdefsdt_wet.txt
 english.txt
 engstrom district.tdf
+engstrom district_0.pqh
+engstrom district_0.sqh
 engstrom district_1.pqh
 engstrom district_1.sqh
 engstrom district_2.pqh
 engstrom district_2.sqh
 engstrom district_3.pqh
 engstrom district_3.sqh
+engstrom district_engstrom_cruise01.cld
+engstrom district_engstrom_cruise01.d8m
+engstrom district_engstrom_cruise01.d8w
+engstrom district_engstrom_cruise01.ocl
+engstrom district_engstrom_cruise01.spl
 engstrom district_engstrom_r1.cld
 engstrom district_engstrom_r1.d8m
 engstrom district_engstrom_r1.d8w
@@ -559,15 +634,23 @@ engstrom district_engstrom_r1_rev.d8m
 engstrom district_engstrom_r1_rev.d8w
 engstrom district_engstrom_r1_rev.ocl
 engstrom district_engstrom_r1_rev.spl
+engstrom district_engstrom_r2.cld
+engstrom district_engstrom_r2.d8m
+engstrom district_engstrom_r2.d8w
+engstrom district_engstrom_r2.ocl
+engstrom district_engstrom_r2.spl
 engstrom district_engstrom_sprint01.cld
 engstrom district_engstrom_sprint01.d8m
 engstrom district_engstrom_sprint01.d8w
 engstrom district_engstrom_sprint01.ocl
 engstrom district_engstrom_sprint01.spl
 engstrom district_eve_dry.atm
+engstrom district_morn_dry.atm
+engstrom district_morn_wet.atm
 engstrom district_night_dry.atm
 engstrom district_noon_dry.atm
 engstrom district_shad_eve.shd
+engstrom district_shad_morn.shd
 engstrom district_shad_night.shd
 engstrom district_shad_noon.shd
 engstrom_cruise01_intro.cam
@@ -596,6 +679,8 @@ exhaust_borla_vs1.d8m
 exhaust_borla_vs2.d8m
 exhaust_borla_vs3.d8m
 exhaust_borla_vs4.d8m
+exhaust_borla_vs5.d8m
+exhaust_borla_vs6.d8m
 exhaust_chrome.ddt
 exhaust_chrome2.ddt
 exhaust_collidee.ocd
@@ -604,6 +689,7 @@ exhaust_dc_vs1.d8m
 exhaust_flame.d8m
 exhaust_hks_vs1.d8m
 exhaust_neon_vs1.ddt
+exhaust_rage_vs1.d8m
 exhaust_rage_vs2.d8m
 exhaust_rage_vs3.d8m
 exhaust_rage_vs4.d8m
@@ -871,6 +957,7 @@ mats\aros_vs7_rim.pmd
 mats\aros_vs8_rim.pmd
 mats\aros_vs9_rim.pmd
 mats\beech.pmd
+mats\beetle_body.pmd
 mats\beetle_glass.pmd
 mats\beetle_int.pmd
 mats\beetle_misc.pmd
@@ -1067,6 +1154,7 @@ mats\don_shad_wall4.pmd
 mats\don_shad_wall5.pmd
 mats\don_shad_wall6.pmd
 mats\don_shad_wall7.pmd
+mats\don_shadwall2.pmd
 mats\don_stone.pmd
 mats\don_timer.pmd
 mats\don_toolbox1.pmd
@@ -1111,6 +1199,7 @@ mats\evo8_primer.pmd
 mats\evo8_wheel.pmd
 mats\evo_glass_hlit.pmd
 mats\exhaust_black.pmd
+mats\exhaust_blue.pmd
 mats\exhaust_chrome.pmd
 mats\exhaust_chrome2.pmd
 mats\exhaust_flame.pmd
@@ -1329,6 +1418,33 @@ mats\s2000_wheel.pmd
 mats\scraper1.pmd
 mats\scrub.pmd
 mats\shiny_black.pmd
+mats\show2_bunting.pmd
+mats\show2_bunting1.pmd
+mats\show2_clouds.pmd
+mats\show2_door.pmd
+mats\show2_elec.pmd
+mats\show2_girder.pmd
+mats\show2_lamp.pmd
+mats\show2_lamp1.pmd
+mats\show2_light.pmd
+mats\show2_roof.pmd
+mats\show2_shadfloor.pmd
+mats\show2_shadroof1.pmd
+mats\show2_shadwall1.pmd
+mats\show2_shadwall3.pmd
+mats\show2_shadwall4.pmd
+mats\show2_shadwall7.pmd
+mats\show2_shadwall8.pmd
+mats\show2_signs.pmd
+mats\show2_usedcar.pmd
+mats\show2_wall.pmd
+mats\show2_wall1.pmd
+mats\show2_wall2.pmd
+mats\show2_wood.pmd
+mats\show_shadwall5.pmd
+mats\show_shadwall6.pmd
+mats\show_tyres.pmd
+mats\show_tyres1.pmd
 mats\smoke_tarmac.pmd
 mats\spike02.pmd
 mats\spoiler_brkt_vs1.pmd
@@ -1874,20 +1990,54 @@ mesh\300zx_spons.d8m
 mesh\300zx_sskirt_l.d8m
 mesh\300zx_sskirt_r.d8m
 mesh\350z_bonnet.d8m
+mesh\350z_bonnet_vs1.d8m
+mesh\350z_bonnet_vs2.d8m
+mesh\350z_bonnet_vs3.d8m
 mesh\350z_brklight.d8m
 mesh\350z_chass.d8m
+mesh\350z_chass_collidee.ocd
+mesh\350z_chass_shad.ocd
+mesh\350z_decal_checks_vs1.d8m
+mesh\350z_decal_crew_vs7.d8m
+mesh\350z_decal_fandf_vs5.d8m
+mesh\350z_decal_fandf_vs7.d8m
+mesh\350z_decal_tribal_vs6.d8m
 mesh\350z_fbump.d8m
+mesh\350z_fbump_vs1.d8m
+mesh\350z_fbump_vs2.d8m
+mesh\350z_fbump_vs3.d8m
 mesh\350z_lightson.d8m
 mesh\350z_rbump.d8m
+mesh\350z_rbump_vs1.d8m
+mesh\350z_rbump_vs2.d8m
+mesh\350z_rbump_vs3.d8m
 mesh\350z_revlight.d8m
 mesh\350z_root.d8m
+mesh\350z_spoiler_vs1.d8m
+mesh\350z_spoiler_vs10.d8m
+mesh\350z_spoiler_vs3.d8m
+mesh\350z_spoiler_vs4.d8m
+mesh\350z_spoiler_vs5.d8m
+mesh\350z_spoiler_vs7.d8m
+mesh\350z_spoiler_vs8.d8m
+mesh\350z_spoiler_vs9.d8m
 mesh\350z_spons.d8m
 mesh\350z_sskirt_l.d8m
 mesh\350z_sskirt_r.d8m
+mesh\350z_sskirt_vs1_l.d8m
+mesh\350z_sskirt_vs1_r.d8m
+mesh\350z_sskirt_vs2_l.d8m
+mesh\350z_sskirt_vs2_r.d8m
+mesh\350z_sskirt_vs3_l.d8m
+mesh\350z_sskirt_vs3_r.d8m
 mesh\ac_integra_bonnet.d8m
 mesh\ac_integra_bonnet_vs2.d8m
+mesh\ac_integra_bonnet_vs3.d8m
 mesh\ac_integra_brklight.d8m
 mesh\ac_integra_chass.d8m
+mesh\ac_integra_chass_collidee.ocd
+mesh\ac_integra_chass_shad.ocd
+mesh\ac_integra_decal_crew_vs2.d8m
 mesh\ac_integra_decal_tribal_vs7.d8m
 mesh\ac_integra_fbump.d8m
 mesh\ac_integra_fbump_vs1.d8m
@@ -1897,10 +2047,12 @@ mesh\ac_integra_lightson.d8m
 mesh\ac_integra_rbump.d8m
 mesh\ac_integra_rbump_vs1.d8m
 mesh\ac_integra_rbump_vs2.d8m
+mesh\ac_integra_rbump_vs3.d8m
 mesh\ac_integra_revlight.d8m
 mesh\ac_integra_root.d8m
 mesh\ac_integra_spoiler.d8m
 mesh\ac_integra_spoiler_vs4.d8m
+mesh\ac_integra_spoiler_vs5.d8m
 mesh\ac_integra_spoiler_vs8.d8m
 mesh\ac_integra_spons.d8m
 mesh\ac_integra_sskirt_l.d8m
@@ -1909,6 +2061,8 @@ mesh\ac_integra_sskirt_vs1_l.d8m
 mesh\ac_integra_sskirt_vs1_r.d8m
 mesh\ac_integra_sskirt_vs2_l.d8m
 mesh\ac_integra_sskirt_vs2_r.d8m
+mesh\ac_integra_sskirt_vs3_l.d8m
+mesh\ac_integra_sskirt_vs3_r.d8m
 mesh\ac_nsx_bonnet.d8m
 mesh\ac_nsx_brklight.d8m
 mesh\ac_nsx_chass.d8m
@@ -1924,11 +2078,28 @@ mesh\ac_nsx_sskirt_r.d8m
 mesh\beetle_bonnet.d8m
 mesh\beetle_brklight.d8m
 mesh\beetle_chass.d8m
+mesh\beetle_chass_collidee.ocd
+mesh\beetle_chass_shad.ocd
+mesh\beetle_decal_crew_vs7.d8m
 mesh\beetle_fbump.d8m
+mesh\beetle_fbump_vs1.d8m
+mesh\beetle_fbump_vs2.d8m
 mesh\beetle_lightson.d8m
 mesh\beetle_rbump.d8m
+mesh\beetle_rbump_vs1.d8m
+mesh\beetle_rbump_vs2.d8m
+mesh\beetle_rbump_vs3.d8m
 mesh\beetle_root.d8m
+mesh\beetle_spoiler_vs1.d8m
+mesh\beetle_spoiler_vs2.d8m
+mesh\beetle_spoiler_vs3.d8m
 mesh\beetle_spons.d8m
+mesh\beetle_sskirt_vs1_l.d8m
+mesh\beetle_sskirt_vs1_r.d8m
+mesh\beetle_sskirt_vs2_l.d8m
+mesh\beetle_sskirt_vs2_r.d8m
+mesh\beetle_sskirt_vs3_l.d8m
+mesh\beetle_sskirt_vs3_r.d8m
 mesh\beetle_wheel.d8m
 mesh\beetle_wheel_blur.d8m
 mesh\camaro70_bonnet.d8m
@@ -1965,7 +2136,11 @@ mesh\celica_2_chass_collidee.ocd
 mesh\celica_2_chass_shad.ocd
 mesh\celica_2_decal_checks_vs3.d8m
 mesh\celica_2_decal_fandf_vs2.d8m
+mesh\celica_2_decal_fandf_vs3.d8m
+mesh\celica_2_decal_fandf_vs7.d8m
 mesh\celica_2_decal_fandf_vs8.d8m
+mesh\celica_2_decal_tribal_vs4.d8m
+mesh\celica_2_decal_tribal_vs5.d8m
 mesh\celica_2_decal_tribal_vs6.d8m
 mesh\celica_2_fbump.d8m
 mesh\celica_2_fbump_vs1.d8m
@@ -1973,6 +2148,7 @@ mesh\celica_2_fbump_vs2.d8m
 mesh\celica_2_fbump_vs3.d8m
 mesh\celica_2_lightson.d8m
 mesh\celica_2_rbump.d8m
+mesh\celica_2_rbump_vs1.d8m
 mesh\celica_2_rbump_vs2.d8m
 mesh\celica_2_rbump_vs3.d8m
 mesh\celica_2_revlight.d8m
@@ -1980,7 +2156,10 @@ mesh\celica_2_root.d8m
 mesh\celica_2_spoiler.d8m
 mesh\celica_2_spoiler_vs1.d8m
 mesh\celica_2_spoiler_vs10.d8m
+mesh\celica_2_spoiler_vs3.d8m
 mesh\celica_2_spoiler_vs5.d8m
+mesh\celica_2_spoiler_vs7.d8m
+mesh\celica_2_spoiler_vs8.d8m
 mesh\celica_2_spons.d8m
 mesh\celica_2_sskirt_l.d8m
 mesh\celica_2_sskirt_r.d8m
@@ -2026,16 +2205,44 @@ mesh\charger_revlight.d8m
 mesh\charger_root.d8m
 mesh\charger_spons.d8m
 mesh\civic_97_bonnet.d8m
+mesh\civic_97_bonnet_vs1.d8m
+mesh\civic_97_bonnet_vs2.d8m
+mesh\civic_97_bonnet_vs3.d8m
 mesh\civic_97_brklight.d8m
 mesh\civic_97_chass.d8m
+mesh\civic_97_chass_collidee.ocd
+mesh\civic_97_chass_shad.ocd
+mesh\civic_97_decal_crew_vs7.d8m
+mesh\civic_97_decal_fandf_vs8.d8m
+mesh\civic_97_decal_tribal_vs1.d8m
+mesh\civic_97_decal_tribal_vs4.d8m
+mesh\civic_97_decal_tribal_vs5.d8m
 mesh\civic_97_fbump.d8m
+mesh\civic_97_fbump_vs1.d8m
+mesh\civic_97_fbump_vs2.d8m
+mesh\civic_97_fbump_vs3.d8m
 mesh\civic_97_lightson.d8m
 mesh\civic_97_rbump.d8m
+mesh\civic_97_rbump_vs1.d8m
+mesh\civic_97_rbump_vs2.d8m
+mesh\civic_97_rbump_vs3.d8m
 mesh\civic_97_revlight.d8m
 mesh\civic_97_root.d8m
+mesh\civic_97_spoiler_vs1.d8m
+mesh\civic_97_spoiler_vs10.d8m
+mesh\civic_97_spoiler_vs4.d8m
+mesh\civic_97_spoiler_vs6.d8m
+mesh\civic_97_spoiler_vs7.d8m
+mesh\civic_97_spoiler_vs8.d8m
 mesh\civic_97_spons.d8m
 mesh\civic_97_sskirt_l.d8m
 mesh\civic_97_sskirt_r.d8m
+mesh\civic_97_sskirt_vs1_l.d8m
+mesh\civic_97_sskirt_vs1_r.d8m
+mesh\civic_97_sskirt_vs2_l.d8m
+mesh\civic_97_sskirt_vs2_r.d8m
+mesh\civic_97_sskirt_vs3_l.d8m
+mesh\civic_97_sskirt_vs3_r.d8m
 mesh\civicr_bonnet.d8m
 mesh\civicr_brklight.d8m
 mesh\civicr_chass.d8m
@@ -2051,45 +2258,82 @@ mesh\civicr_sskirt_r.d8m
 mesh\clio_bonnet.d8m
 mesh\clio_brklight.d8m
 mesh\clio_chass.d8m
+mesh\clio_chass_collidee.ocd
+mesh\clio_chass_shad.ocd
 mesh\clio_decal_checks_vs2.d8m
 mesh\clio_fbump.d8m
 mesh\clio_fbump_vs1.d8m
+mesh\clio_fbump_vs2.d8m
+mesh\clio_fbump_vs3.d8m
 mesh\clio_lightson.d8m
 mesh\clio_rbump.d8m
+mesh\clio_rbump_vs1.d8m
+mesh\clio_rbump_vs2.d8m
 mesh\clio_rbump_vs3.d8m
 mesh\clio_revlight.d8m
 mesh\clio_root.d8m
+mesh\clio_spoiler_vs1.d8m
+mesh\clio_spoiler_vs4.d8m
 mesh\clio_spoiler_vs8.d8m
 mesh\clio_spons.d8m
 mesh\clio_sskirt_l.d8m
 mesh\clio_sskirt_r.d8m
+mesh\clio_sskirt_vs1_l.d8m
+mesh\clio_sskirt_vs1_r.d8m
 mesh\clio_sskirt_vs2_l.d8m
 mesh\clio_sskirt_vs2_r.d8m
 mesh\commodore_chass_collidee.ocd
 mesh\commodore_chass_shad.ocd
 mesh\corolla_bonnet.d8m
+mesh\corolla_bonnet_vs3.d8m
 mesh\corolla_brklight.d8m
 mesh\corolla_chass.d8m
+mesh\corolla_chass_collidee.ocd
+mesh\corolla_chass_shad.ocd
+mesh\corolla_decal_checks_vs2.d8m
+mesh\corolla_decal_crew_vs1.d8m
 mesh\corolla_fbump.d8m
+mesh\corolla_fbump_vs1.d8m
+mesh\corolla_fbump_vs2.d8m
+mesh\corolla_fbump_vs3.d8m
 mesh\corolla_lightson.d8m
 mesh\corolla_rbump.d8m
+mesh\corolla_rbump_vs1.d8m
+mesh\corolla_rbump_vs2.d8m
+mesh\corolla_rbump_vs3.d8m
 mesh\corolla_revlight.d8m
 mesh\corolla_root.d8m
 mesh\corolla_spoiler.d8m
+mesh\corolla_spoiler_vs1.d8m
+mesh\corolla_spoiler_vs2.d8m
+mesh\corolla_spoiler_vs3.d8m
+mesh\corolla_spoiler_vs4.d8m
+mesh\corolla_spoiler_vs6.d8m
+mesh\corolla_spoiler_vs8.d8m
 mesh\corolla_spons.d8m
+mesh\corolla_sskirt_vs1_l.d8m
+mesh\corolla_sskirt_vs1_r.d8m
+mesh\corolla_sskirt_vs2_l.d8m
+mesh\corolla_sskirt_vs2_r.d8m
+mesh\corolla_sskirt_vs3_l.d8m
+mesh\corolla_sskirt_vs3_r.d8m
 mesh\corolla_wheel.d8m
 mesh\corolla_wheel_blur.d8m
 mesh\corsa_bonnet.d8m
 mesh\corsa_bonnet_vs1.d8m
 mesh\corsa_bonnet_vs2.d8m
+mesh\corsa_bonnet_vs3.d8m
 mesh\corsa_brklight.d8m
 mesh\corsa_chass.d8m
 mesh\corsa_chass_collidee.ocd
 mesh\corsa_chass_shad.ocd
+mesh\corsa_decal_fandf_vs2.d8m
 mesh\corsa_decal_fandf_vs5.d8m
 mesh\corsa_decal_fandf_vs7.d8m
 mesh\corsa_decal_fandf_vs8.d8m
+mesh\corsa_decal_fandf_vs9.d8m
 mesh\corsa_decal_flames_vs1.d8m
+mesh\corsa_decal_tribal_vs5.d8m
 mesh\corsa_fbump.d8m
 mesh\corsa_fbump_vs1.d8m
 mesh\corsa_fbump_vs2.d8m
@@ -2197,6 +2441,7 @@ mesh\dodge_srt_brklight.d8m
 mesh\dodge_srt_chass.d8m
 mesh\dodge_srt_chass_collidee.ocd
 mesh\dodge_srt_chass_shad.ocd
+mesh\dodge_srt_decal_crew_vs2.d8m
 mesh\dodge_srt_decal_flames_vs1.d8m
 mesh\dodge_srt_decal_tribal_vs7.d8m
 mesh\dodge_srt_fbump.d8m
@@ -2237,6 +2482,7 @@ mesh\eclipse_chass_collidee.ocd
 mesh\eclipse_chass_shad.ocd
 mesh\eclipse_decal_checks_vs1.d8m
 mesh\eclipse_decal_checks_vs3.d8m
+mesh\eclipse_decal_crew_vs8.d8m
 mesh\eclipse_decal_fandf_vs1.d8m
 mesh\eclipse_decal_fandf_vs6.d8m
 mesh\eclipse_decal_fandf_vs7.d8m
@@ -2318,28 +2564,43 @@ mesh\falcon_sskirt_l.d8m
 mesh\falcon_sskirt_r.d8m
 mesh\focus_2_bonnet.d8m
 mesh\focus_2_bonnet_vs1.d8m
+mesh\focus_2_bonnet_vs2.d8m
 mesh\focus_2_bonnet_vs3.d8m
 mesh\focus_2_brklight.d8m
 mesh\focus_2_chass.d8m
 mesh\focus_2_chass_collidee.ocd
 mesh\focus_2_chass_shad.ocd
 mesh\focus_2_decal_crew_vs7.d8m
+mesh\focus_2_decal_fandf_vs10.d8m
 mesh\focus_2_decal_fandf_vs2.d8m
+mesh\focus_2_decal_fandf_vs5.d8m
+mesh\focus_2_decal_fandf_vs6.d8m
+mesh\focus_2_decal_tribal_vs3.d8m
+mesh\focus_2_decal_tribal_vs4.d8m
+mesh\focus_2_decal_tribal_vs5.d8m
 mesh\focus_2_fbump.d8m
+mesh\focus_2_fbump_vs1.d8m
 mesh\focus_2_fbump_vs2.d8m
 mesh\focus_2_fbump_vs3.d8m
 mesh\focus_2_lightson.d8m
 mesh\focus_2_rbump.d8m
+mesh\focus_2_rbump_vs1.d8m
 mesh\focus_2_rbump_vs2.d8m
 mesh\focus_2_rbump_vs3.d8m
 mesh\focus_2_revlight.d8m
 mesh\focus_2_root.d8m
 mesh\focus_2_spoiler.d8m
+mesh\focus_2_spoiler_vs1.d8m
+mesh\focus_2_spoiler_vs2.d8m
+mesh\focus_2_spoiler_vs5.d8m
 mesh\focus_2_spoiler_vs6.d8m
+mesh\focus_2_spoiler_vs8.d8m
 mesh\focus_2_spoiler_vs9.d8m
 mesh\focus_2_spons.d8m
 mesh\focus_2_sskirt_l.d8m
 mesh\focus_2_sskirt_r.d8m
+mesh\focus_2_sskirt_vs1_l.d8m
+mesh\focus_2_sskirt_vs1_r.d8m
 mesh\focus_2_sskirt_vs2_l.d8m
 mesh\focus_2_sskirt_vs2_r.d8m
 mesh\focus_2_sskirt_vs3_l.d8m
@@ -2347,15 +2608,36 @@ mesh\focus_2_sskirt_vs3_r.d8m
 mesh\focus_bonnet.d8m
 mesh\focus_brklight.d8m
 mesh\focus_chass.d8m
+mesh\focus_chass_collidee.ocd
+mesh\focus_chass_shad.ocd
+mesh\focus_decal_checks_vs1.d8m
 mesh\focus_fbump.d8m
+mesh\focus_fbump_vs1.d8m
+mesh\focus_fbump_vs2.d8m
+mesh\focus_fbump_vs3.d8m
 mesh\focus_lightson.d8m
 mesh\focus_rbump.d8m
+mesh\focus_rbump_vs1.d8m
+mesh\focus_rbump_vs2.d8m
+mesh\focus_rbump_vs3.d8m
 mesh\focus_revlight.d8m
 mesh\focus_root.d8m
 mesh\focus_spoiler.d8m
+mesh\focus_spoiler_vs1.d8m
+mesh\focus_spoiler_vs2.d8m
+mesh\focus_spoiler_vs3.d8m
+mesh\focus_spoiler_vs4.d8m
+mesh\focus_spoiler_vs6.d8m
+mesh\focus_spoiler_vs7.d8m
 mesh\focus_spons.d8m
 mesh\focus_sskirt_l.d8m
 mesh\focus_sskirt_r.d8m
+mesh\focus_sskirt_vs1_l.d8m
+mesh\focus_sskirt_vs1_r.d8m
+mesh\focus_sskirt_vs2_l.d8m
+mesh\focus_sskirt_vs2_r.d8m
+mesh\focus_sskirt_vs3_l.d8m
+mesh\focus_sskirt_vs3_r.d8m
 mesh\fto_bonnet.d8m
 mesh\fto_bonnet_vs1.d8m
 mesh\fto_bonnet_vs2.d8m
@@ -2365,6 +2647,7 @@ mesh\fto_chass.d8m
 mesh\fto_chass_collidee.ocd
 mesh\fto_chass_shad.ocd
 mesh\fto_decal_checks_vs1.d8m
+mesh\fto_decal_crew_vs8.d8m
 mesh\fto_decal_fandf_vs8.d8m
 mesh\fto_decal_tribal_vs1.d8m
 mesh\fto_decal_tribal_vs2.d8m
@@ -2412,14 +2695,18 @@ mesh\golf_fbump_vs3.d8m
 mesh\golf_lightson.d8m
 mesh\golf_rbump.d8m
 mesh\golf_rbump_vs1.d8m
+mesh\golf_rbump_vs2.d8m
 mesh\golf_rbump_vs3.d8m
 mesh\golf_revlight.d8m
 mesh\golf_root.d8m
+mesh\golf_spoiler_vs4.d8m
 mesh\golf_spoiler_vs5.d8m
 mesh\golf_spoiler_vs6.d8m
 mesh\golf_spoiler_vs7.d8m
 mesh\golf_spoiler_vs8.d8m
 mesh\golf_spons.d8m
+mesh\golf_sskirt_vs1_l.d8m
+mesh\golf_sskirt_vs1_r.d8m
 mesh\golf_sskirt_vs2_l.d8m
 mesh\golf_sskirt_vs2_r.d8m
 mesh\golf_sskirt_vs3_l.d8m
@@ -2487,6 +2774,29 @@ mesh\integra_sskirt_vs1_l.d8m
 mesh\integra_sskirt_vs1_r.d8m
 mesh\integra_sskirt_vs3_l.d8m
 mesh\integra_sskirt_vs3_r.d8m
+mesh\mats\350z_body.pmd
+mesh\mats\350z_brklight.pmd
+mesh\mats\350z_fuelcap.pmd
+mesh\mats\350z_glass.pmd
+mesh\mats\350z_hlit_glass.pmd
+mesh\mats\350z_interior.pmd
+mesh\mats\350z_light.pmd
+mesh\mats\350z_lightson.pmd
+mesh\mats\350z_misc.pmd
+mesh\mats\350z_misc2.pmd
+mesh\mats\350z_misc3.pmd
+mesh\mats\350z_primer.pmd
+mesh\mats\350z_revlight.pmd
+mesh\mats\ac_integra_body.pmd
+mesh\mats\ac_integra_brklight.pmd
+mesh\mats\ac_integra_glass.pmd
+mesh\mats\ac_integra_int.pmd
+mesh\mats\ac_integra_lightson.pmd
+mesh\mats\ac_integra_logo.pmd
+mesh\mats\ac_integra_misc.pmd
+mesh\mats\ac_integra_misc2.pmd
+mesh\mats\ac_integra_primer.pmd
+mesh\mats\ac_integra_revlight.pmd
 mesh\mats\aluminium.pmd
 mesh\mats\beetle_body.pmd
 mesh\mats\beetle_brklight.pmd
@@ -2496,8 +2806,68 @@ mesh\mats\beetle_misc.pmd
 mesh\mats\beetle_primer.pmd
 mesh\mats\black.pmd
 mesh\mats\black2.pmd
+mesh\mats\black3.pmd
 mesh\mats\brake_disc2.pmd
 mesh\mats\carbon.pmd
+mesh\mats\celica_2_black.pmd
+mesh\mats\celica_2_body.pmd
+mesh\mats\celica_2_brklight.pmd
+mesh\mats\celica_2_fuel_cap.pmd
+mesh\mats\celica_2_glass.pmd
+mesh\mats\celica_2_hlight_glass.pmd
+mesh\mats\celica_2_int.pmd
+mesh\mats\celica_2_lightson.pmd
+mesh\mats\celica_2_logo.pmd
+mesh\mats\celica_2_misc.pmd
+mesh\mats\celica_2_primer.pmd
+mesh\mats\celica_2_revlight.pmd
+mesh\mats\civic_97_body.pmd
+mesh\mats\civic_97_glass.pmd
+mesh\mats\civic_97_hlit_glass.pmd
+mesh\mats\civic_97_int.pmd
+mesh\mats\civic_97_light.pmd
+mesh\mats\civic_97_lightson.pmd
+mesh\mats\civic_97_logo.pmd
+mesh\mats\civic_97_misc.pmd
+mesh\mats\civic_97_misc2.pmd
+mesh\mats\civic_97_misc3.pmd
+mesh\mats\civic_97_primer.pmd
+mesh\mats\civic_97_revlight.pmd
+mesh\mats\clio_body.pmd
+mesh\mats\clio_brakelights.pmd
+mesh\mats\clio_glass.pmd
+mesh\mats\clio_headlight.pmd
+mesh\mats\clio_hlight.pmd
+mesh\mats\clio_int.pmd
+mesh\mats\clio_lightson.pmd
+mesh\mats\clio_logo.pmd
+mesh\mats\clio_misc.pmd
+mesh\mats\clio_primer.pmd
+mesh\mats\clio_revlight.pmd
+mesh\mats\corolla_body.pmd
+mesh\mats\corolla_brklight.pmd
+mesh\mats\corolla_glass.pmd
+mesh\mats\corolla_int.pmd
+mesh\mats\corolla_lightson.pmd
+mesh\mats\corolla_misc1.pmd
+mesh\mats\corolla_misc2.pmd
+mesh\mats\corolla_misc3.pmd
+mesh\mats\corolla_primer.pmd
+mesh\mats\corolla_revlight.pmd
+mesh\mats\corrado_glass.pmd
+mesh\mats\corrado_lights.pmd
+mesh\mats\corrado_logo.pmd
+mesh\mats\corrado_misc.pmd
+mesh\mats\corsa_body.pmd
+mesh\mats\corsa_brakelights.pmd
+mesh\mats\corsa_glass.pmd
+mesh\mats\corsa_hlight.pmd
+mesh\mats\corsa_int.pmd
+mesh\mats\corsa_lightson.pmd
+mesh\mats\corsa_logo.pmd
+mesh\mats\corsa_misc.pmd
+mesh\mats\corsa_primer.pmd
+mesh\mats\corsa_revlight.pmd
 mesh\mats\crx_body.pmd
 mesh\mats\crx_brklight.pmd
 mesh\mats\crx_glass.pmd
@@ -2549,15 +2919,141 @@ mesh\mats\decal_tribal_vs5.pmd
 mesh\mats\decal_tribal_vs6.pmd
 mesh\mats\decal_tribal_vs7.pmd
 mesh\mats\decal_tribal_vs8.pmd
+mesh\mats\dodge_srt_black.pmd
+mesh\mats\dodge_srt_body.pmd
+mesh\mats\dodge_srt_brklight.pmd
+mesh\mats\dodge_srt_glass.pmd
+mesh\mats\dodge_srt_hlight.pmd
+mesh\mats\dodge_srt_int.pmd
+mesh\mats\dodge_srt_lightson.pmd
+mesh\mats\dodge_srt_logo.pmd
+mesh\mats\dodge_srt_misc.pmd
+mesh\mats\dodge_srt_misc1.pmd
+mesh\mats\dodge_srt_primer.pmd
+mesh\mats\dodge_srt_revlight.pmd
+mesh\mats\ecliipse_int.pmd
+mesh\mats\eclipse_alpha.pmd
+mesh\mats\eclipse_badge1.pmd
+mesh\mats\eclipse_body.pmd
+mesh\mats\eclipse_brklight.pmd
+mesh\mats\eclipse_glass.pmd
+mesh\mats\eclipse_lights.pmd
+mesh\mats\eclipse_lightson.pmd
+mesh\mats\eclipse_misc.pmd
+mesh\mats\eclipse_plates.pmd
+mesh\mats\eclipse_primer.pmd
+mesh\mats\eclipse_rearligt.pmd
+mesh\mats\eclipse_revlight.pmd
+mesh\mats\engine_bay.pmd
 mesh\mats\enginebay.pmd
 mesh\mats\fbump.pmd
+mesh\mats\focus_2_body.pmd
+mesh\mats\focus_2_brklight.pmd
+mesh\mats\focus_2_glass.pmd
+mesh\mats\focus_2_hlit_glass.pmd
+mesh\mats\focus_2_int.pmd
+mesh\mats\focus_2_lighton.pmd
+mesh\mats\focus_2_misc.pmd
+mesh\mats\focus_2_misc_alpha.pmd
+mesh\mats\focus_2_primer.pmd
+mesh\mats\focus_2_revlight.pmd
+mesh\mats\focus_body.pmd
+mesh\mats\focus_brklight.pmd
+mesh\mats\focus_glass.pmd
+mesh\mats\focus_hlight_master.pmd
+mesh\mats\focus_hlit_glass.pmd
+mesh\mats\focus_int.pmd
+mesh\mats\focus_lightson_front.pmd
+mesh\mats\focus_lightson_rear.pmd
+mesh\mats\focus_logo.pmd
+mesh\mats\focus_misc.pmd
+mesh\mats\focus_misc2.pmd
+mesh\mats\focus_misc3.pmd
+mesh\mats\focus_primer.pmd
+mesh\mats\focus_revlight.pmd
+mesh\mats\fto_body.pmd
+mesh\mats\fto_brklight.pmd
+mesh\mats\fto_glass.pmd
+mesh\mats\fto_hlight_glass.pmd
+mesh\mats\fto_hlit_glass.pmd
+mesh\mats\fto_int.pmd
+mesh\mats\fto_lightson_front.pmd
+mesh\mats\fto_lightson_rear.pmd
+mesh\mats\fto_logo.pmd
+mesh\mats\fto_misc.pmd
+mesh\mats\fto_misc2.pmd
+mesh\mats\fto_misc3.pmd
+mesh\mats\fto_primer.pmd
+mesh\mats\fto_revlight.pmd
+mesh\mats\gen_under.pmd
+mesh\mats\golf_body.pmd
+mesh\mats\golf_brklight.pmd
+mesh\mats\golf_glass.pmd
+mesh\mats\golf_hlight_glass.pmd
+mesh\mats\golf_int.pmd
+mesh\mats\golf_lightson.pmd
+mesh\mats\golf_logo.pmd
+mesh\mats\golf_misc.pmd
+mesh\mats\golf_primer.pmd
+mesh\mats\golf_revlight.pmd
+mesh\mats\gt_under.pmd
 mesh\mats\gtr_under.pmd
+mesh\mats\hlights_base.pmd
 mesh\mats\hlit_glass.pmd
+mesh\mats\imp1_wheel.pmd
+mesh\mats\imp1_wheel_blur.pmd
+mesh\mats\imp_body.pmd
+mesh\mats\imp_brklight.pmd
+mesh\mats\imp_glass.pmd
+mesh\mats\imp_int.pmd
+mesh\mats\imp_lightson.pmd
+mesh\mats\imp_logo.pmd
+mesh\mats\imp_misc1.pmd
+mesh\mats\imp_noplate.pmd
+mesh\mats\imp_primer.pmd
+mesh\mats\imp_revlight.pmd
 mesh\mats\lightson.pmd
 mesh\mats\mesh.pmd
 mesh\mats\mirror.pmd
+mesh\mats\misc_2.pmd
+mesh\mats\mr2_body.pmd
+mesh\mats\mr2_brklight.pmd
+mesh\mats\mr2_fuel_cap.pmd
+mesh\mats\mr2_glass.pmd
+mesh\mats\mr2_int.pmd
+mesh\mats\mr2_lightson_front.pmd
+mesh\mats\mr2_lightson_rear.pmd
+mesh\mats\mr2_logo.pmd
+mesh\mats\mr2_misc.pmd
+mesh\mats\mr2_misc2.pmd
+mesh\mats\mr2_primer.pmd
+mesh\mats\mx5_body.pmd
+mesh\mats\mx5_brklight.pmd
+mesh\mats\mx5_glass.pmd
+mesh\mats\mx5_int.pmd
+mesh\mats\mx5_lightson_front.pmd
+mesh\mats\mx5_lightson_rear.pmd
+mesh\mats\mx5_logo.pmd
+mesh\mats\mx5_misc.pmd
+mesh\mats\mx5_noplate.pmd
+mesh\mats\mx5_primer.pmd
+mesh\mats\mx5_revlight.pmd
+mesh\mats\mx5_roof.pmd
+mesh\mats\neon_body.pmd
+mesh\mats\neon_brklight.pmd
+mesh\mats\neon_glass.pmd
+mesh\mats\neon_int.pmd
+mesh\mats\neon_lightson.pmd
+mesh\mats\neon_logo.pmd
+mesh\mats\neon_misc.pmd
+mesh\mats\neon_numplate.pmd
+mesh\mats\neon_primer.pmd
+mesh\mats\neon_revlight.pmd
+mesh\mats\new_mesh.pmd
+mesh\mats\no_enginebay.pmd
 mesh\mats\no_fbump.pmd
 mesh\mats\no_rbump.pmd
+mesh\mats\number_plate.pmd
 mesh\mats\peugeot_206_body.pmd
 mesh\mats\peugeot_206_fuelcap.pmd
 mesh\mats\peugeot_206_glass.pmd
@@ -2571,22 +3067,47 @@ mesh\mats\peugeot_206_primer.pmd
 mesh\mats\peugeot_206_revlight.pmd
 mesh\mats\peugeot_206_wheel.pmd
 mesh\mats\peugeot_int.pmd
+mesh\mats\poo2.pmd
 mesh\mats\puegeot_206_brklight.pmd
 mesh\mats\puegeot_206_lightson.pmd
 mesh\mats\puegeot_206_logo2.pmd
+mesh\mats\rbump.pmd
 mesh\mats\rubber.pmd
+mesh\mats\s2000_body.pmd
+mesh\mats\s2000_brklight.pmd
+mesh\mats\s2000_glass.pmd
+mesh\mats\s2000_hlight_glass.pmd
+mesh\mats\s2000_int.pmd
+mesh\mats\s2000_lightson.pmd
+mesh\mats\s2000_logo.pmd
+mesh\mats\s2000_misc.pmd
+mesh\mats\s2000_primer.pmd
+mesh\mats\s2000_revlight.pmd
+mesh\mats\shiny_black.pmd
+mesh\mats\spoiler_brkt_vs1.pmd
 mesh\mats\tyre_16.pmd
 mesh\mats\tyre_16_blur.pmd
+mesh\mats\uni_spoiler_brkts.pmd
+mesh\mats\vw_corrado_body.pmd
+mesh\mats\vw_corrado_brklight.pmd
+mesh\mats\vw_corrado_glass.pmd
+mesh\mats\vw_corrado_int.pmd
+mesh\mats\vw_corrado_lightson_front.pmd
+mesh\mats\vw_corrado_lightson_rear.pmd
+mesh\mats\vw_corrado_primer.pmd
+mesh\mats\vw_corrado_revlight.pmd
 mesh\mats\wh_black.pmd
 mesh\mats\wh_crx_blur.pmd
 mesh\mats\wh_crx_blur_s.pmd
 mesh\mats\wh_crx_lod.pmd
+mesh\mats\wh_imp1_blur_s.pmd
 mesh\mats\wh_peugeot_206_blur.pmd
 mesh\mats\wh_peugeot_206_blur_s.pmd
 mesh\mats\wheel_beetle.pmd
 mesh\mats\wheel_beetle_b.pmd
 mesh\mats\wheel_beetle_bs.pmd
 mesh\mats\wheel_bl_crx.pmd
+mesh\mats\wingswest_logo.pmd
 mesh\monaro_bonnet.d8m
 mesh\monaro_brklight.d8m
 mesh\monaro_chass.d8m
@@ -2599,17 +3120,26 @@ mesh\monaro_spons.d8m
 mesh\monaro_sskirt_l.d8m
 mesh\monaro_sskirt_r.d8m
 mesh\mr2_bonnet.d8m
+mesh\mr2_bonnet_vs1.d8m
 mesh\mr2_brklights.d8m
 mesh\mr2_chass.d8m
+mesh\mr2_chass_collidee.ocd
+mesh\mr2_chass_shad.ocd
+mesh\mr2_decal_crew_vs1.d8m
 mesh\mr2_fbump.d8m
+mesh\mr2_fbump_vs2.d8m
 mesh\mr2_lightson.d8m
 mesh\mr2_rbump.d8m
+mesh\mr2_rbump_vs1.d8m
 mesh\mr2_revlight.d8m
 mesh\mr2_root.d8m
 mesh\mr2_spoiler.d8m
+mesh\mr2_spoiler_vs9.d8m
 mesh\mr2_spons.d8m
 mesh\mr2_sskirt_l.d8m
 mesh\mr2_sskirt_r.d8m
+mesh\mr2_sskirt_vs1_l.d8m
+mesh\mr2_sskirt_vs1_r.d8m
 mesh\mrs_bonnet.d8m
 mesh\mrs_brklight.d8m
 mesh\mrs_chass.d8m
@@ -2643,23 +3173,38 @@ mesh\mustang68_root.d8m
 mesh\mustang68_spons.d8m
 mesh\mx5_bonnet.d8m
 mesh\mx5_bonnet_vs1.d8m
+mesh\mx5_bonnet_vs3.d8m
 mesh\mx5_brklight.d8m
 mesh\mx5_chass.d8m
 mesh\mx5_chass_collidee.ocd
 mesh\mx5_chass_shad.ocd
 mesh\mx5_decal_checks_vs2.d8m
+mesh\mx5_decal_fandf_vs5.d8m
+mesh\mx5_decal_flames_vs1.d8m
+mesh\mx5_decal_tribal_vs3.d8m
 mesh\mx5_fbump.d8m
 mesh\mx5_fbump_vs2.d8m
+mesh\mx5_fbump_vs3.d8m
 mesh\mx5_lightson.d8m
 mesh\mx5_rbump.d8m
+mesh\mx5_rbump_vs1.d8m
 mesh\mx5_rbump_vs2.d8m
+mesh\mx5_rbump_vs3.d8m
 mesh\mx5_revlight.d8m
 mesh\mx5_root.d8m
 mesh\mx5_spoiler.d8m
+mesh\mx5_spoiler_vs2.d8m
+mesh\mx5_spoiler_vs3.d8m
 mesh\mx5_spoiler_vs4.d8m
+mesh\mx5_spoiler_vs8.d8m
+mesh\mx5_spoiler_vs9.d8m
 mesh\mx5_spons.d8m
+mesh\mx5_sskirt_vs1_l.d8m
+mesh\mx5_sskirt_vs1_r.d8m
 mesh\mx5_sskirt_vs2_l.d8m
 mesh\mx5_sskirt_vs2_r.d8m
+mesh\mx5_sskirt_vs3_l.d8m
+mesh\mx5_sskirt_vs3_r.d8m
 mesh\neon_bonnet.d8m
 mesh\neon_bonnet_vs1.d8m
 mesh\neon_bonnet_vs2.d8m
@@ -2669,6 +3214,7 @@ mesh\neon_chass.d8m
 mesh\neon_chass_collidee.ocd
 mesh\neon_chass_shad.ocd
 mesh\neon_decal_checks_vs2.d8m
+mesh\neon_decal_crew_vs2.d8m
 mesh\neon_decal_fandf_vs3.d8m
 mesh\neon_decal_fandf_vs4.d8m
 mesh\neon_decal_fandf_vs7.d8m
@@ -2690,6 +3236,7 @@ mesh\neon_spoiler.d8m
 mesh\neon_spoiler_vs10.d8m
 mesh\neon_spoiler_vs2.d8m
 mesh\neon_spoiler_vs3.d8m
+mesh\neon_spoiler_vs5.d8m
 mesh\neon_spoiler_vs6.d8m
 mesh\neon_spoiler_vs8.d8m
 mesh\neon_spons.d8m
@@ -2714,17 +3261,21 @@ mesh\nsx_sskirt_l.d8m
 mesh\nsx_sskirt_r.d8m
 mesh\peugeot_206_bonnet.d8m
 mesh\peugeot_206_bonnet_vs1.d8m
+mesh\peugeot_206_bonnet_vs2.d8m
 mesh\peugeot_206_bonnet_vs3.d8m
 mesh\peugeot_206_chass.d8m
 mesh\peugeot_206_chass_collidee.ocd
 mesh\peugeot_206_chass_shad.ocd
+mesh\peugeot_206_decal_checks_vs2.d8m
 mesh\peugeot_206_decal_crew_vs7.d8m
 mesh\peugeot_206_decal_fandf_vs1.d8m
 mesh\peugeot_206_decal_fandf_vs7.d8m
 mesh\peugeot_206_decal_fandf_vs8.d8m
+mesh\peugeot_206_decal_flames_vs1.d8m
 mesh\peugeot_206_fbump.d8m
 mesh\peugeot_206_fbump_vs1.d8m
 mesh\peugeot_206_fbump_vs2.d8m
+mesh\peugeot_206_fbump_vs3.d8m
 mesh\peugeot_206_lightson.d8m
 mesh\peugeot_206_rbump.d8m
 mesh\peugeot_206_rbump_vs1.d8m
@@ -2734,9 +3285,12 @@ mesh\peugeot_206_revlight.d8m
 mesh\peugeot_206_root.d8m
 mesh\peugeot_206_spoiler.d8m
 mesh\peugeot_206_spoiler_vs1.d8m
+mesh\peugeot_206_spoiler_vs2.d8m
 mesh\peugeot_206_spoiler_vs4.d8m
+mesh\peugeot_206_spoiler_vs5.d8m
 mesh\peugeot_206_spoiler_vs6.d8m
 mesh\peugeot_206_spoiler_vs7.d8m
+mesh\peugeot_206_spoiler_vs8.d8m
 mesh\peugeot_206_spons.d8m
 mesh\peugeot_sskirt_l.d8m
 mesh\peugeot_sskirt_r.d8m
@@ -2744,6 +3298,8 @@ mesh\peugeot_sskirt_vs1_l.d8m
 mesh\peugeot_sskirt_vs1_r.d8m
 mesh\peugeot_sskirt_vs2_l.d8m
 mesh\peugeot_sskirt_vs2_r.d8m
+mesh\peugeot_sskirt_vs3_l.d8m
+mesh\peugeot_sskirt_vs3_r.d8m
 mesh\prelude_bonnet.d8m
 mesh\prelude_bonnet_vs1.d8m
 mesh\prelude_bonnet_vs2.d8m
@@ -2883,14 +3439,38 @@ mesh\rx8_spons.d8m
 mesh\rx8_wheel.d8m
 mesh\rx8_wheel_blur.d8m
 mesh\s2000_bonnet.d8m
+mesh\s2000_bonnet_vs2.d8m
+mesh\s2000_bonnet_vs3.d8m
 mesh\s2000_brklight.d8m
 mesh\s2000_chass.d8m
+mesh\s2000_chass_collidee.ocd
+mesh\s2000_chass_shad.ocd
+mesh\s2000_decal_fandf_vs7.d8m
+mesh\s2000_decal_tribal_vs4.d8m
+mesh\s2000_decal_tribal_vs6.d8m
+mesh\s2000_decal_tribal_vs8.d8m
 mesh\s2000_fbump.d8m
+mesh\s2000_fbump_vs1.d8m
+mesh\s2000_fbump_vs2.d8m
+mesh\s2000_fbump_vs3.d8m
 mesh\s2000_lightson.d8m
 mesh\s2000_rbump.d8m
+mesh\s2000_rbump_vs2.d8m
+mesh\s2000_rbump_vs3.d8m
 mesh\s2000_revlight.d8m
 mesh\s2000_root.d8m
+mesh\s2000_spoiler_vs10.d8m
+mesh\s2000_spoiler_vs4.d8m
+mesh\s2000_spoiler_vs7.d8m
+mesh\s2000_spoiler_vs8.d8m
+mesh\s2000_spoiler_vs9.d8m
 mesh\s2000_spons.d8m
+mesh\s2000_sskirt_vs1_l.d8m
+mesh\s2000_sskirt_vs1_r.d8m
+mesh\s2000_sskirt_vs2_l.d8m
+mesh\s2000_sskirt_vs2_r.d8m
+mesh\s2000_sskirt_vs3_l.d8m
+mesh\s2000_sskirt_vs3_r.d8m
 mesh\sskirt_r.d8m
 mesh\supra_bonnet.d8m
 mesh\supra_brklight.d8m
@@ -2950,15 +3530,40 @@ mesh\viper_spons.d8m
 mesh\viper_sskirt_l.d8m
 mesh\viper_sskirt_r.d8m
 mesh\vw_corrado_bonnet.d8m
+mesh\vw_corrado_bonnet_vs1.d8m
+mesh\vw_corrado_bonnet_vs2.d8m
+mesh\vw_corrado_bonnet_vs3.d8m
 mesh\vw_corrado_brklight.d8m
 mesh\vw_corrado_chass.d8m
+mesh\vw_corrado_chass_collidee.ocd
+mesh\vw_corrado_chass_shad.ocd
+mesh\vw_corrado_decal_checks_vs2.d8m
+mesh\vw_corrado_decal_checks_vs3.d8m
+mesh\vw_corrado_decal_fandf_vs1.d8m
+mesh\vw_corrado_decal_tribal_vs4.d8m
+mesh\vw_corrado_decal_tribal_vs7.d8m
 mesh\vw_corrado_fbump.d8m
+mesh\vw_corrado_fbump_vs1.d8m
+mesh\vw_corrado_fbump_vs2.d8m
+mesh\vw_corrado_fbump_vs3.d8m
 mesh\vw_corrado_lightson.d8m
 mesh\vw_corrado_rbump.d8m
+mesh\vw_corrado_rbump_vs1.d8m
+mesh\vw_corrado_rbump_vs2.d8m
+mesh\vw_corrado_rbump_vs3.d8m
 mesh\vw_corrado_revlight.d8m
 mesh\vw_corrado_root.d8m
 mesh\vw_corrado_spoiler.d8m
+mesh\vw_corrado_spoiler_vs1.d8m
+mesh\vw_corrado_spoiler_vs2.d8m
+mesh\vw_corrado_spoiler_vs3.d8m
 mesh\vw_corrado_spons.d8m
+mesh\vw_corrado_sskirt_vs1_l.d8m
+mesh\vw_corrado_sskirt_vs1_r.d8m
+mesh\vw_corrado_sskirt_vs2_l.d8m
+mesh\vw_corrado_sskirt_vs2_r.d8m
+mesh\vw_corrado_sskirt_vs3_l.d8m
+mesh\vw_corrado_sskirt_vs3_r.d8m
 mesh\wheel_3000gt.d8m
 mesh\wheel_3000gt_blur.d8m
 mesh\wheel_300zx.d8m
@@ -3253,15 +3858,33 @@ skid_a_01.ddt
 skidsand_a_01.ddt
 smk_a_01.ddt
 southside beach.tdf
+southside beach_0.pqh
+southside beach_0.sqh
 southside beach_1.pqh
 southside beach_1.sqh
+southside beach_3.pqh
+southside beach_3.sqh
+southside beach_morn_dry.atm
+southside beach_night_dry.atm
 southside beach_noon_dry.atm
+southside beach_shad_morn.shd
+southside beach_shad_night.shd
 southside beach_shad_noon.shd
+southside beach_southside_p2p01_rev.cld
+southside beach_southside_p2p01_rev.d8m
+southside beach_southside_p2p01_rev.d8w
+southside beach_southside_p2p01_rev.ocl
+southside beach_southside_p2p01_rev.spl
 southside beach_southside_r3.cld
 southside beach_southside_r3.d8m
 southside beach_southside_r3.d8w
 southside beach_southside_r3.ocl
 southside beach_southside_r3.spl
+southside beach_southside_r3_rev.cld
+southside beach_southside_r3_rev.d8m
+southside beach_southside_r3_rev.d8w
+southside beach_southside_r3_rev.ocl
+southside beach_southside_r3_rev.spl
 southside_cruise01_intro.cam
 southside_p2p01_intro.cam
 southside_p2p01_rev_intro.cam
@@ -3313,6 +3936,7 @@ sun01_env_red1.ddt
 sun_flare04.ddt
 sun_flare05.ddt
 sun_flare06.ddt
+sun_flare07.ddt
 sunred.ddt
 surfaceeffects.txt
 suspensions.txt
@@ -3388,6 +4012,7 @@ textures\camaro_misc1.ddt
 textures\camaro_misc2.ddt
 textures\camaro_revlight.ddt
 textures\camaro_scratched.ddt
+textures\carbon.ddt
 textures\celica_2_body.ddt
 textures\celica_2_brklight.ddt
 textures\celica_2_fuel_cap.ddt
@@ -3416,6 +4041,7 @@ textures\charger_wheel.ddt
 textures\charger_wheel_blur.ddt
 textures\civic_97_body.ddt
 textures\civic_97_body_scratched.ddt
+textures\civic_97_light.ddt
 textures\civic_97_lightson.ddt
 textures\civic_97_logo.ddt
 textures\civic_97_misc.ddt
@@ -3683,6 +4309,7 @@ textures\neon_misc.ddt
 textures\neon_numplate.ddt
 textures\neon_revlight.ddt
 textures\new_clio_headlight.ddt
+textures\new_mesh.ddt
 textures\nissan_350z_scratched.ddt
 textures\no_enginebay.ddt
 textures\no_fbump.ddt
@@ -3697,6 +4324,7 @@ textures\nsx_revlight.ddt
 textures\nsx_scratch_body.ddt
 textures\nsx_wheel.ddt
 textures\nsx_wheel_blur.ddt
+textures\numberplate.ddt
 textures\peugeot_206_body.ddt
 textures\peugeot_206_fuelcap.ddt
 textures\peugeot_206_hlit.ddt
@@ -3791,6 +4419,7 @@ textures\transam_body.ddt
 textures\tyre_16.ddt
 textures\tyre_16_blur.ddt
 textures\ui_acura.ddt
+textures\ui_aem_on.ddt
 textures\ui_aero_off.ddt
 textures\ui_aero_on.ddt
 textures\ui_airfilter_off.ddt
@@ -3862,6 +4491,7 @@ textures\ui_botarrow.ddt
 textures\ui_brake_off.ddt
 textures\ui_brake_on.ddt
 textures\ui_brembo_on.ddt
+textures\ui_bridgestone_on.ddt
 textures\ui_calendar_select.ddt
 textures\ui_chevy.ddt
 textures\ui_chooselogo_01.ddt
@@ -3936,6 +4566,7 @@ textures\ui_dial_turbo.ddt
 textures\ui_dials_off.ddt
 textures\ui_dials_on.ddt
 textures\ui_dodge.ddt
+textures\ui_ebc_on.ddt
 textures\ui_enkei_off.ddt
 textures\ui_enkei_on.ddt
 textures\ui_enkei_vs1.ddt
@@ -3944,6 +4575,7 @@ textures\ui_enkei_vs3.ddt
 textures\ui_enkei_vs4.ddt
 textures\ui_enkei_vs5.ddt
 textures\ui_enkei_vs6.ddt
+textures\ui_falken_on.ddt
 textures\ui_fbump_off.ddt
 textures\ui_fbump_on.ddt
 textures\ui_ferodo_on.ddt
@@ -3974,6 +4606,7 @@ textures\ui_gridwalk_select.ddt
 textures\ui_hks_off.ddt
 textures\ui_hks_on.ddt
 textures\ui_holden.ddt
+textures\ui_holley_on.ddt
 textures\ui_honda.ddt
 textures\ui_horn_off.ddt
 textures\ui_horn_on.ddt
@@ -4060,6 +4693,7 @@ textures\ui_no.ddt
 textures\ui_nos_on.ddt
 textures\ui_nuuk_off.ddt
 textures\ui_nuuk_on.ddt
+textures\ui_nx_on.ddt
 textures\ui_online.ddt
 textures\ui_opel.ddt
 textures\ui_opts_minus.ddt
@@ -4205,6 +4839,7 @@ textures\ui_video_slowmo_on.ddt
 textures\ui_volkswagen.ddt
 textures\ui_yes.ddt
 textures\ui_yokohama_on.ddt
+textures\ui_zex_on.ddt
 textures\uni_spoiler_brkt.ddt
 textures\vette_2_body.ddt
 textures\vette_2_brklight.ddt
@@ -4354,7 +4989,10 @@ ui_angelsuper_centre02.d8m
 ui_angelsuper_centre03.d8m
 ui_angelsuper_centre04.d8m
 ui_angelsuper_centre05.d8m
+ui_angelsuper_map01.d8m
 ui_angelsuper_map02.d8m
+ui_angelsuper_map03.d8m
+ui_angelsuper_p2p01.d8m
 ui_angelsuper_yellow01.d8m
 ui_angelsuper_yellow02.d8m
 ui_angelsuper_yellow03.d8m
@@ -4377,6 +5015,7 @@ ui_angelwestside_centre02.d8m
 ui_angelwestside_centre03.d8m
 ui_angelwestside_centre04.d8m
 ui_angelwestside_centre05.d8m
+ui_angelwestside_mapp2p01.d8m
 ui_angelwestside_yellow01.d8m
 ui_angelwestside_yellow02.d8m
 ui_angelwestside_yellow03.d8m
@@ -4389,10 +5028,12 @@ ui_campbell_centre04.d8m
 ui_campbell_centre05.d8m
 ui_campbell_map01.d8m
 ui_campbell_map02.boh
+ui_campbell_map02.d8m
 ui_campbell_map03.boh
 ui_campbell_map04.boh
 ui_campbell_p2p01_gui.boh
 ui_campbell_p2p01_map.boh
+ui_campbell_p2p01_map01.d8m
 ui_campbell_p2p01_rev_gui.boh
 ui_campbell_p2p01_rev_map.boh
 ui_campbell_r1_gui.boh
@@ -4434,9 +5075,11 @@ ui_downtown_centre05.d8m
 ui_downtown_map01.boh
 ui_downtown_map01.d8m
 ui_downtown_map02.boh
+ui_downtown_map02.d8m
 ui_downtown_map03.boh
 ui_downtown_map04.boh
 ui_downtown_map09.boh
+ui_downtown_map09.d8m
 ui_downtown_p2p_gui.boh
 ui_downtown_p2p_map.boh
 ui_downtown_p2p_rev_gui.boh
@@ -4525,6 +5168,7 @@ ui_engstrom_p2p01_map.boh
 ui_engstrom_p2p01_rev_gui.boh
 ui_engstrom_p2p01_rev_map.boh
 ui_engstrom_r01_map.d8m
+ui_engstrom_r02_map.d8m
 ui_engstrom_r1_gui.boh
 ui_engstrom_r1_map.boh
 ui_engstrom_r1_rev_gui.boh
@@ -4581,6 +5225,7 @@ ui_southside_map02.boh
 ui_southside_map03.boh
 ui_southside_map03.d8m
 ui_southside_map04.boh
+ui_southside_map05.d8m
 ui_southside_p2p01_gui.boh
 ui_southside_p2p01_map.boh
 ui_southside_p2p01_rev_gui.boh
@@ -5301,6 +5946,7 @@ windows\german\viewhiscores.ger
 windows\german\wheelcolourmenu.ger
 windows\german\wheelsmenu.ger
 windows\hornmenu.ui
+windows\hud_challenge_results.ui
 windows\hud_cruise.ui
 windows\hud_cruise_results.ui
 windows\hud_pause.ui
@@ -5596,6 +6242,7 @@ windows\russian\extras.rus
 windows\russian\garageload.rus
 windows\russian\gearboxmenu.rus
 windows\russian\hornmenu.rus
+windows\russian\hud_challenge_results.rus
 windows\russian\hud_cruise.rus
 windows\russian\hud_cruise_results.rus
 windows\russian\hud_pause.rus
