@@ -123,6 +123,11 @@ angel superspeedway_speedway_p2p.d8m
 angel superspeedway_speedway_p2p.d8w
 angel superspeedway_speedway_p2p.ocl
 angel superspeedway_speedway_p2p.spl
+angel superspeedway_speedway_r1.cld
+angel superspeedway_speedway_r1.d8m
+angel superspeedway_speedway_r1.d8w
+angel superspeedway_speedway_r1.ocl
+angel superspeedway_speedway_r1.spl
 angel superspeedway_speedway_r1_rev.cld
 angel superspeedway_speedway_r1_rev.d8m
 angel superspeedway_speedway_r1_rev.d8w
@@ -522,6 +527,8 @@ don_windowdirt.ddt
 don_windowdirt1.ddt
 downshop_01_lit.ddt
 downtown angel city.tdf
+downtown angel city_0.pqh
+downtown angel city_0.sqh
 downtown angel city_1.pqh
 downtown angel city_1.sqh
 downtown angel city_3.pqh
@@ -551,8 +558,15 @@ downtown angel city_downtown_r2_rev.d8m
 downtown angel city_downtown_r2_rev.d8w
 downtown angel city_downtown_r2_rev.ocl
 downtown angel city_downtown_r2_rev.spl
+downtown angel city_downtown_r3.cld
+downtown angel city_downtown_r3.d8m
+downtown angel city_downtown_r3.d8w
+downtown angel city_downtown_r3.ocl
+downtown angel city_downtown_r3.spl
+downtown angel city_morn_dry.atm
 downtown angel city_night_dry.atm
 downtown angel city_noon_dry.atm
+downtown angel city_shad_morn.shd
 downtown angel city_shad_night.shd
 downtown angel city_shad_noon.shd
 downtown_cruise01_intro.cam
@@ -646,6 +660,8 @@ e3unlock.txt
 east angel island.tdf
 east angel island_1.pqh
 east angel island_1.sqh
+east angel island_2.pqh
+east angel island_2.sqh
 east angel island_east_angel_cruise01.cld
 east angel island_east_angel_cruise01.d8m
 east angel island_east_angel_cruise01.d8w
@@ -661,7 +677,14 @@ east angel island_east_angel_r3.d8m
 east angel island_east_angel_r3.d8w
 east angel island_east_angel_r3.ocl
 east angel island_east_angel_r3.spl
+east angel island_east_angel_r3_rev.cld
+east angel island_east_angel_r3_rev.d8m
+east angel island_east_angel_r3_rev.d8w
+east angel island_east_angel_r3_rev.ocl
+east angel island_east_angel_r3_rev.spl
+east angel island_eve_dry.atm
 east angel island_noon_dry.atm
+east angel island_shad_eve.shd
 east angel island_shad_noon.shd
 east_angel_cruise01_intro.cam
 east_angel_p2p01_intro.cam
@@ -1594,7 +1617,28 @@ mats\s2000_logo.pmd
 mats\s2000_misc.pmd
 mats\s2000_primer.pmd
 mats\s2000_wheel.pmd
+mats\scrap_barrel.pmd
+mats\scrap_car1.pmd
+mats\scrap_car2.pmd
+mats\scrap_car3.pmd
+mats\scrap_car4.pmd
+mats\scrap_car5.pmd
+mats\scrap_car6.pmd
+mats\scrap_crane.pmd
+mats\scrap_doors.pmd
+mats\scrap_doors1.pmd
+mats\scrap_floor_bl.pmd
+mats\scrap_floor_br.pmd
+mats\scrap_floor_tr.pmd
+mats\scrap_floortl.pmd
+mats\scrap_legs.pmd
+mats\scrap_office.pmd
+mats\scrap_scrap.pmd
+mats\scrap_tip.pmd
+mats\scrap_tip1.pmd
+mats\scrap_wheels.pmd
 mats\scraper1.pmd
+mats\scrapoffice1.pmd
 mats\scrub.pmd
 mats\shiny_black.pmd
 mats\show2_bunting.pmd
@@ -1620,13 +1664,46 @@ mats\show2_wall.pmd
 mats\show2_wall1.pmd
 mats\show2_wall2.pmd
 mats\show2_wood.pmd
+mats\show_blite.pmd
+mats\show_bliteshine.pmd
+mats\show_bluewall.pmd
+mats\show_ceil1.pmd
+mats\show_ceil2.pmd
+mats\show_ceil3.pmd
+mats\show_flare.pmd
+mats\show_floor.pmd
+mats\show_plant.pmd
+mats\show_plantpot.pmd
+mats\show_plinth.pmd
+mats\show_plinthtop.pmd
+mats\show_poster1.pmd
+mats\show_poster2.pmd
+mats\show_poster3.pmd
+mats\show_poster4.pmd
+mats\show_ring.pmd
+mats\show_roof.pmd
+mats\show_scaffolding4.pmd
 mats\show_shadwall5.pmd
 mats\show_shadwall6.pmd
+mats\show_spot.pmd
+mats\show_spot1.pmd
 mats\show_tyres.pmd
 mats\show_tyres1.pmd
+mats\show_wall1.pmd
+mats\show_wall2.pmd
+mats\show_wall3.pmd
+mats\show_water.pmd
+mats\show_waterb.pmd
+mats\show_whitew1.pmd
+mats\show_whitew2.pmd
 mats\smoke_tarmac.pmd
 mats\spike02.pmd
 mats\spoiler_brkt_vs1.pmd
+mats\ssb_bark1.pmd
+mats\ssb_bark2.pmd
+mats\ssb_leaves1ui.pmd
+mats\ssb_leaves2ui.pmd
+mats\stair_scrap.pmd
 mats\stand_exhaust.pmd
 mats\street_rubbish.pmd
 mats\strips.pmd
@@ -1689,6 +1766,7 @@ mats\viper_misc.pmd
 mats\viper_primer.pmd
 mats\viper_revlight.pmd
 mats\viper_wheel.pmd
+mats\wall_scrap.pmd
 mats\water01.pmd
 mats\wearhouse_red.pmd
 mats\wh_3000gt_blur.pmd
@@ -2680,9 +2758,13 @@ mesh\charger_bonnet_vs2.d8m
 mesh\charger_bonnet_vs3.d8m
 mesh\charger_brklight.d8m
 mesh\charger_chass.d8m
+mesh\charger_chass_collidee.ocd
+mesh\charger_chass_shad.ocd
 mesh\charger_decal_checks_vs1.d8m
 mesh\charger_decal_checks_vs2.d8m
 mesh\charger_decal_checks_vs3.d8m
+mesh\charger_decal_crew_vs3.d8m
+mesh\charger_decal_crew_vs5.d8m
 mesh\charger_decal_crew_vs7.d8m
 mesh\charger_decal_fandf_vs1.d8m
 mesh\charger_decal_fandf_vs2.d8m
@@ -3164,6 +3246,7 @@ mesh\eclipse_decal_fandf_vs7.d8m
 mesh\eclipse_decal_fandf_vs8.d8m
 mesh\eclipse_decal_fandf_vs9.d8m
 mesh\eclipse_decal_flames_vs1.d8m
+mesh\eclipse_decal_proto_vs1.d8m
 mesh\eclipse_decal_tribal_vs1.d8m
 mesh\eclipse_decal_tribal_vs2.d8m
 mesh\eclipse_decal_tribal_vs3.d8m
@@ -3621,6 +3704,8 @@ mesh\gtr_bonnet_vs2.d8m
 mesh\gtr_bonnet_vs3.d8m
 mesh\gtr_brklight.d8m
 mesh\gtr_chass.d8m
+mesh\gtr_chass_collidee.ocd
+mesh\gtr_chass_shad.ocd
 mesh\gtr_decal_checks_vs1.d8m
 mesh\gtr_decal_checks_vs2.d8m
 mesh\gtr_decal_checks_vs3.d8m
@@ -3635,6 +3720,7 @@ mesh\gtr_decal_fandf_vs7.d8m
 mesh\gtr_decal_fandf_vs8.d8m
 mesh\gtr_decal_fandf_vs9.d8m
 mesh\gtr_decal_flames_vs1.d8m
+mesh\gtr_decal_proto_vs1.d8m
 mesh\gtr_decal_tribal_vs1.d8m
 mesh\gtr_decal_tribal_vs2.d8m
 mesh\gtr_decal_tribal_vs3.d8m
@@ -3693,6 +3779,7 @@ mesh\imp_decal_fandf_vs7.d8m
 mesh\imp_decal_fandf_vs8.d8m
 mesh\imp_decal_fandf_vs9.d8m
 mesh\imp_decal_flames_vs1.d8m
+mesh\imp_decal_proto_vs1.d8m
 mesh\imp_decal_tribal_vs1.d8m
 mesh\imp_decal_tribal_vs2.d8m
 mesh\imp_decal_tribal_vs3.d8m
@@ -4234,6 +4321,7 @@ mesh\mats\gtr_primer.pmd
 mesh\mats\gtr_revlight.pmd
 mesh\mats\gtr_under.pmd
 mesh\mats\gtr_wheel.pmd
+mesh\mats\hidden.pmd
 mesh\mats\hlights_base.pmd
 mesh\mats\hlit_glass.pmd
 mesh\mats\imp1_wheel.pmd
@@ -5719,11 +5807,21 @@ mesh\vette_zo6_bonnet_vs2.d8m
 mesh\vette_zo6_bonnet_vs3.d8m
 mesh\vette_zo6_brklight.d8m
 mesh\vette_zo6_chass.d8m
+mesh\vette_zo6_chass_collidee.ocd
+mesh\vette_zo6_chass_shad.ocd
 mesh\vette_zo6_decal_checks_vs1.d8m
 mesh\vette_zo6_decal_checks_vs2.d8m
 mesh\vette_zo6_decal_checks_vs3.d8m
+mesh\vette_zo6_decal_crew_vs1.d8m
+mesh\vette_zo6_decal_crew_vs2.d8m
+mesh\vette_zo6_decal_crew_vs3.d8m
+mesh\vette_zo6_decal_crew_vs4.d8m
+mesh\vette_zo6_decal_crew_vs5.d8m
+mesh\vette_zo6_decal_crew_vs6.d8m
 mesh\vette_zo6_decal_crew_vs7.d8m
+mesh\vette_zo6_decal_crew_vs8.d8m
 mesh\vette_zo6_decal_fandf_vs1.d8m
+mesh\vette_zo6_decal_fandf_vs10.d8m
 mesh\vette_zo6_decal_fandf_vs2.d8m
 mesh\vette_zo6_decal_fandf_vs3.d8m
 mesh\vette_zo6_decal_fandf_vs4.d8m
@@ -5733,6 +5831,7 @@ mesh\vette_zo6_decal_fandf_vs7.d8m
 mesh\vette_zo6_decal_fandf_vs8.d8m
 mesh\vette_zo6_decal_fandf_vs9.d8m
 mesh\vette_zo6_decal_flames_vs1.d8m
+mesh\vette_zo6_decal_proto_vs1.d8m
 mesh\vette_zo6_decal_tribal_vs1.d8m
 mesh\vette_zo6_decal_tribal_vs2.d8m
 mesh\vette_zo6_decal_tribal_vs3.d8m
@@ -5992,6 +6091,7 @@ mesh\wrx2_decal_fandf_vs7.d8m
 mesh\wrx2_decal_fandf_vs8.d8m
 mesh\wrx2_decal_fandf_vs9.d8m
 mesh\wrx2_decal_flames_vs1.d8m
+mesh\wrx2_decal_proto_vs1.d8m
 mesh\wrx2_decal_tribal_vs1.d8m
 mesh\wrx2_decal_tribal_vs2.d8m
 mesh\wrx2_decal_tribal_vs3.d8m
@@ -6376,6 +6476,7 @@ textures\ac_nsx_body_ps2.ddt
 textures\ac_nsx_logo2.ddt
 textures\ac_nsx_misc.ddt
 textures\ac_nsx_wheel.ddt
+textures\alpha.ddt
 textures\alpha2.ddt
 textures\aluminium.ddt
 textures\beetle_body.ddt
@@ -6829,6 +6930,10 @@ textures\ui_alpine_on.ddt
 textures\ui_arcade_image1.ddt
 textures\ui_arcade_image10.ddt
 textures\ui_arcade_image11.ddt
+textures\ui_arcade_image12.ddt
+textures\ui_arcade_image13.ddt
+textures\ui_arcade_image14.ddt
+textures\ui_arcade_image15.ddt
 textures\ui_arcade_image2.ddt
 textures\ui_arcade_image3.ddt
 textures\ui_arcade_image4.ddt
@@ -6920,6 +7025,8 @@ textures\ui_crewcontrol_leftright_e.ddt
 textures\ui_crewcontrol_updown_e.ddt
 textures\ui_crewmember_00.ddt
 textures\ui_crewmember_01.ddt
+textures\ui_crewmember_02.ddt
+textures\ui_crewmember_03.ddt
 textures\ui_cross.ddt
 textures\ui_custom_static.ddt
 textures\ui_decal_checks_vs1.ddt
@@ -6981,8 +7088,14 @@ textures\ui_flag_oz.ddt
 textures\ui_flag_usa.ddt
 textures\ui_flights_off.ddt
 textures\ui_flights_on.ddt
+textures\ui_flyer_awb.ddt
+textures\ui_flyer_carsponsor.ddt
+textures\ui_flyer_legion.ddt
+textures\ui_flyer_lords.ddt
+textures\ui_flyer_omegatau.ddt
 textures\ui_flyer_partsponsor.ddt
 textures\ui_flyer_prototype.ddt
+textures\ui_flyer_urbanchaos.ddt
 textures\ui_flyer_urbanmaulerz.ddt
 textures\ui_flyer_vixens.ddt
 textures\ui_ford.ddt
@@ -7141,6 +7254,7 @@ textures\ui_selecta_e.ddt
 textures\ui_selectb_e.ddt
 textures\ui_selectc_e.ddt
 textures\ui_sharp_01_small.ddt
+textures\ui_sharp_02.ddt
 textures\ui_sharp_02_small.ddt
 textures\ui_slider_bar.ddt
 textures\ui_sliderhandle.ddt
@@ -7232,6 +7346,8 @@ textures\ui_video_play_on.ddt
 textures\ui_video_slowmo.ddt
 textures\ui_video_slowmo_on.ddt
 textures\ui_volkswagen.ddt
+textures\ui_wings_off.ddt
+textures\ui_wings_on.ddt
 textures\ui_yes.ddt
 textures\ui_yokohama_on.ddt
 textures\ui_zex_on.ddt
@@ -7475,6 +7591,7 @@ ui_downtown_map01.d8m
 ui_downtown_map02.boh
 ui_downtown_map02.d8m
 ui_downtown_map03.boh
+ui_downtown_map03.d8m
 ui_downtown_map04.boh
 ui_downtown_map09.boh
 ui_downtown_map09.d8m
@@ -8574,6 +8691,165 @@ windows\opts_wheel_dx9.ui
 windows\performance.ui
 windows\performmod.ui
 windows\performtype.ui
+windows\polish\arcade_championship.pol
+windows\polish\arcade_loader_anim.pol
+windows\polish\arcade_loading.pol
+windows\polish\arcade_race.pol
+windows\polish\arcade_results.pol
+windows\polish\autosave.pol
+windows\polish\blank.pol
+windows\polish\blank_split.pol
+windows\polish\bootupcheck.pol
+windows\polish\buymod.pol
+windows\polish\car_rolling.pol
+windows\polish\car_stats2.pol
+windows\polish\car_stats2purple.pol
+windows\polish\car_statslogos.pol
+windows\polish\carbuy.pol
+windows\polish\careerload.pol
+windows\polish\carsel.pol
+windows\polish\character.pol
+windows\polish\characterpostrace.pol
+windows\polish\closedown.pol
+windows\polish\cmsadvice.pol
+windows\polish\cmsatmeeting.pol
+windows\polish\cmsbet.pol
+windows\polish\cmscalendar.pol
+windows\polish\cmscalendarhelp.pol
+windows\polish\cmscarcollection2.pol
+windows\polish\cmscardealership.pol
+windows\polish\cmschallengeresults.pol
+windows\polish\cmscheats.pol
+windows\polish\cmschooselogo.pol
+windows\polish\cmscrew.pol
+windows\polish\cmscrewracesetup.pol
+windows\polish\cmsgridwalk.pol
+windows\polish\cmshostmeetingsetup.pol
+windows\polish\cmshostmeetingsetuprace.pol
+windows\polish\cmshostmeetingsummary.pol
+windows\polish\cmsloader.pol
+windows\polish\cmsmainmenu.pol
+windows\polish\cmsmeetingsummary.pol
+windows\polish\cmsmobilechoose.pol
+windows\polish\cmsmobilephone.pol
+windows\polish\cmsmobilephonecontacts.pol
+windows\polish\cmsmobilephonemenu.pol
+windows\polish\cmsnewcont.pol
+windows\polish\cmsonlinecrewracesetup.pol
+windows\polish\cmsonlinegridwalk.pol
+windows\polish\cmsonlineracesetup.pol
+windows\polish\cmsraceresults.pol
+windows\polish\cmsracesetup.pol
+windows\polish\cmsrespect.pol
+windows\polish\cmsrespectchanges.pol
+windows\polish\cmsrespecthelp.pol
+windows\polish\cmsrespectmsg.pol
+windows\polish\cmsrespectoverview.pol
+windows\polish\cmsstats.pol
+windows\polish\cmsstatscarcollection.pol
+windows\polish\cmsstatsmenu.pol
+windows\polish\colourchoose.pol
+windows\polish\colourfocus.pol
+windows\polish\colourmenu.pol
+windows\polish\credits.pol
+windows\polish\custmenu.pol
+windows\polish\custom_loader.pol
+windows\polish\custom_loader_anim.pol
+windows\polish\decalmenu.pol
+windows\polish\demoflyby.pol
+windows\polish\disclaimer.pol
+windows\polish\driver.pol
+windows\polish\enginechip.pol
+windows\polish\exhaustmenu.pol
+windows\polish\extras.pol
+windows\polish\garageload.pol
+windows\polish\gearboxmenu.pol
+windows\polish\hornmenu.pol
+windows\polish\hud_challenge_results.pol
+windows\polish\hud_cruise.pol
+windows\polish\hud_cruise_results.pol
+windows\polish\hud_pause.pol
+windows\polish\hud_race.pol
+windows\polish\hud_race_complete.pol
+windows\polish\hud_race_results.pol
+windows\polish\hud_replay.pol
+windows\polish\hud_solo.pol
+windows\polish\hud_spectator.pol
+windows\polish\hud_sprint.pol
+windows\polish\hud_sprint_results.pol
+windows\polish\hudcolourmenu.pol
+windows\polish\icemenu.pol
+windows\polish\instant_manu.pol
+windows\polish\instant_selcar.pol
+windows\polish\instant_seltype.pol
+windows\polish\instant_setup.pol
+windows\polish\juicesplash.pol
+windows\polish\keyboard.pol
+windows\polish\link_lobby.pol
+windows\polish\link_search.pol
+windows\polish\link_selcar.pol
+windows\polish\loader.pol
+windows\polish\loader_anim.pol
+windows\polish\loadhighscores.pol
+windows\polish\loading.pol
+windows\polish\loadreplay.pol
+windows\polish\menu.pol
+windows\polish\modmenu.pol
+windows\polish\modshop.pol
+windows\polish\msgbox.pol
+windows\polish\msgbox_critical.pol
+windows\polish\msgbox_network.pol
+windows\polish\neonmenu.pol
+windows\polish\newhighscore_cms.pol
+windows\polish\online_arcade_create.pol
+windows\polish\online_career_create.pol
+windows\polish\online_friend_options.pol
+windows\polish\online_friends.pol
+windows\polish\online_ingame_bg.pol
+windows\polish\online_logon_gs.pol
+windows\polish\online_player_options.pol
+windows\polish\online_players.pol
+windows\polish\online_voice.pol
+windows\polish\opts_audio.pol
+windows\polish\opts_bg.pol
+windows\polish\opts_ctl_pc.pol
+windows\polish\opts_ctl_port.pol
+windows\polish\opts_game_pc.pol
+windows\polish\opts_graphics.pol
+windows\polish\opts_ingame_audio.pol
+windows\polish\opts_ingame_bg.pol
+windows\polish\opts_ingame_game.pol
+windows\polish\opts_ingame_game_ply2.pol
+windows\polish\opts_ingame_menu.pol
+windows\polish\opts_menu.pol
+windows\polish\opts_songlist.pol
+windows\polish\opts_voice.pol
+windows\polish\opts_wheel_dx9.pol
+windows\polish\performance.pol
+windows\polish\performmod.pol
+windows\polish\performtype.pol
+windows\polish\restart_race.pol
+windows\polish\restart_replay.pol
+windows\polish\savehighscores.pol
+windows\polish\saveprofile.pol
+windows\polish\savereplay.pol
+windows\polish\schememenu.pol
+windows\polish\skippable.pol
+windows\polish\splash.pol
+windows\polish\split_selcar.pol
+windows\polish\sponsordecalmenu.pol
+windows\polish\start.pol
+windows\polish\start_replay.pol
+windows\polish\startup.pol
+windows\polish\stylingmenu.pol
+windows\polish\suppliers.pol
+windows\polish\suspensionmenu.pol
+windows\polish\tintsmenu.pol
+windows\polish\tuningmenu.pol
+windows\polish\vid_tutorial.pol
+windows\polish\viewhiscores.pol
+windows\polish\wheelcolourmenu.pol
+windows\polish\wheelsmenu.pol
 windows\restart_race.ui
 windows\restart_replay.ui
 windows\russian\arcade_championship.rus
