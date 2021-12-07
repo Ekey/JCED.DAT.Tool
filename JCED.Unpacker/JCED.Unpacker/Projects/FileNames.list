@@ -2331,6 +2331,7 @@ mesh\3000gt_decal_fandf_vs7.d8m
 mesh\3000gt_decal_fandf_vs8.d8m
 mesh\3000gt_decal_fandf_vs9.d8m
 mesh\3000gt_decal_flames_vs1.d8m
+mesh\3000gt_decal_proto_vs1.d8m
 mesh\3000gt_decal_tribal_vs1.d8m
 mesh\3000gt_decal_tribal_vs2.d8m
 mesh\3000gt_decal_tribal_vs3.d8m
@@ -2440,14 +2441,27 @@ mesh\350z_chass_collidee.ocd
 mesh\350z_chass_shad.ocd
 mesh\350z_decal_checks_vs1.d8m
 mesh\350z_decal_checks_vs2.d8m
+mesh\350z_decal_checks_vs3.d8m
 mesh\350z_decal_crew_vs7.d8m
+mesh\350z_decal_fandf_vs1.d8m
 mesh\350z_decal_fandf_vs2.d8m
 mesh\350z_decal_fandf_vs3.d8m
+mesh\350z_decal_fandf_vs4.d8m
 mesh\350z_decal_fandf_vs5.d8m
+mesh\350z_decal_fandf_vs6.d8m
 mesh\350z_decal_fandf_vs7.d8m
 mesh\350z_decal_fandf_vs8.d8m
+mesh\350z_decal_fandf_vs9.d8m
 mesh\350z_decal_flames_vs1.d8m
+mesh\350z_decal_proto_vs1.d8m
+mesh\350z_decal_tribal_vs1.d8m
+mesh\350z_decal_tribal_vs2.d8m
+mesh\350z_decal_tribal_vs3.d8m
+mesh\350z_decal_tribal_vs4.d8m
+mesh\350z_decal_tribal_vs5.d8m
 mesh\350z_decal_tribal_vs6.d8m
+mesh\350z_decal_tribal_vs7.d8m
+mesh\350z_decal_tribal_vs8.d8m
 mesh\350z_fbump.d8m
 mesh\350z_fbump_vs1.d8m
 mesh\350z_fbump_vs2.d8m
@@ -2501,6 +2515,7 @@ mesh\ac_integra_decal_fandf_vs7.d8m
 mesh\ac_integra_decal_fandf_vs8.d8m
 mesh\ac_integra_decal_fandf_vs9.d8m
 mesh\ac_integra_decal_flames_vs1.d8m
+mesh\ac_integra_decal_proto_vs1.d8m
 mesh\ac_integra_decal_tribal_vs1.d8m
 mesh\ac_integra_decal_tribal_vs2.d8m
 mesh\ac_integra_decal_tribal_vs3.d8m
@@ -2560,6 +2575,7 @@ mesh\ac_nsx_decal_fandf_vs7.d8m
 mesh\ac_nsx_decal_fandf_vs8.d8m
 mesh\ac_nsx_decal_fandf_vs9.d8m
 mesh\ac_nsx_decal_flames_vs1.d8m
+mesh\ac_nsx_decal_proto_vs1.d8m
 mesh\ac_nsx_decal_tribal_vs1.d8m
 mesh\ac_nsx_decal_tribal_vs2.d8m
 mesh\ac_nsx_decal_tribal_vs3.d8m
@@ -2601,6 +2617,7 @@ mesh\beetle_chass.d8m
 mesh\beetle_chass_collidee.ocd
 mesh\beetle_chass_shad.ocd
 mesh\beetle_decal_checks_vs1.d8m
+mesh\beetle_decal_checks_vs2.d8m
 mesh\beetle_decal_checks_vs3.d8m
 mesh\beetle_decal_crew_vs7.d8m
 mesh\beetle_decal_fandf_vs1.d8m
@@ -2613,6 +2630,7 @@ mesh\beetle_decal_fandf_vs7.d8m
 mesh\beetle_decal_fandf_vs8.d8m
 mesh\beetle_decal_fandf_vs9.d8m
 mesh\beetle_decal_flames_vs1.d8m
+mesh\beetle_decal_proto_vs1.d8m
 mesh\beetle_decal_tribal_vs1.d8m
 mesh\beetle_decal_tribal_vs2.d8m
 mesh\beetle_decal_tribal_vs3.d8m
@@ -2805,11 +2823,27 @@ mesh\celica_chass.d8m
 mesh\celica_chass_collidee.ocd
 mesh\celica_chass_shad.ocd
 mesh\celica_decal_checks_vs1.d8m
+mesh\celica_decal_checks_vs2.d8m
 mesh\celica_decal_checks_vs3.d8m
+mesh\celica_decal_crew_vs7.d8m
+mesh\celica_decal_fandf_vs1.d8m
+mesh\celica_decal_fandf_vs2.d8m
+mesh\celica_decal_fandf_vs3.d8m
+mesh\celica_decal_fandf_vs4.d8m
+mesh\celica_decal_fandf_vs5.d8m
+mesh\celica_decal_fandf_vs6.d8m
 mesh\celica_decal_fandf_vs7.d8m
+mesh\celica_decal_fandf_vs8.d8m
+mesh\celica_decal_fandf_vs9.d8m
 mesh\celica_decal_flames_vs1.d8m
 mesh\celica_decal_tribal_vs1.d8m
+mesh\celica_decal_tribal_vs2.d8m
+mesh\celica_decal_tribal_vs3.d8m
+mesh\celica_decal_tribal_vs4.d8m
 mesh\celica_decal_tribal_vs5.d8m
+mesh\celica_decal_tribal_vs6.d8m
+mesh\celica_decal_tribal_vs7.d8m
+mesh\celica_decal_tribal_vs8.d8m
 mesh\celica_fbump.d8m
 mesh\celica_fbump_vs1.d8m
 mesh\celica_fbump_vs2.d8m
@@ -2823,10 +2857,15 @@ mesh\celica_revlight.d8m
 mesh\celica_root.d8m
 mesh\celica_spoiler.d8m
 mesh\celica_spoiler_vs1.d8m
+mesh\celica_spoiler_vs10.d8m
+mesh\celica_spoiler_vs2.d8m
 mesh\celica_spoiler_vs3.d8m
 mesh\celica_spoiler_vs4.d8m
+mesh\celica_spoiler_vs5.d8m
 mesh\celica_spoiler_vs6.d8m
+mesh\celica_spoiler_vs7.d8m
 mesh\celica_spoiler_vs8.d8m
+mesh\celica_spoiler_vs9.d8m
 mesh\celica_spons.d8m
 mesh\celica_sskirt_vs1_l.d8m
 mesh\celica_sskirt_vs1_r.d8m
@@ -2860,6 +2899,7 @@ mesh\charger_decal_fandf_vs7.d8m
 mesh\charger_decal_fandf_vs8.d8m
 mesh\charger_decal_fandf_vs9.d8m
 mesh\charger_decal_flames_vs1.d8m
+mesh\charger_decal_proto_vs1.d8m
 mesh\charger_decal_tribal_vs1.d8m
 mesh\charger_decal_tribal_vs2.d8m
 mesh\charger_decal_tribal_vs3.d8m
@@ -3450,6 +3490,7 @@ mesh\evo8_decal_fandf_vs7.d8m
 mesh\evo8_decal_fandf_vs8.d8m
 mesh\evo8_decal_fandf_vs9.d8m
 mesh\evo8_decal_flames_vs1.d8m
+mesh\evo8_decal_proto_vs1.d8m
 mesh\evo8_decal_tribal_vs1.d8m
 mesh\evo8_decal_tribal_vs2.d8m
 mesh\evo8_decal_tribal_vs3.d8m
@@ -3743,6 +3784,7 @@ mesh\golf_decal_checks_vs3.d8m
 mesh\golf_decal_crew_vs7.d8m
 mesh\golf_decal_fandf_vs1.d8m
 mesh\golf_decal_fandf_vs2.d8m
+mesh\golf_decal_fandf_vs3.d8m
 mesh\golf_decal_fandf_vs4.d8m
 mesh\golf_decal_fandf_vs5.d8m
 mesh\golf_decal_fandf_vs6.d8m
@@ -5126,6 +5168,7 @@ mesh\mustang68_decal_fandf_vs7.d8m
 mesh\mustang68_decal_fandf_vs8.d8m
 mesh\mustang68_decal_fandf_vs9.d8m
 mesh\mustang68_decal_flames_vs1.d8m
+mesh\mustang68_decal_proto_vs1.d8m
 mesh\mustang68_decal_tribal_vs1.d8m
 mesh\mustang68_decal_tribal_vs2.d8m
 mesh\mustang68_decal_tribal_vs3.d8m
@@ -5518,6 +5561,7 @@ mesh\rsx_decal_fandf_vs9.d8m
 mesh\rsx_decal_flames_vs1.d8m
 mesh\rsx_decal_tribal_vs1.d8m
 mesh\rsx_decal_tribal_vs2.d8m
+mesh\rsx_decal_tribal_vs3.d8m
 mesh\rsx_decal_tribal_vs4.d8m
 mesh\rsx_decal_tribal_vs5.d8m
 mesh\rsx_decal_tribal_vs6.d8m
@@ -5572,6 +5616,7 @@ mesh\rx7_decal_fandf_vs7.d8m
 mesh\rx7_decal_fandf_vs8.d8m
 mesh\rx7_decal_fandf_vs9.d8m
 mesh\rx7_decal_flames_vs1.d8m
+mesh\rx7_decal_proto_vs1.d8m
 mesh\rx7_decal_tribal_vs1.d8m
 mesh\rx7_decal_tribal_vs2.d8m
 mesh\rx7_decal_tribal_vs3.d8m
@@ -5692,6 +5737,7 @@ mesh\s2000_decal_fandf_vs7.d8m
 mesh\s2000_decal_fandf_vs8.d8m
 mesh\s2000_decal_fandf_vs9.d8m
 mesh\s2000_decal_flames_vs1.d8m
+mesh\s2000_decal_proto_vs1.d8m
 mesh\s2000_decal_tribal_vs1.d8m
 mesh\s2000_decal_tribal_vs2.d8m
 mesh\s2000_decal_tribal_vs3.d8m
@@ -5749,6 +5795,7 @@ mesh\supra_decal_fandf_vs7.d8m
 mesh\supra_decal_fandf_vs8.d8m
 mesh\supra_decal_fandf_vs9.d8m
 mesh\supra_decal_flames_vs1.d8m
+mesh\supra_decal_proto_vs1.d8m
 mesh\supra_decal_tribal_vs1.d8m
 mesh\supra_decal_tribal_vs2.d8m
 mesh\supra_decal_tribal_vs3.d8m
@@ -5970,6 +6017,7 @@ mesh\viper_decal_fandf_vs7.d8m
 mesh\viper_decal_fandf_vs8.d8m
 mesh\viper_decal_fandf_vs9.d8m
 mesh\viper_decal_flames_vs1.d8m
+mesh\viper_decal_proto_vs1.d8m
 mesh\viper_decal_tribal_vs1.d8m
 mesh\viper_decal_tribal_vs2.d8m
 mesh\viper_decal_tribal_vs3.d8m
@@ -7146,6 +7194,7 @@ textures\ui_decal_tribal_vs5.ddt
 textures\ui_decal_tribal_vs6.ddt
 textures\ui_decal_tribal_vs7.ddt
 textures\ui_decal_tribal_vs8.ddt
+textures\ui_demo_controllerps2.ddt
 textures\ui_dial.ddt
 textures\ui_dial_black.ddt
 textures\ui_dial_turbo.ddt
@@ -7272,6 +7321,7 @@ textures\ui_momo_vs3.ddt
 textures\ui_momo_vs4.ddt
 textures\ui_momo_vs5.ddt
 textures\ui_moto.ddt
+textures\ui_moto_02.ddt
 textures\ui_moto_02_small.ddt
 textures\ui_moto_small.ddt
 textures\ui_msgbox_select.ddt
@@ -7337,12 +7387,14 @@ textures\ui_respect_overlay.ddt
 textures\ui_selecta_e.ddt
 textures\ui_selectb_e.ddt
 textures\ui_selectc_e.ddt
+textures\ui_sharp_01.ddt
 textures\ui_sharp_01_small.ddt
 textures\ui_sharp_02.ddt
 textures\ui_sharp_02_small.ddt
 textures\ui_slider_bar.ddt
 textures\ui_sliderhandle.ddt
 textures\ui_sony.ddt
+textures\ui_sony_02.ddt
 textures\ui_sony_02_small.ddt
 textures\ui_sony_small.ddt
 textures\ui_spax_on.ddt
@@ -7570,11 +7622,13 @@ ui_angelnorth_centre02.d8m
 ui_angelnorth_centre03.d8m
 ui_angelnorth_centre04.d8m
 ui_angelnorth_centre05.d8m
+ui_angelnorth_centre_sprint.d8m
 ui_angelnorth_map01.boh
 ui_angelnorth_map02.boh
 ui_angelnorth_map03.boh
 ui_angelnorth_map03.d8m
 ui_angelnorth_map04.boh
+ui_angelnorth_sprint_gui.d8m
 ui_angelnorth_yellow01.d8m
 ui_angelnorth_yellow02.d8m
 ui_angelnorth_yellow03.d8m
@@ -7821,6 +7875,7 @@ ui_southside_centre02.d8m
 ui_southside_centre03.d8m
 ui_southside_centre04.d8m
 ui_southside_centre05.d8m
+ui_southside_centre_sprint.d8m
 ui_southside_map01.boh
 ui_southside_map02.boh
 ui_southside_map03.boh
@@ -7857,6 +7912,7 @@ ui_southside_yellow02.d8m
 ui_southside_yellow03.d8m
 ui_southside_yellow04.d8m
 ui_southside_yellow05.d8m
+ui_southside_yellow_sprint.d8m
 ui_speedway_p2p_gui.boh
 ui_speedway_p2p_map.boh
 ui_speedway_p2p_rev_gui.boh
@@ -8346,6 +8402,8 @@ windows\english\neonmenu.eng
 windows\english\newhighscore_cms.eng
 windows\english\online_arcade_create.eng
 windows\english\online_career_create.eng
+windows\english\online_connect_gs.eng
+windows\english\online_create_gs.eng
 windows\english\online_friend_options.eng
 windows\english\online_friends.eng
 windows\english\online_ingame_bg.eng
@@ -8507,6 +8565,8 @@ windows\german\neonmenu.ger
 windows\german\newhighscore_cms.ger
 windows\german\online_arcade_create.ger
 windows\german\online_career_create.ger
+windows\german\online_connect_gs.ger
+windows\german\online_create_gs.ger
 windows\german\online_friend_options.ger
 windows\german\online_friends.ger
 windows\german\online_ingame_bg.ger
@@ -8683,6 +8743,8 @@ windows\italian\neonmenu.ita
 windows\italian\newhighscore_cms.ita
 windows\italian\online_arcade_create.ita
 windows\italian\online_career_create.ita
+windows\italian\online_connect_gs.ita
+windows\italian\online_create_gs.ita
 windows\italian\online_friend_options.ita
 windows\italian\online_friends.ita
 windows\italian\online_ingame_bg.ita
@@ -8750,6 +8812,8 @@ windows\neonmenu.ui
 windows\newhighscore_cms.ui
 windows\online_arcade_create.ui
 windows\online_career_create.ui
+windows\online_connect_gs.ui
+windows\online_create_gs.ui
 windows\online_friend_options.ui
 windows\online_friends.ui
 windows\online_ingame_bg.ui
@@ -8887,6 +8951,8 @@ windows\polish\neonmenu.pol
 windows\polish\newhighscore_cms.pol
 windows\polish\online_arcade_create.pol
 windows\polish\online_career_create.pol
+windows\polish\online_connect_gs.pol
+windows\polish\online_create_gs.pol
 windows\polish\online_friend_options.pol
 windows\polish\online_friends.pol
 windows\polish\online_ingame_bg.pol
@@ -9048,6 +9114,8 @@ windows\russian\neonmenu.rus
 windows\russian\newhighscore_cms.rus
 windows\russian\online_arcade_create.rus
 windows\russian\online_career_create.rus
+windows\russian\online_connect_gs.rus
+windows\russian\online_create_gs.rus
 windows\russian\online_friend_options.rus
 windows\russian\online_friends.rus
 windows\russian\online_ingame_bg.rus
@@ -9210,6 +9278,8 @@ windows\spanish\neonmenu.spa
 windows\spanish\newhighscore_cms.spa
 windows\spanish\online_arcade_create.spa
 windows\spanish\online_career_create.spa
+windows\spanish\online_connect_gs.spa
+windows\spanish\online_create_gs.spa
 windows\spanish\online_friend_options.spa
 windows\spanish\online_friends.spa
 windows\spanish\online_ingame_bg.spa
