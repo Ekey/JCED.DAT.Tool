@@ -9024,6 +9024,8 @@ textures\ui_legals_juice.ddt
 textures\ui_linksys_icon.ddt
 textures\ui_loading.ddt
 textures\ui_locked.ddt
+textures\ui_locked_off.ddt
+textures\ui_locked_on.ddt
 textures\ui_logo.ddt
 textures\ui_map_frame.ddt
 textures\ui_map_glow.ddt
