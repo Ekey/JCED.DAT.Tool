@@ -66,9 +66,19 @@ namespace JCED.Unpacker
                     Utils.iSetInfo("[UNPACKING]: " + m_FileName);
                     Utils.iCreateDirectory(m_FullPath);
 
-                    var lpBuffer = ZLIB.iDecompressChunks(TDatStream, m_Entry);
+                    if (m_Entry.dwCompressedSize == 0)
+                    {
+                        TDatStream.Seek(m_Entry.dwOffset, SeekOrigin.Begin);
+                        var lpBuffer = TDatStream.ReadBytes(m_Entry.dwDecompressedSize);
 
-                    File.WriteAllBytes(m_FullPath, lpBuffer);
+                        File.WriteAllBytes(m_FullPath, lpBuffer);
+                    }
+                    else
+                    {
+                        var lpBuffer = ZLIB.iDecompressChunks(TDatStream, m_Entry);
+
+                        File.WriteAllBytes(m_FullPath, lpBuffer);
+                    }
                 }
 
                 TDatStream.Dispose();
