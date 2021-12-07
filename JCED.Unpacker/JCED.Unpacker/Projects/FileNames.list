@@ -82,6 +82,7 @@ ab_road.ddt
 ab_stadwall.ddt
 ab_village.ddt
 alpha2.ddt
+alpha_green.ddt
 anderson_cruise01_intro.cam
 anderson_p2p01_intro.cam
 anderson_r1_intro.cam
@@ -108,21 +109,37 @@ angel superspeedway_0.pqh
 angel superspeedway_0.sqh
 angel superspeedway_1.pqh
 angel superspeedway_1.sqh
+angel superspeedway_2.pqh
+angel superspeedway_2.sqh
 angel superspeedway_3.pqh
 angel superspeedway_3.sqh
+angel superspeedway_eve_dry.atm
+angel superspeedway_eve_wet.atm
 angel superspeedway_morn_dry.atm
+angel superspeedway_morn_wet.atm
 angel superspeedway_night_dry.atm
 angel superspeedway_night_wet.atm
 angel superspeedway_noon_dry.atm
 angel superspeedway_noon_wet.atm
+angel superspeedway_shad_eve.shd
 angel superspeedway_shad_morn.shd
 angel superspeedway_shad_night.shd
 angel superspeedway_shad_noon.shd
+angel superspeedway_speedway_cruise01.cld
+angel superspeedway_speedway_cruise01.d8m
+angel superspeedway_speedway_cruise01.d8w
+angel superspeedway_speedway_cruise01.ocl
+angel superspeedway_speedway_cruise01.spl
 angel superspeedway_speedway_p2p.cld
 angel superspeedway_speedway_p2p.d8m
 angel superspeedway_speedway_p2p.d8w
 angel superspeedway_speedway_p2p.ocl
 angel superspeedway_speedway_p2p.spl
+angel superspeedway_speedway_p2p_rev.cld
+angel superspeedway_speedway_p2p_rev.d8m
+angel superspeedway_speedway_p2p_rev.d8w
+angel superspeedway_speedway_p2p_rev.ocl
+angel superspeedway_speedway_p2p_rev.spl
 angel superspeedway_speedway_r1.cld
 angel superspeedway_speedway_r1.d8m
 angel superspeedway_speedway_r1.d8w
@@ -138,11 +155,36 @@ angel superspeedway_speedway_r2.d8m
 angel superspeedway_speedway_r2.d8w
 angel superspeedway_speedway_r2.ocl
 angel superspeedway_speedway_r2.spl
+angel superspeedway_speedway_r2_rev.cld
+angel superspeedway_speedway_r2_rev.d8m
+angel superspeedway_speedway_r2_rev.d8w
+angel superspeedway_speedway_r2_rev.ocl
+angel superspeedway_speedway_r2_rev.spl
 angel superspeedway_speedway_r3.cld
 angel superspeedway_speedway_r3.d8m
 angel superspeedway_speedway_r3.d8w
 angel superspeedway_speedway_r3.ocl
 angel superspeedway_speedway_r3.spl
+angel superspeedway_speedway_r3_rev.cld
+angel superspeedway_speedway_r3_rev.d8m
+angel superspeedway_speedway_r3_rev.d8w
+angel superspeedway_speedway_r3_rev.ocl
+angel superspeedway_speedway_r3_rev.spl
+angel superspeedway_speedway_r4.cld
+angel superspeedway_speedway_r4.d8m
+angel superspeedway_speedway_r4.d8w
+angel superspeedway_speedway_r4.ocl
+angel superspeedway_speedway_r4.spl
+angel superspeedway_speedway_r4_rev.cld
+angel superspeedway_speedway_r4_rev.d8m
+angel superspeedway_speedway_r4_rev.d8w
+angel superspeedway_speedway_r4_rev.ocl
+angel superspeedway_speedway_r4_rev.spl
+angel superspeedway_speedway_sprint01.cld
+angel superspeedway_speedway_sprint01.d8m
+angel superspeedway_speedway_sprint01.d8w
+angel superspeedway_speedway_sprint01.ocl
+angel superspeedway_speedway_sprint01.spl
 angel westside.tdf
 angel westside_1.pqh
 angel westside_1.sqh
@@ -372,12 +414,16 @@ decal_apracing.ddt
 decal_arospeed.ddt
 decal_bbs.ddt
 decal_bilstein.ddt
+decal_blitz.ddt
+decal_bm.ddt
 decal_borla.ddt
 decal_brembo.ddt
 decal_bridgestone.ddt
+decal_centerline.ddt
 decal_checks_vs1.ddt
 decal_checks_vs2.ddt
 decal_checks_vs3.ddt
+decal_clutchmasters.ddt
 decal_crew_vs1.ddt
 decal_crew_vs2.ddt
 decal_crew_vs3.ddt
@@ -403,9 +449,12 @@ decal_fandf_vs8.ddt
 decal_fandf_vs9.ddt
 decal_ferodo.ddt
 decal_flames_vs1.ddt
+decal_garrett.ddt
+decal_greddy.ddt
 decal_hks.ddt
 decal_holley.ddt
 decal_injen.ddt
+decal_jackson.ddt
 decal_k_n.ddt
 decal_kenwood.ddt
 decal_koni.ddt
@@ -418,11 +467,23 @@ decal_oz.ddt
 decal_pipercross.ddt
 decal_pirelli.ddt
 decal_proto_vs1.ddt
+decal_pub_vs1.ddt
+decal_pub_vs2.ddt
+decal_pub_vs3.ddt
+decal_pub_vs4.ddt
+decal_pub_vs5.ddt
 decal_rage.ddt
+decal_scorpion.ddt
+decal_sparco.ddt
 decal_spax.ddt
 decal_speedline.ddt
+decal_stripe_vs1.ddt
+decal_stripe_vs2.ddt
+decal_stripe_vs3.ddt
+decal_stripe_vs4.ddt
 decal_tarox.ddt
 decal_tein.ddt
+decal_toyo.ddt
 decal_tribal_vs1.ddt
 decal_tribal_vs2.ddt
 decal_tribal_vs3.ddt
@@ -793,6 +854,8 @@ exhaust_collidee.ocd
 exhaust_collider.ocd
 exhaust_dc_vs1.d8m
 exhaust_flame.d8m
+exhaust_greddy_vs1.d8m
+exhaust_greddy_vs2.d8m
 exhaust_hks_vs1.d8m
 exhaust_neon_vs1.ddt
 exhaust_rage_vs1.d8m
@@ -807,12 +870,16 @@ exhaust_s11.d8m
 exhaust_s12.d8m
 exhaust_s13.d8m
 exhaust_s14.d8m
+exhaust_s15.d8m
 exhaust_s16.d8m
+exhaust_s17.d8m
 exhaust_s18.d8m
 exhaust_s19.d8m
 exhaust_s2.d8m
 exhaust_s20.d8m
 exhaust_s21.d8m
+exhaust_s22.d8m
+exhaust_s23.d8m
 exhaust_s24.d8m
 exhaust_s25.d8m
 exhaust_s26.d8m
@@ -824,6 +891,8 @@ exhaust_s30.d8m
 exhaust_s31.d8m
 exhaust_s32.d8m
 exhaust_s33.d8m
+exhaust_s34.d8m
+exhaust_s36.d8m
 exhaust_s37.d8m
 exhaust_s38.d8m
 exhaust_s39.d8m
@@ -835,16 +904,28 @@ exhaust_s43.d8m
 exhaust_s45.d8m
 exhaust_s46.d8m
 exhaust_s47.d8m
+exhaust_s5.d8m
 exhaust_s6.d8m
+exhaust_s7.d8m
 exhaust_s8.d8m
 exhaust_s9.d8m
+exhaust_st3.d8m
 exhaust_st6.d8m
 exhaust_standard.ddt
 exhaust_vs1.boh
+exhaust_vs1.d8m
+exhaust_vs1_ui.d8m
 exhaust_vs2.boh
+exhaust_vs2.d8m
+exhaust_vs2_ui.d8m
+exhaust_vs3.d8m
+exhaust_vs3_ui.d8m
+exhaust_vs4.d8m
+exhaust_vs4_ui.d8m
 exhausts.bkup
 exhausts.txt
 exhausts.txt.old
+falcon_exhaust.ddt
 fbump_collidee.ocd
 fbump_collider.ocd
 filelist.txt
@@ -991,6 +1072,7 @@ golf_rbump_vs2.d8m
 golf_rbump_vs3.d8m
 golf_root.d8m
 golf_stock.boh
+green_col_sphere.d8m
 gtr_bod.ddt
 gtr_bonnet.d8m
 gtr_bonnet_vs1.d8m
@@ -1277,6 +1359,7 @@ mats\civicr_revlight.pmd
 mats\civicr_wheel.pmd
 mats\cliff.pmd
 mats\clio_wheel.pmd
+mats\cobra_exhaust.pmd
 mats\corolla_body.pmd
 mats\corolla_brklight.pmd
 mats\corolla_glass.pmd
@@ -1954,6 +2037,10 @@ mats\wheel_bbs_vs7_18.pmd
 mats\wheel_bbs_vs7_18_b.pmd
 mats\wheel_bbs_vs7_18_bs.pmd
 mats\wheel_bbs_vs7_18_lod.pmd
+mats\wheel_bbs_vs8_18.pmd
+mats\wheel_bbs_vs8_18_b.pmd
+mats\wheel_bbs_vs8_18_bs.pmd
+mats\wheel_bbs_vs8_18_lod.pmd
 mats\wheel_bbs_vs9_18.pmd
 mats\wheel_bbs_vs9_18_b.pmd
 mats\wheel_bbs_vs9_18_bs.pmd
@@ -2283,10 +2370,18 @@ mats\wheel_speed_vs3_17.pmd
 mats\wheel_speed_vs3_17_b.pmd
 mats\wheel_speed_vs3_17_bs.pmd
 mats\wheel_speed_vs3_17_lod.pmd
+mats\wheel_speed_vs3_18.pmd
+mats\wheel_speed_vs3_18_b.pmd
+mats\wheel_speed_vs3_18_bs.pmd
+mats\wheel_speed_vs3_18_lod.pmd
 mats\wheel_speed_vs4_17.pmd
 mats\wheel_speed_vs4_17_b.pmd
 mats\wheel_speed_vs4_17_bs.pmd
 mats\wheel_speed_vs4_17_lod.pmd
+mats\wheel_speed_vs4_18.pmd
+mats\wheel_speed_vs4_18_b.pmd
+mats\wheel_speed_vs4_18_bs.pmd
+mats\wheel_speed_vs4_18_lod.pmd
 mats\wheel_speed_vs5_17.pmd
 mats\wheel_speed_vs5_17_b.pmd
 mats\wheel_speed_vs5_17_bs.pmd
@@ -2709,11 +2804,21 @@ mesh\camaro_bonnet_vs2.d8m
 mesh\camaro_bonnet_vs3.d8m
 mesh\camaro_brklight.d8m
 mesh\camaro_chass.d8m
+mesh\camaro_chass_collidee.ocd
+mesh\camaro_chass_shad.ocd
 mesh\camaro_decal_checks_vs1.d8m
 mesh\camaro_decal_checks_vs2.d8m
 mesh\camaro_decal_checks_vs3.d8m
+mesh\camaro_decal_crew_vs1.d8m
+mesh\camaro_decal_crew_vs2.d8m
+mesh\camaro_decal_crew_vs3.d8m
+mesh\camaro_decal_crew_vs4.d8m
+mesh\camaro_decal_crew_vs5.d8m
+mesh\camaro_decal_crew_vs6.d8m
 mesh\camaro_decal_crew_vs7.d8m
+mesh\camaro_decal_crew_vs8.d8m
 mesh\camaro_decal_fandf_vs1.d8m
+mesh\camaro_decal_fandf_vs10.d8m
 mesh\camaro_decal_fandf_vs2.d8m
 mesh\camaro_decal_fandf_vs3.d8m
 mesh\camaro_decal_fandf_vs4.d8m
@@ -2723,6 +2828,7 @@ mesh\camaro_decal_fandf_vs7.d8m
 mesh\camaro_decal_fandf_vs8.d8m
 mesh\camaro_decal_fandf_vs9.d8m
 mesh\camaro_decal_flames_vs1.d8m
+mesh\camaro_decal_proto_vs1.d8m
 mesh\camaro_decal_tribal_vs1.d8m
 mesh\camaro_decal_tribal_vs2.d8m
 mesh\camaro_decal_tribal_vs3.d8m
@@ -4606,6 +4712,7 @@ mesh\mats\peugeot_206_primer.pmd
 mesh\mats\peugeot_206_revlight.pmd
 mesh\mats\peugeot_206_wheel.pmd
 mesh\mats\peugeot_int.pmd
+mesh\mats\poo.pmd
 mesh\mats\poo2.pmd
 mesh\mats\prelude_body.pmd
 mesh\mats\prelude_brklight.pmd
@@ -4772,6 +4879,7 @@ mesh\mats\wh_ac_rsx_blur.pmd
 mesh\mats\wh_black.pmd
 mesh\mats\wh_camaro_blur.pmd
 mesh\mats\wh_camaro_blur_s.pmd
+mesh\mats\wh_camaro_lod.pmd
 mesh\mats\wh_celica_2_blur.pmd
 mesh\mats\wh_celica_2_blur_s.pmd
 mesh\mats\wh_civic_97_blur.pmd
@@ -6334,9 +6442,11 @@ noise2_dxt1.dds
 noisedxt1.dds
 none.d8m
 nonprofanities.txt
+object01.d8m
 old_car_colours.txt
 outside_garage.boh
 polish.txt
+poo.boh
 poo.txt
 proc_material_tarmac_bumpynoise.dds
 proc_material_tarmac_camber_function.dds
@@ -6358,6 +6468,7 @@ rollingarage.d8m
 rollingfront.d8m
 rollinggarage.boh
 rollingrear.d8m
+root.d8m
 rubber.ddt
 russian.txt
 rx7_bonnet.d8m
@@ -6564,6 +6675,7 @@ sun_flare05.ddt
 sun_flare06.ddt
 sun_flare07.ddt
 sunred.ddt
+superspeedway_speedway_p2p1_rev.spl
 surfaceeffects.txt
 suspensions.txt
 temp.txt
@@ -7966,6 +8078,10 @@ west anderson_eve_dry.atm
 west anderson_shad_eve.shd
 wheel_aros_v1.ddt
 wheel_aros_v1_blur.ddt
+wheel_aros_v2.ddt
+wheel_aros_v2_blur.ddt
+wheel_aros_v3.ddt
+wheel_aros_v3_blur.ddt
 wheel_aros_v4.ddt
 wheel_aros_v4_blur.ddt
 wheel_aros_v5.ddt
@@ -8107,6 +8223,7 @@ wheel_konig_vs6_19_blur.d8m
 wheel_konig_vs7_19.d8m
 wheel_konig_vs7_19_blur.d8m
 wheel_konig_vs8_19.d8m
+wheel_konig_vs8_19_19.d8m
 wheel_konig_vs8_19_blur.d8m
 wheel_konig_vs9_19.d8m
 wheel_konig_vs9_19_blur.d8m
@@ -8116,6 +8233,10 @@ wheel_momo_v2.ddt
 wheel_momo_v2_blur.ddt
 wheel_momo_v3.ddt
 wheel_momo_v3_blur.ddt
+wheel_momo_v4.ddt
+wheel_momo_v4_blur.ddt
+wheel_momo_v5.ddt
+wheel_momo_v5_blur.ddt
 wheel_momo_vs1_17.d8m
 wheel_momo_vs1_17_blur.d8m
 wheel_momo_vs2_18.d8m
@@ -8196,6 +8317,12 @@ wheel_speed_v1.ddt
 wheel_speed_v1_blur.ddt
 wheel_speed_v2.ddt
 wheel_speed_v2_blur.ddt
+wheel_speed_v3.ddt
+wheel_speed_v3_blur.ddt
+wheel_speed_v4.ddt
+wheel_speed_v4_blur.ddt
+wheel_speed_v5.ddt
+wheel_speed_v5_blur.ddt
 wheel_speed_v6.ddt
 wheel_speed_v6_blur.ddt
 wheel_speed_vs1_17.d8m
