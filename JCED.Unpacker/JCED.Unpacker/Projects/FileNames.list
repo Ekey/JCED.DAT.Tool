@@ -4313,6 +4313,7 @@ mesh\celica_2_chass_shad.ocd
 mesh\celica_2_decal_checks_vs1.d8m
 mesh\celica_2_decal_checks_vs2.d8m
 mesh\celica_2_decal_checks_vs3.d8m
+mesh\celica_2_decal_crew_vs5.d8m
 mesh\celica_2_decal_crew_vs7.d8m
 mesh\celica_2_decal_fandf_vs1.d8m
 mesh\celica_2_decal_fandf_vs2.d8m
@@ -4374,8 +4375,14 @@ mesh\celica_chass_shad.ocd
 mesh\celica_decal_checks_vs1.d8m
 mesh\celica_decal_checks_vs2.d8m
 mesh\celica_decal_checks_vs3.d8m
+mesh\celica_decal_crew_vs1.d8m
+mesh\celica_decal_crew_vs2.d8m
+mesh\celica_decal_crew_vs4.d8m
+mesh\celica_decal_crew_vs5.d8m
+mesh\celica_decal_crew_vs6.d8m
 mesh\celica_decal_crew_vs7.d8m
 mesh\celica_decal_fandf_vs1.d8m
+mesh\celica_decal_fandf_vs10.d8m
 mesh\celica_decal_fandf_vs2.d8m
 mesh\celica_decal_fandf_vs3.d8m
 mesh\celica_decal_fandf_vs4.d8m
@@ -5743,6 +5750,7 @@ mesh\mats\celica_primer.pmd
 mesh\mats\celica_whblur.pmd
 mesh\mats\celica_whblur_s.pmd
 mesh\mats\celica_wheel.pmd
+mesh\mats\celica_wheel_lod.pmd
 mesh\mats\charger_black.pmd
 mesh\mats\charger_body.pmd
 mesh\mats\charger_brklight.pmd
@@ -6346,6 +6354,7 @@ mesh\mats\wh_camaro_blur_s.pmd
 mesh\mats\wh_camaro_lod.pmd
 mesh\mats\wh_celica_2_blur.pmd
 mesh\mats\wh_celica_2_blur_s.pmd
+mesh\mats\wh_celica_2_lod.pmd
 mesh\mats\wh_civic_97_blur.pmd
 mesh\mats\wh_civic_97_blur_s.pmd
 mesh\mats\wh_civicr_blur.pmd
@@ -6563,6 +6572,10 @@ mesh\mr2_decal_checks_vs1.d8m
 mesh\mr2_decal_checks_vs2.d8m
 mesh\mr2_decal_checks_vs3.d8m
 mesh\mr2_decal_crew_vs1.d8m
+mesh\mr2_decal_crew_vs2.d8m
+mesh\mr2_decal_crew_vs4.d8m
+mesh\mr2_decal_crew_vs5.d8m
+mesh\mr2_decal_crew_vs6.d8m
 mesh\mr2_decal_crew_vs7.d8m
 mesh\mr2_decal_fandf_vs1.d8m
 mesh\mr2_decal_fandf_vs2.d8m
@@ -10580,6 +10593,7 @@ windows\english\suppliers.eng
 windows\english\suspensionmenu.eng
 windows\english\tintsmenu.eng
 windows\english\tuningmenu.eng
+windows\english\vid_demo.eng
 windows\english\vid_extras.eng
 windows\english\vid_tutorial.eng
 windows\english\videos.eng
@@ -11568,6 +11582,7 @@ windows\suppliers.ui
 windows\suspensionmenu.ui
 windows\tintsmenu.ui
 windows\tuningmenu.ui
+windows\vid_demo.ui
 windows\vid_extras.ui
 windows\vid_tutorial.ui
 windows\videos.ui
