@@ -334,6 +334,7 @@ bluetest.ddt
 bonnet_collidee.ocd
 bonnet_collider.ocd
 brake_blur.ddt
+brake_disc.ddt
 brake_disc2.ddt
 brake_disc2_bk.ddt
 brakes.txt
@@ -556,6 +557,10 @@ crx_wheel.d8m
 crx_wheel_blur.d8m
 czech.txt
 dealer_env.dds
+decal1.ddt
+decal2.ddt
+decal3.ddt
+decal4.ddt
 decal_aem.ddt
 decal_alpine.ddt
 decal_apexi.ddt
@@ -1378,12 +1383,14 @@ golf_fbump.d8m
 golf_fbump_vs1.d8m
 golf_fbump_vs2.d8m
 golf_fbump_vs3.d8m
+golf_glass.ddt
 golf_rbump.d8m
 golf_rbump_vs1.d8m
 golf_rbump_vs2.d8m
 golf_rbump_vs3.d8m
 golf_root.d8m
 golf_stock.boh
+golf_wheel.ddt
 graffiti_finish.ddt
 graffiti_start.ddt
 grain01.ddt
@@ -8299,6 +8306,7 @@ sun_flare06.ddt
 sun_flare07.ddt
 sunred.ddt
 superspeedway_speedway_p2p1_rev.spl
+supra_wheel.ddt
 surfaceeffects.txt
 suspensions.txt
 telegraph_pole.ddt
@@ -9783,6 +9791,7 @@ ui_westanderson_yellow04.d8m
 ui_westanderson_yellow05.d8m
 vent01.ddt
 vette_body.ddt
+vette_wheel.ddt
 vssver.scc
 wa_jun01.ddt
 wa_jun02.ddt
