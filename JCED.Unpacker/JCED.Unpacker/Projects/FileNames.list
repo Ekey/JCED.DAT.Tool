@@ -9,12 +9,16 @@
 .#effectsdefs_dry.txt.1.1
 .#induction.txt.1.4
 1ang_airport.ddt
+1ang_airport_road.ddt
+1ang_airportspec.ddt
 1ang_beach.ddt
 1ang_brownbuild1.ddt
+1ang_camp_sand.ddt
 1ang_camp_sand2.ddt
 1ang_canyon.ddt
 1ang_chem_tank01.ddt
 1ang_cliff.ddt
+1ang_cliff2.ddt
 1ang_cliffsea.ddt
 1ang_concrete.ddt
 1ang_crane01.ddt
@@ -53,6 +57,7 @@
 1ang_pow_chimwall.ddt
 1ang_pow_panel.ddt
 1ang_pow_roof.ddt
+1ang_powerland.ddt
 1ang_powerland2.ddt
 1ang_powerland2cliff.ddt
 1ang_pylon.ddt
@@ -63,6 +68,7 @@
 1ang_river2sea.ddt
 1ang_riverspec.ddt
 1ang_road.ddt
+1ang_road2.ddt
 1ang_road4.ddt
 1ang_roadspec.ddt
 1ang_rooftop.ddt
@@ -92,17 +98,39 @@
 300zx_misc.ddt
 300zx_misc2.ddt
 300zx_wheel.ddt
+50_grey.ddt
 _cmscrewmates.txt
 _new_cardefs.txt
 ab_bigworld.d8m
 ab_buildings.d8m
 ab_canyon.ddt
+ab_corner01.ddt
 ab_desert2.ddt
 ab_farms.ddt
+ab_finish01.ddt
+ab_jun01.ddt
+ab_jun02.ddt
+ab_kerb.ddt
+ab_newcarlogo01.ddt
+ab_newcarlogo02.ddt
+ab_ped_1.ddt
+ab_ped_1a.ddt
+ab_ped_2.ddt
 ab_road.ddt
+ab_road01.ddt
+ab_road01blank.ddt
+ab_road02.ddt
+ab_road03.ddt
+ab_road03a.ddt
+ab_road04.ddt
+ab_road05.ddt
+ab_road05_rub.ddt
+ab_road05_ruba.ddt
 ab_stadwall.ddt
+ab_start01.ddt
 ab_start_finish01.ddt
 ab_village.ddt
+alpha.ddt
 alpha2.ddt
 alpha_green.ddt
 anderson_cruise01_intro.cam
@@ -124,7 +152,14 @@ angel north central_angel_north_r3_rev.d8m
 angel north central_angel_north_r3_rev.d8w
 angel north central_angel_north_r3_rev.ocl
 angel north central_angel_north_r3_rev.spl
+angel north central_eve_dry.atm
+angel north central_eve_wet.atm
+angel north central_morn_dry.atm
+angel north central_morn_wet.atm
+angel north central_night_dry.atm
+angel north central_night_wet.atm
 angel north central_noon_dry.atm
+angel north central_noon_wet.atm
 angel north central_shad_noon.shd
 angel superspeedway.tdf
 angel superspeedway_0.pqh
@@ -220,7 +255,14 @@ angel westside_angelwest_r1_rev.d8m
 angel westside_angelwest_r1_rev.d8w
 angel westside_angelwest_r1_rev.ocl
 angel westside_angelwest_r1_rev.spl
+angel westside_eve_dry.atm
+angel westside_eve_wet.atm
+angel westside_morn_dry.atm
+angel westside_morn_wet.atm
+angel westside_night_dry.atm
+angel westside_night_wet.atm
 angel westside_noon_dry.atm
+angel westside_noon_wet.atm
 angel westside_shad_noon.shd
 angel_city.boh
 angel_north_cruise01_intro.cam
@@ -255,6 +297,7 @@ arcade_shadow.ddt
 arcadecollection.txt
 arcaderaces.txt
 arcadeunlock.txt
+armchair01.ddt
 atmospheres\arcadecars.atm
 atmospheres\dealer.atm
 atmospheres\default.atm
@@ -265,7 +308,17 @@ atmospheres\respect.atm
 atmospheres\rolling.atm
 atmospheres\scrapyard.atm
 atmospheres\showroom.atm
+backfloor01.ddt
+backfloor02.ddt
+backfloor04.ddt
+backfloor05.ddt
+backfloor09.ddt
 barrel01.ddt
+barrier01.ddt
+barrier02.ddt
+barrier_camp.ddt
+barrier_coast.ddt
+barrier_coast02.ddt
 bighot01_mid.d8m
 bighot01_top.d8m
 bighot02_mid.d8m
@@ -274,18 +327,26 @@ bighot03_mid.d8m
 bighot03_top.d8m
 bighot04_mid.d8m
 bighot04_top.d8m
+billboard_frame.ddt
 black.ddt
 black2.ddt
+bluetest.ddt
 bonnet_collidee.ocd
 bonnet_collider.ocd
+brake_blur.ddt
 brake_disc2.ddt
+brake_disc2_bk.ddt
 brakes.txt
+bridgearch2.ddt
+bridgespan.ddt
+bridgestrut01.ddt
 building_light01.ddt
 building_site.d8m
 buildingsite_ceiling.ddt
 buildingsite_fence.ddt
 buildingsite_girders.ddt
 buildingsite_windows.ddt
+cables01.ddt
 campbell hills.tdf
 campbell hills_1.pqh
 campbell hills_1.sqh
@@ -316,8 +377,12 @@ campbell hills_campbell_r2_rev.d8m
 campbell hills_campbell_r2_rev.d8w
 campbell hills_campbell_r2_rev.ocl
 campbell hills_campbell_r2_rev.spl
+campbell hills_eve_dry.atm
 campbell hills_eve_wet.atm
+campbell hills_morn_dry.atm
+campbell hills_morn_wet.atm
 campbell hills_night_dry.atm
+campbell hills_night_wet.atm
 campbell hills_noon_dry.atm
 campbell hills_noon_wet.atm
 campbell hills_shad_night.shd
@@ -334,10 +399,12 @@ campbell_r3_rev_intro.cam
 campbell_r4_intro.cam
 campbell_r4_rev_intro.cam
 campbell_sprint01_intro.cam
+canyon.ddt
 car_flare01.ddt
 car_flare_brk.ddt
 car_flare_reflect.ddt
 carbon.ddt
+carbon_mask.ddt
 carcollection.txt
 cardefs.000
 cardefs.001
@@ -380,9 +447,42 @@ celica_sskirt_vs2_r.d8m
 celica_stock.boh
 celica_wheel.d8m
 celica_wheel_blur.d8m
+ch_cemetery.ddt
 ch_flats01_lod03.d8m
+ch_garden.ddt
+ch_robhouse01.ddt
+ch_robhouse02_so.ddt
+ch_robhouse03_so.ddt
+ch_robhouse04_so.ddt
+ch_robhouse06_so.ddt
+ch_robhouse08_so.ddt
+ch_robhouse09_so.ddt
+ch_robhouse10.ddt
+ch_robhouse11.ddt
+ch_robhouse29_so.ddt
+ch_robhouse30.ddt
+ch_robhouse33_so.ddt
+ch_robhouse34_so.ddt
 ch_temphousing01_lod04.d8m
+ch_townhouse2.ddt
+ch_townhouse3.ddt
+ch_wall_low.ddt
+chem_tank01.ddt
+churchroof_ab.ddt
+citygrid_right.ddt
+cityleft.ddt
+citymap.boh
 civic_body.ddt
+cliff_camp1.ddt
+cliff_camp1imb.ddt
+cliff_camp_dist1.ddt
+cliff_camptop.ddt
+cliff_coast2.ddt
+cliff_coast5_2.ddt
+cliff_coast6_2.ddt
+cliff_coast8.ddt
+cliff_coastimb_2.ddt
+cliff_coastjoin2.ddt
 cloudcast.dds
 cmscareerchallenges.txt
 cmscrew01collection.txt
@@ -408,7 +508,10 @@ cmscrewmates.txt
 cmscrews.txt
 cmsflyers.txt
 cmsplayerscrewcollection.txt
+coastroadside_2.ddt
+cobra_exhaust.ddt
 combos.ddt
+concrete_docks.ddt
 controls_dx9.txt
 controls_dx9_c.txt
 controls_dx9_e.txt
@@ -551,6 +654,8 @@ demo_dynamic_supra.txt
 demo_dynamic_vette_zo6.txt
 demo_dynamic_viper.txt
 demounlock.txt
+diner1_ab.ddt
+diner_ab.ddt
 dnas_scea_english.txt
 dnas_scea_french.txt
 dnas_scea_spanish.txt
@@ -573,11 +678,24 @@ don_comp_f5_at.ddt
 don_comp_flats1_l1.d8m
 don_comp_flats2_l3.d8m
 don_comp_h11_so.ddt
+don_comp_h13_so.ddt
+don_comp_h14_s.ddt
+don_comp_h15_so.ddt
+don_comp_h16_so.ddt
 don_comp_h17_so.ddt
 don_comp_h18_at.ddt
 don_comp_h19_so.ddt
 don_comp_h20_s.ddt
 don_comp_h21_s0.ddt
+don_comp_h26_so.ddt
+don_comp_h27_so.ddt
+don_comp_h28_at.ddt
+don_comp_h29_at.ddt
+don_comp_h2_s.ddt
+don_comp_h30_so.ddt
+don_comp_h3_scopy.ddt
+don_comp_h4_so.ddt
+don_comp_h5_so.ddt
 don_comp_h6_so.ddt
 don_comp_h7_so.ddt
 don_comp_h8_s.ddt
@@ -585,6 +703,7 @@ don_comp_hillhouse_l2.d8m
 don_comp_house10a.d8m
 don_comp_lite.ddt
 don_comp_roof.ddt
+don_comp_roof1.ddt
 don_comp_sh10_so.ddt
 don_comp_sh1_so.ddt
 don_comp_sh22_s.ddt
@@ -593,6 +712,7 @@ don_comp_sh24_so.ddt
 don_comp_sh25_so.ddt
 don_comp_sh2_so.ddt
 don_comp_sh3_at.ddt
+don_comp_sh5_so.ddt
 don_comp_shop10_l1.d8m
 don_comp_shop12_l1.d8m
 don_comp_shop13_l1.d8m
@@ -670,6 +790,10 @@ don_timer.ddt
 don_toolbox1.ddt
 don_toolbox2.ddt
 don_toolbox3.ddt
+don_tower_1so.ddt
+don_tower_2s.ddt
+don_tower_at.ddt
+don_tower_so.ddt
 don_wall4.ddt
 don_wheel1.ddt
 don_wheel2.ddt
@@ -680,8 +804,23 @@ don_window.ddt
 don_window1.ddt
 don_windowdirt.ddt
 don_windowdirt1.ddt
+donna_window01_at.ddt
+donna_window02_at.ddt
+donna_window03_at.ddt
+donna_window04_at.ddt
+donna_window05_at.ddt
+donna_window06_at.ddt
+donna_window07_at.ddt
+donna_window08_at.ddt
+donna_window09_at.ddt
+donna_window10_at.ddt
+donna_window11_at.ddt
+donna_window12_at.ddt
+donna_window13_at.ddt
+donna_window14_at.ddt
 downfrnt_light.ddt
 downshop_01_lit.ddt
+downshop_02_lit.ddt
 downshop_03_lit.ddt
 downtop_01_lit.ddt
 downtop_02_lit.ddt
@@ -723,9 +862,14 @@ downtown angel city_downtown_r3.d8m
 downtown angel city_downtown_r3.d8w
 downtown angel city_downtown_r3.ocl
 downtown angel city_downtown_r3.spl
+downtown angel city_eve_dry.atm
+downtown angel city_eve_wet.atm
 downtown angel city_morn_dry.atm
+downtown angel city_morn_wet.atm
 downtown angel city_night_dry.atm
+downtown angel city_night_wet.atm
 downtown angel city_noon_dry.atm
+downtown angel city_noon_wet.atm
 downtown angel city_shad_morn.shd
 downtown angel city_shad_night.shd
 downtown angel city_shad_noon.shd
@@ -742,6 +886,8 @@ downtown_r4_intro.cam
 downtown_r4_rev_intro.cam
 downtown_sprint_intro.cam
 driver.d8m
+dumper01.ddt
+dumper02.ddt
 dynamic_3000gt.txt
 dynamic_300zx.txt
 dynamic_350z.txt
@@ -817,6 +963,13 @@ dynamic_wmir_r.txt
 dynamic_wrx2.txt
 e.bat
 e3unlock.txt
+eai_bridgecross.ddt
+eai_bridgerivets.ddt
+eai_bridgestrut2.ddt
+eai_hotel1_slate1.ddt
+eai_hotel3_roof.ddt
+eai_whouse2.ddt
+eai_whouse3.ddt
 east angel island.tdf
 east angel island_1.pqh
 east angel island_1.sqh
@@ -843,7 +996,13 @@ east angel island_east_angel_r3_rev.d8w
 east angel island_east_angel_r3_rev.ocl
 east angel island_east_angel_r3_rev.spl
 east angel island_eve_dry.atm
+east angel island_eve_wet.atm
+east angel island_morn_dry.atm
+east angel island_morn_wet.atm
+east angel island_night_dry.atm
+east angel island_night_wet.atm
 east angel island_noon_dry.atm
+east angel island_noon_wet.atm
 east angel island_shad_eve.shd
 east angel island_shad_noon.shd
 east_angel_cruise01_intro.cam
@@ -867,6 +1026,7 @@ effectsdefs_wet.txt
 effectsdefsdt_com.txt
 effectsdefsdt_dry.txt
 effectsdefsdt_wet.txt
+engine.ddt
 english.txt
 engstrom district.tdf
 engstrom district_0.pqh
@@ -908,10 +1068,13 @@ engstrom district_engstrom_sprint01.d8w
 engstrom district_engstrom_sprint01.ocl
 engstrom district_engstrom_sprint01.spl
 engstrom district_eve_dry.atm
+engstrom district_eve_wet.atm
 engstrom district_morn_dry.atm
 engstrom district_morn_wet.atm
 engstrom district_night_dry.atm
+engstrom district_night_wet.atm
 engstrom district_noon_dry.atm
+engstrom district_noon_wet.atm
 engstrom district_shad_eve.shd
 engstrom district_shad_morn.shd
 engstrom district_shad_night.shd
@@ -1026,9 +1189,17 @@ exhausts.txt
 exhausts.txt.old
 factory01.ddt
 falcon_exhaust.ddt
+farms.ddt
 fbump_collidee.ocd
 fbump_collider.ocd
+fence_crane01.ddt
+fence_la.ddt
+fence_middle.ddt
+fence_oval.ddt
+fence_oval_top.ddt
+fence_side2.ddt
 filelist.txt
+fire01.ddt
 flake.ddt
 flakes1.ddt
 flame01.ddt
@@ -1147,9 +1318,33 @@ fto_logo.ddt
 fto_misc.ddt
 fto_misc2.ddt
 fto_misc3.ddt
+gar2_back.ddt
+gar2_floor.ddt
+gar2_front.ddt
+gar2_right.ddt
+gar2_roof.ddt
+gar_back.ddt
+gar_brick.ddt
+gar_door.ddt
+gar_filing_1.ddt
+gar_floor.ddt
+gar_front.ddt
+gar_l.ddt
+gar_metal.ddt
+gar_oil_drum.ddt
+gar_post_1.ddt
+gar_post_2.ddt
+gar_post_3.ddt
+gar_post_4.ddt
+gar_post_5.ddt
+gar_side.ddt
+gar_top.ddt
+gar_top2.ddt
 garage.boh
 garage2.boh
 garage_env.dds
+garage_roof1.ddt
+garage_wall1.ddt
 garageout_door.ddt
 garageout_floor.ddt
 garageout_front1.ddt
@@ -1167,8 +1362,11 @@ gen_neon.ddt
 gen_shadow.boh
 gen_shadow.d8m
 gen_shadow.ddt
+gen_shadow01.ddt
 german.txt
+goldengate.ddt
 goldengate_con.ddt
+goldengate_strut.ddt
 golf_body.ddt
 golf_bonnet.d8m
 golf_bonnet_vs1.d8m
@@ -1186,6 +1384,14 @@ golf_rbump_vs2.d8m
 golf_rbump_vs3.d8m
 golf_root.d8m
 golf_stock.boh
+graffiti_finish.ddt
+graffiti_start.ddt
+grain01.ddt
+grain_win.ddt
+grass_field2.ddt
+grass_la.ddt
+grass_la_red.ddt
+grass_la_yellow.ddt
 green_col_sphere.d8m
 ground.d8m
 gtr_bod.ddt
@@ -1221,15 +1427,32 @@ gtr_stock.boh
 gtr_under.ddt
 harbourwall.ddt
 headlight_b.ddt
+headlight_l.ddt
 heathaze.ddt
+hedge.ddt
+hotel01_at.ddt
 hotel02_at.ddt
 hotel03_at.ddt
 hotel04_at.ddt
+hotel_bot01_at.ddt
+hotel_bot02_at.ddt
+hotel_bot03_at.ddt
+hotel_bot04_at.ddt
+hotel_gen8.ddt
 hotwin01.ddt
 hotwin02.ddt
 hotwin03.ddt
+house_window01_at.ddt
+house_window02_at.ddt
+house_window03_at.ddt
+house_window04_at.ddt
+house_window05_at.ddt
+house_window06_at.ddt
+house_window06a_at.ddt
+house_window07_at.ddt
 ice.txt
 induction.txt
+island.ddt
 italian.txt
 jettextc.txt
 jettexte.txt
@@ -1239,6 +1462,9 @@ jettexti.txt
 jettextp.txt
 jettextr.txt
 jettexts.txt
+junctionbox01.ddt
+junctionbox02.ddt
+la_concwal1.ddt
 lamp_flare.ddt
 lamp_flare1.ddt
 lamp_flare2.ddt
@@ -1249,8 +1475,15 @@ lampost_la.ddt
 lampost_lal1.d8m
 leaf_a_01.ddt
 leaves01.ddt
+leaves02.ddt
 leaves06.ddt
+leaves09.ddt
+leaves13.ddt
+lightflare_reflection.ddt
+lorry01.ddt
+lorry01a.ddt
 mag_exhaust.ddt
+material#28.ddt
 material_2dblur.fxo
 material_2texmodulare.fxo
 material_2texmodularespec.fxo
@@ -1325,7 +1558,12 @@ material_vertcoloured.fxo
 material_vertcolouredunlit.fxo
 material_water.fxo
 material_watertool.fxo
+mats\1 - default.pmd
+mats\14 - default.pmd
+mats\15 - default.pmd
+mats\19 - default.pmd
 mats\1ang_airport.pmd
+mats\1ang_airport_road.pmd
 mats\1ang_brownbulid1.pmd
 mats\1ang_camp_sand2.pmd
 mats\1ang_canyon.pmd
@@ -1340,6 +1578,7 @@ mats\1ang_fire_escape.pmd
 mats\1ang_grass_powe.pmd
 mats\1ang_grassmud.pmd
 mats\1ang_harbour2.pmd
+mats\1ang_hotel1.pmd
 mats\1ang_hotelblue.pmd
 mats\1ang_hotelred1.pmd
 mats\1ang_hotelwhite1.pmd
@@ -1377,7 +1616,10 @@ mats\1ang_town2farm.pmd
 mats\1ang_tree1.pmd
 mats\1ang_tree2.pmd
 mats\1ang_treepalm.pmd
+mats\1ang_treepalm2.pmd
 mats\1ang_villag.pmd
+mats\1angsea_coast.pmd
+mats\2 - default.pmd
 mats\3 - default.pmd
 mats\3000gt_body.pmd
 mats\3000gt_glass.pmd
@@ -1406,13 +1648,34 @@ mats\350z_misc.pmd
 mats\350z_misc2.pmd
 mats\350z_misc3.pmd
 mats\350z_wheel.pmd
+mats\5 - default.pmd
 mats\8 - default.pmd
 mats\_17.pmd
 mats\ab_canyon.pmd
+mats\ab_corner01.pmd
 mats\ab_desert2.pmd
 mats\ab_farms.pmd
+mats\ab_jun01.pmd
+mats\ab_jun02.pmd
+mats\ab_kerb.pmd
+mats\ab_newcarlogo01.pmd
+mats\ab_newcarlogo01a.pmd
+mats\ab_newcarlogo02a.pmd
+mats\ab_p2p_finish01.pmd
+mats\ab_p2p_start01.pmd
+mats\ab_ped_1.pmd
+mats\ab_ped_1a.pmd
+mats\ab_ped_2.pmd
 mats\ab_road.pmd
+mats\ab_road01.pmd
+mats\ab_road01blank.pmd
+mats\ab_road02.pmd
+mats\ab_road03.pmd
+mats\ab_road03a.pmd
+mats\ab_road04.pmd
+mats\ab_road05.pmd
 mats\ab_stadwal_fix.pmd
+mats\ab_start_finish01.pmd
 mats\ab_village.pmd
 mats\alfa_gt_body.pmd
 mats\alfa_gt_misc2.pmd
@@ -1433,7 +1696,16 @@ mats\aros_vs6_rim.pmd
 mats\aros_vs7_rim.pmd
 mats\aros_vs8_rim.pmd
 mats\aros_vs9_rim.pmd
+mats\backpoly.pmd
+mats\barrel01.pmd
 mats\barrel01_op.pmd
+mats\barrier01.pmd
+mats\barrier02.pmd
+mats\barrier2.pmd
+mats\barrier_camp.pmd
+mats\barrier_coast.pmd
+mats\barrier_coast02.pmd
+mats\bbs_o_wheel.pmd
 mats\bbs_vs10_wheel.pmd
 mats\bbs_vs1_wheel.pmd
 mats\bbs_vs2_wheel.pmd
@@ -1443,6 +1715,7 @@ mats\bbs_vs5_wheel.pmd
 mats\bbs_vs6_wheel.pmd
 mats\bbs_vs7_wheel.pmd
 mats\bbs_vs8_wheel.pmd
+mats\bbs_vs9_wheel.pmd
 mats\beech.pmd
 mats\beetle_body.pmd
 mats\beetle_glass.pmd
@@ -1452,10 +1725,19 @@ mats\beetle_primer.pmd
 mats\black.pmd
 mats\black2.pmd
 mats\black3.pmd
+mats\black_3.pmd
+mats\black_roof.pmd
+mats\bluegrey.pmd
+mats\body.pmd
+mats\box_jamie.pmd
+mats\brake_b.pmd
+mats\brake_blur.pmd
 mats\brake_disc.pmd
 mats\brake_disc2.pmd
 mats\brake_disc2_bk.pmd
 mats\brake_disc_bk.pmd
+mats\brake_disk.pmd
+mats\bridgestrut01.pmd
 mats\buildingsite_ceiling.pmd
 mats\buildingsite_fence.pmd
 mats\buildingsite_girders.pmd
@@ -1466,9 +1748,17 @@ mats\camaro70_misc1.pmd
 mats\camaro70_misc2.pmd
 mats\camaro70_noplate.pmd
 mats\camaro70_primer.pmd
+mats\canyon.pmd
+mats\car1.pmd
+mats\car1_wheel.pmd
+mats\car_body.pmd
+mats\car_body_xpe.pmd
 mats\carbon.pmd
+mats\carbon_fibre.pmd
+mats\carspline01.pmd
 mats\celica_2_black.pmd
 mats\celica_2_body.pmd
+mats\celica_2_chrome.pmd
 mats\celica_2_glass.pmd
 mats\celica_2_hlight_glass.pmd
 mats\celica_2_int.pmd
@@ -1491,13 +1781,41 @@ mats\celica_no_fbump.pmd
 mats\celica_primer.pmd
 mats\celica_whblur.pmd
 mats\celica_wheel.pmd
+mats\celica_windows.pmd
+mats\ch_garden.pmd
+mats\ch_handrail.pmd
+mats\ch_railings.pmd
+mats\ch_robhouse01.pmd
+mats\ch_robhouse02_so.pmd
+mats\ch_robhouse03_so.pmd
+mats\ch_robhouse04_so.pmd
+mats\ch_robhouse06_so.pmd
+mats\ch_robhouse08_so.pmd
+mats\ch_robhouse09_so.pmd
+mats\ch_robhouse10.pmd
+mats\ch_robhouse11.pmd
+mats\ch_robhouse29_so.pmd
+mats\ch_robhouse30.pmd
+mats\ch_robhouse33_so.pmd
+mats\ch_robhouse34_so.pmd
+mats\ch_townhouse02.pmd
+mats\ch_townhouse03.pmd
+mats\charger_black.pmd
 mats\charger_body.pmd
 mats\charger_chrome.pmd
 mats\charger_glass.pmd
+mats\charger_hlight_glass.pmd
 mats\charger_int.pmd
 mats\charger_logo.pmd
 mats\charger_misc.pmd
 mats\charger_primer.pmd
+mats\charger_wheel.pmd
+mats\chem_tank01.pmd
+mats\chrome.pmd
+mats\churchroof_ab.pmd
+mats\city1.pmd
+mats\cityleft.pmd
+mats\cityright.pmd
 mats\civic_97_body.pmd
 mats\civic_97_glass.pmd
 mats\civic_97_hlit_glass.pmd
@@ -1521,11 +1839,38 @@ mats\civicr_misc.pmd
 mats\civicr_revlight.pmd
 mats\civicr_wheel.pmd
 mats\cliff.pmd
+mats\cliff_camp1.pmd
+mats\cliff_camp1imb.pmd
+mats\cliff_camp_dist1.pmd
+mats\cliff_camptop.pmd
+mats\cliff_coast2.pmd
+mats\cliff_coast3.pmd
+mats\cliff_coast5.pmd
+mats\cliff_coast6.pmd
+mats\cliff_coastimb.pmd
+mats\cliff_coastjoin.pmd
 mats\cliffsea.pmd
 mats\clio_wheel.pmd
+mats\coast_road.pmd
+mats\coast_road_trans.pmd
+mats\coastroadside.pmd
+mats\cobra_body.pmd
+mats\cobra_brklight.pmd
 mats\cobra_exhaust.pmd
+mats\cobra_glass.pmd
+mats\cobra_int.pmd
+mats\cobra_logo.pmd
+mats\cobra_misc.pmd
+mats\cobra_wheel.pmd
 mats\combos.pmd
 mats\con_comp_shop22_s.pmd
+mats\concrete_docks.pmd
+mats\concrete_grate.pmd
+mats\concrete_levy.pmd
+mats\concrete_levy_wall.pmd
+mats\concrete_pattern.pmd
+mats\copy of street_rubbish.pmd
+mats\copy of wh_ox_vella.pmd
 mats\corolla_body.pmd
 mats\corolla_brklight.pmd
 mats\corolla_glass.pmd
@@ -1553,11 +1898,20 @@ mats\crane01.pmd
 mats\crane_cabin.pmd
 mats\cranebase01.pmd
 mats\cranechev01.pmd
+mats\crx_baremetal.pmd
 mats\crx_body.pmd
 mats\crx_brklight.pmd
 mats\crx_misc.pmd
 mats\crx_primer.pmd
+mats\crx_rubber.pmd
+mats\crx_whblur.pmd
 mats\crx_wheel.pmd
+mats\crx_windows.pmd
+mats\dac_fence.pmd
+mats\dac_harb.pmd
+mats\dac_puddles.pmd
+mats\dac_river.pmd
+mats\dac_tunnel_ceil.pmd
 mats\decal1.pmd
 mats\decal10.pmd
 mats\decal11.pmd
@@ -1570,6 +1924,10 @@ mats\decal6.pmd
 mats\decal7.pmd
 mats\decal8.pmd
 mats\decal9.pmd
+mats\decal_2.pmd
+mats\decal_3.pmd
+mats\decal_4.pmd
+mats\decal_blitz.pmd
 mats\decal_checks_vs1.pmd
 mats\decal_checks_vs2.pmd
 mats\decal_checks_vs3.pmd
@@ -1621,12 +1979,22 @@ mats\decal_tribal_vs5.pmd
 mats\decal_tribal_vs6.pmd
 mats\decal_tribal_vs7.pmd
 mats\decal_tribal_vs8.pmd
+mats\decal_vs1.pmd
+mats\decal_vs2.pmd
+mats\decal_vs4.pmd
+mats\decals.pmd
+mats\diner1_ab.pmd
+mats\diner_ab.pmd
+mats\dkdkgrey.pmd
+mats\dkgrey.pmd
 mats\dodge_srt_black.pmd
 mats\dodge_srt_body.pmd
+mats\dodge_srt_chrome.pmd
 mats\dodge_srt_glass.pmd
 mats\dodge_srt_logo.pmd
 mats\dodge_srt_misc.pmd
 mats\dodge_srt_primer.pmd
+mats\dodge_srt_wheel.pmd
 mats\don_barrel.pmd
 mats\don_bench1.pmd
 mats\don_box.pmd
@@ -1637,23 +2005,39 @@ mats\don_comp_f2_so.pmd
 mats\don_comp_f3.pmd
 mats\don_comp_f4_at.pmd
 mats\don_comp_f5.pmd
+mats\don_comp_h13_s.pmd
+mats\don_comp_h14.pmd
+mats\don_comp_h15_so.pmd
+mats\don_comp_h16_so.pmd
 mats\don_comp_h17_so.pmd
 mats\don_comp_h18_at.pmd
 mats\don_comp_h19_so.pmd
 mats\don_comp_h20_s.pmd
 mats\don_comp_h21_so.pmd
 mats\don_comp_h25_so.pmd
+mats\don_comp_h26_so.pmd
+mats\don_comp_h27_so.pmd
+mats\don_comp_h28_at.pmd
+mats\don_comp_h29_at.pmd
+mats\don_comp_h2_s.pmd
+mats\don_comp_h3.pmd
+mats\don_comp_h30_so.pmd
+mats\don_comp_h4_so.pmd
+mats\don_comp_h5_so.pmd
 mats\don_comp_h6_so.pmd
 mats\don_comp_h7_so.pmd
 mats\don_comp_h8_so.pmd
 mats\don_comp_lite.pmd
 mats\don_comp_roof.pmd
+mats\don_comp_roof1.pmd
 mats\don_comp_sh1_so.pmd
 mats\don_comp_sh2_so.pmd
 mats\don_comp_sh3_at.pmd
+mats\don_comp_sh5_so.pmd
 mats\don_comp_shop13.pmd
 mats\don_comp_shop23.pmd
 mats\don_comp_shop4.pmd
+mats\don_cuboard.pmd
 mats\don_cupboard.pmd
 mats\don_ddoor3.pmd
 mats\don_door.pmd
@@ -1663,9 +2047,12 @@ mats\don_droom2.pmd
 mats\don_droom3.pmd
 mats\don_elec.pmd
 mats\don_fan.pmd
+mats\don_floor.pmd
+mats\don_gascan.pmd
 mats\don_gascans.pmd
 mats\don_green.pmd
 mats\don_lift.pmd
+mats\don_lite.pmd
 mats\don_liteglow.pmd
 mats\don_lites.pmd
 mats\don_met.pmd
@@ -1682,6 +2069,7 @@ mats\don_rollin_floor.pmd
 mats\don_rollin_floor1.pmd
 mats\don_rollin_gas.pmd
 mats\don_rollin_gird.pmd
+mats\don_rollin_lamp.pmd
 mats\don_rollin_lite.pmd
 mats\don_rollin_pipe.pmd
 mats\don_rollin_plate.pmd
@@ -1717,10 +2105,22 @@ mats\don_shad_wall7.pmd
 mats\don_shadwall2.pmd
 mats\don_stone.pmd
 mats\don_timer.pmd
+mats\don_toolbox.pmd
 mats\don_toolbox1.pmd
 mats\don_toolbox2.pmd
 mats\don_toolbox3.pmd
+mats\don_tower_1so.pmd
+mats\don_tower_2s.pmd
+mats\don_tower_at.pmd
+mats\don_tower_so.pmd
+mats\don_wall1.pmd
+mats\don_wall2.pmd
+mats\don_wall3.pmd
 mats\don_wall4.pmd
+mats\don_wheel1.pmd
+mats\don_wheel2.pmd
+mats\don_wheel3.pmd
+mats\don_wheel4.pmd
 mats\don_wheels.pmd
 mats\don_wheels1.pmd
 mats\don_wheels2.pmd
@@ -1730,7 +2130,19 @@ mats\don_window.pmd
 mats\don_window1.pmd
 mats\don_windowdirt.pmd
 mats\driver.pmd
+mats\driver2.pmd
 mats\dry_river.pmd
+mats\dumper01.pmd
+mats\dumper02.pmd
+mats\eai_hotel1_lobby.pmd
+mats\eai_hotel1_win.pmd
+mats\eai_hotel2_win.pmd
+mats\eai_hotel3_win.pmd
+mats\eai_hotel4_win.pmd
+mats\eai_hotel5_win.pmd
+mats\eai_hotel6_roof.pmd
+mats\eai_hotel6_win.pmd
+mats\eai_hotel_tile.pmd
 mats\ecliipse_int.pmd
 mats\eclipse_alpha.pmd
 mats\eclipse_body.pmd
@@ -1742,6 +2154,9 @@ mats\eclipse_windows.pmd
 mats\engine.pmd
 mats\engine_bay.pmd
 mats\enginebay.pmd
+mats\enkei_vs1_wheel.pmd
+mats\ev08_glass.pmd
+mats\ev08_mirror.pmd
 mats\evo6_body.pmd
 mats\evo6_brklight.pmd
 mats\evo6_glass.pmd
@@ -1760,7 +2175,9 @@ mats\evo8_mirror.pmd
 mats\evo8_misc.pmd
 mats\evo8_primer.pmd
 mats\evo8_wheel.pmd
+mats\evo_exhaust.pmd
 mats\evo_glass_hlit.pmd
+mats\exhaus.pmd
 mats\exhaust_black.pmd
 mats\exhaust_blue.pmd
 mats\exhaust_chrome.pmd
@@ -1782,12 +2199,24 @@ mats\falcon_misc.pmd
 mats\falcon_misc2.pmd
 mats\falcon_primer.pmd
 mats\fbump.pmd
+mats\fence01.pmd
+mats\fence_crane01.pmd
+mats\fence_downtown.pmd
+mats\fence_la2.pmd
+mats\fence_middle.pmd
+mats\fence_oval.pmd
+mats\fence_oval_top.pmd
+mats\fence_side2.pmd
+mats\fire.pmd
 mats\fire01.pmd
 mats\flake.pmd
 mats\flakes1.pmd
+mats\flame_top.pmd
 mats\flat1_ab.pmd
 mats\flat2_ab.pmd
 mats\flat3_ab.pmd
+mats\flats2_a.pmd
+mats\flblack.pmd
 mats\focus_2_body.pmd
 mats\focus_2_int.pmd
 mats\focus_2_misc.pmd
@@ -1798,10 +2227,14 @@ mats\focus_brklight.pmd
 mats\focus_glass.pmd
 mats\focus_hlit_glass.pmd
 mats\focus_int.pmd
+mats\focus_lig.pmd
+mats\focus_light cover.pmd
+mats\focus_lights glass.pmd
 mats\focus_logo.pmd
 mats\focus_misc.pmd
 mats\focus_misc2.pmd
 mats\focus_misc3.pmd
+mats\focus_under.pmd
 mats\focus_wheel.pmd
 mats\front_rad.pmd
 mats\fto_body.pmd
@@ -1819,27 +2252,69 @@ mats\fto_misc3.pmd
 mats\fto_primer.pmd
 mats\fto_revlight.pmd
 mats\fto_wheel.pmd
+mats\gar2_back.pmd
+mats\gar2_floor.pmd
+mats\gar2_front.pmd
+mats\gar2_right.pmd
+mats\gar2_roof.pmd
+mats\gar_back.pmd
+mats\gar_black.pmd
+mats\gar_brick.pmd
+mats\gar_door.pmd
+mats\gar_filing_1.pmd
+mats\gar_floor.pmd
+mats\gar_front.pmd
+mats\gar_l.pmd
+mats\gar_light.pmd
+mats\gar_lights.pmd
+mats\gar_metal.pmd
+mats\gar_oil_drum.pmd
+mats\gar_post_1.pmd
+mats\gar_post_2.pmd
+mats\gar_post_3.pmd
+mats\gar_post_4.pmd
+mats\gar_post_5.pmd
+mats\gar_shelves.pmd
+mats\gar_side.pmd
+mats\gar_top.pmd
+mats\gar_top2.pmd
+mats\gar_tyre.pmd
+mats\garage_wall1.pmd
+mats\garageout_door.pmd
 mats\garageout_floor.pmd
 mats\garageout_front1.pmd
 mats\garageout_front2.pmd
 mats\garageout_front3.pmd
 mats\garageout_light.pmd
+mats\garageout_roof.pmd
 mats\garageout_roof1.pmd
 mats\garageout_shad_roof1.pmd
 mats\garageout_shad_wall5.pmd
 mats\garageout_signs.pmd
 mats\garageout_wheel.pmd
+mats\garageshadow.pmd
 mats\garbage01.pmd
 mats\garbage02.pmd
 mats\gen_neon.pmd
 mats\gen_shadow.pmd
 mats\gen_under.pmd
+mats\geosphere01.pmd
+mats\glass.pmd
+mats\glass_clear.pmd
+mats\glass_dark.pmd
+mats\glass_vette.pmd
+mats\glass_xpe.pmd
+mats\goldengate.pmd
 mats\goldengate_con.pmd
 mats\goldengate_strut.pmd
 mats\golf_body.pmd
 mats\golf_brklight.pmd
 mats\golf_carbon.pmd
+mats\golf_chrome.pmd
+mats\golf_engine.pmd
 mats\golf_glass.pmd
+mats\golf_glassf.pmd
+mats\golf_hlight.pmd
 mats\golf_hlight_glass.pmd
 mats\golf_int.pmd
 mats\golf_lightson.pmd
@@ -1847,37 +2322,68 @@ mats\golf_logo.pmd
 mats\golf_misc.pmd
 mats\golf_primer.pmd
 mats\golf_revlight.pmd
+mats\golf_rlights.pmd
+mats\golf_rub.pmd
 mats\golf_wheel.pmd
+mats\golf_wheel2.pmd
 mats\graffiti_finish.pmd
 mats\graffiti_start.pmd
+mats\grass.pmd
+mats\grass_field.pmd
+mats\grass_la.pmd
+mats\grass_la_path.pmd
+mats\grass_lawn.pmd
 mats\grt_brklight.pmd
+mats\grt_lights.pmd
 mats\gt_under.pmd
+mats\gtr_bod.pmd
 mats\gtr_body.pmd
 mats\gtr_body_lod.pmd
+mats\gtr_body_poo.pmd
+mats\gtr_brklight.pmd
 mats\gtr_cap.pmd
+mats\gtr_chrome.pmd
 mats\gtr_glass.pmd
 mats\gtr_glass_lod.pmd
 mats\gtr_int.pmd
+mats\gtr_lights.pmd
 mats\gtr_logo.pmd
 mats\gtr_misc.pmd
 mats\gtr_primer.pmd
 mats\gtr_under.pmd
+mats\gtr_whblur.pmd
+mats\gtr_whblur2.pmd
 mats\gtr_wheel.pmd
 mats\harbour.pmd
 mats\harbourwall.pmd
+mats\heathaze.pmd
 mats\heathaze01.pmd
+mats\hedge.pmd
 mats\hidden.pmd
 mats\hlights_base.pmd
 mats\hlit_glass.pmd
+mats\hot01_shn.pmd
 mats\hot02_shn.pmd
 mats\hot03_shn.pmd
 mats\hot04_shn.pmd
 mats\hotel04_at.pmd
+mats\hotel_1windows.pmd
+mats\hotel_2windows.pmd
+mats\hotel_gen8.pmd
+mats\hotel_grass.pmd
 mats\hotelrow1.pmd
 mats\hotelrow2.pmd
 mats\hotwin03_shn.pmd
 mats\hotwin1_shn.pmd
 mats\hotwin2_shn.pmd
+mats\house_window01_at.pmd
+mats\house_window02_at.pmd
+mats\house_window03_at.pmd
+mats\house_window04_at.pmd
+mats\house_window05_at.pmd
+mats\house_window06_at.pmd
+mats\house_window06a_at.pmd
+mats\house_window07_at.pmd
 mats\imp1_wheel.pmd
 mats\integra2_body.pmd
 mats\integra2_brklight.pmd
@@ -1896,21 +2402,220 @@ mats\integra_misc.pmd
 mats\integra_misc2.pmd
 mats\integra_primer.pmd
 mats\interior.pmd
+mats\interior_xpe.pmd
+mats\island.pmd
+mats\junctionbox01.pmd
+mats\junctionbox02.pmd
+mats\konig_vs1_wheel.pmd
+mats\konig_vs2_wheel.pmd
+mats\la_concwal1.pmd
 mats\lampost_la.pmd
 mats\leaf1.pmd
+mats\lights.pmd
+mats\lorry01_at.pmd
+mats\lorry01_shn.pmd
+mats\lorry01a.pmd
 mats\mag_exhaust.pmd
+mats\material #0.pmd
+mats\material #1.pmd
+mats\material #10.pmd
+mats\material #100.pmd
+mats\material #101.pmd
+mats\material #102.pmd
+mats\material #103.pmd
+mats\material #104.pmd
+mats\material #105.pmd
+mats\material #106.pmd
+mats\material #107.pmd
+mats\material #108.pmd
+mats\material #109.pmd
+mats\material #11.pmd
+mats\material #110.pmd
+mats\material #111.pmd
+mats\material #112.pmd
+mats\material #113.pmd
+mats\material #12.pmd
+mats\material #13.pmd
+mats\material #14.pmd
+mats\material #15.pmd
+mats\material #151.pmd
+mats\material #158.pmd
+mats\material #16.pmd
+mats\material #17.pmd
+mats\material #18.pmd
+mats\material #184.pmd
+mats\material #19.pmd
+mats\material #193.pmd
+mats\material #194.pmd
+mats\material #198.pmd
 mats\material #2.pmd
+mats\material #20.pmd
+mats\material #21.pmd
+mats\material #22.pmd
+mats\material #23.pmd
+mats\material #24.pmd
+mats\material #25.pmd
+mats\material #26.pmd
 mats\material #27.pmd
+mats\material #28.pmd
+mats\material #29.pmd
+mats\material #3.pmd
+mats\material #30.pmd
 mats\material #31.pmd
+mats\material #32.pmd
+mats\material #33.pmd
+mats\material #334.pmd
+mats\material #34.pmd
+mats\material #35.pmd
+mats\material #36.pmd
+mats\material #37.pmd
+mats\material #38.pmd
+mats\material #39.pmd
+mats\material #4.pmd
+mats\material #40.pmd
+mats\material #41.pmd
+mats\material #42.pmd
+mats\material #43.pmd
+mats\material #44.pmd
+mats\material #45.pmd
+mats\material #46.pmd
+mats\material #47.pmd
+mats\material #48.pmd
+mats\material #49.pmd
+mats\material #5.pmd
+mats\material #50.pmd
+mats\material #54.pmd
+mats\material #549.pmd
+mats\material #55.pmd
+mats\material #56.pmd
+mats\material #57.pmd
 mats\material #5761.pmd
+mats\material #5778.pmd
+mats\material #5779.pmd
+mats\material #5780.pmd
+mats\material #5781.pmd
+mats\material #5782.pmd
+mats\material #5783.pmd
+mats\material #5784.pmd
+mats\material #5785.pmd
+mats\material #5786.pmd
+mats\material #5787.pmd
+mats\material #5788.pmd
+mats\material #5789.pmd
+mats\material #5790.pmd
+mats\material #5791.pmd
+mats\material #5792.pmd
+mats\material #5793.pmd
+mats\material #5794.pmd
+mats\material #5795.pmd
+mats\material #5796.pmd
+mats\material #5797.pmd
+mats\material #5798.pmd
+mats\material #5799.pmd
+mats\material #58.pmd
+mats\material #5800.pmd
+mats\material #5801.pmd
+mats\material #5802.pmd
+mats\material #5803.pmd
+mats\material #5804.pmd
+mats\material #5805.pmd
+mats\material #5806.pmd
+mats\material #5807.pmd
+mats\material #5808.pmd
+mats\material #5809.pmd
+mats\material #5810.pmd
+mats\material #5811.pmd
+mats\material #5812.pmd
+mats\material #5813.pmd
+mats\material #5814.pmd
+mats\material #5815.pmd
+mats\material #5816.pmd
+mats\material #5817.pmd
+mats\material #5818.pmd
+mats\material #5819.pmd
+mats\material #5820.pmd
+mats\material #5821.pmd
+mats\material #5822.pmd
+mats\material #5823.pmd
+mats\material #5824.pmd
+mats\material #5825.pmd
+mats\material #5826.pmd
+mats\material #5827.pmd
+mats\material #5847.pmd
+mats\material #5867.pmd
+mats\material #5890.pmd
+mats\material #5895.pmd
+mats\material #59.pmd
+mats\material #5901.pmd
+mats\material #5903.pmd
+mats\material #6.pmd
+mats\material #60.pmd
+mats\material #61.pmd
+mats\material #610.pmd
+mats\material #617.pmd
+mats\material #62.pmd
+mats\material #63.pmd
+mats\material #64.pmd
+mats\material #65.pmd
+mats\material #66.pmd
+mats\material #67.pmd
+mats\material #68.pmd
+mats\material #69.pmd
+mats\material #7.pmd
+mats\material #70.pmd
+mats\material #71.pmd
+mats\material #712.pmd
+mats\material #713.pmd
+mats\material #714.pmd
+mats\material #715.pmd
+mats\material #716.pmd
+mats\material #717.pmd
+mats\material #718.pmd
+mats\material #719.pmd
+mats\material #72.pmd
+mats\material #720.pmd
+mats\material #73.pmd
+mats\material #74.pmd
+mats\material #75.pmd
+mats\material #76.pmd
+mats\material #77.pmd
+mats\material #78.pmd
+mats\material #79.pmd
 mats\material #8.pmd
+mats\material #80.pmd
+mats\material #81.pmd
+mats\material #82.pmd
+mats\material #83.pmd
+mats\material #84.pmd
+mats\material #85.pmd
+mats\material #86.pmd
+mats\material #87.pmd
+mats\material #88.pmd
 mats\material #89.pmd
+mats\material #9.pmd
+mats\material #90.pmd
 mats\material #91.pmd
 mats\material #92.pmd
+mats\material #97.pmd
+mats\material #98.pmd
+mats\material #99.pmd
+mats\material wheel_bl_konig_vs2.pmd
 mats\mazda_logo2.pmd
 mats\mesh.pmd
+mats\meshx.pmd
+mats\mg_cycpath.pmd
+mats\mg_harbwall.pmd
+mats\mg_kerb1.pmd
+mats\mg_pave1.pmd
+mats\mg_pave2.pmd
+mats\mg_road_coast_2.pmd
+mats\mg_sand.pmd
+mats\mg_simproad.pmd
 mats\mirror.pmd
+mats\misc.pmd
 mats\misc_2.pmd
+mats\misc_xpe.pmd
+mats\misc_xpe.pmd!
 mats\momo_colour_b.pmd
 mats\momo_colour_bs.pmd
 mats\momo_colour_s.pmd
@@ -1923,6 +2628,8 @@ mats\monaro_misc.pmd
 mats\monaro_misc2.pmd
 mats\monaro_primer.pmd
 mats\monaro_wheel.pmd
+mats\mount1.pmd
+mats\mountside.pmd
 mats\mr2_body.pmd
 mats\mr2_brklight.pmd
 mats\mr2_glass.pmd
@@ -1934,6 +2641,7 @@ mats\mr2_misc.pmd
 mats\mr2_misc2.pmd
 mats\mr2_primer.pmd
 mats\mr2_wheel.pmd
+mats\mr2_wheel_lod.pmd
 mats\mrs_body.pmd
 mats\mrs_brklight.pmd
 mats\mrs_centre_brklight.pmd
@@ -1979,21 +2687,26 @@ mats\mx5_misc.pmd
 mats\mx5_noplate.pmd
 mats\mx5_primer.pmd
 mats\mx5_roof.pmd
+mats\mytestmat.pmd
 mats\neon_body.pmd
 mats\neon_glass.pmd
 mats\neon_logo.pmd
 mats\neon_misc.pmd
 mats\neon_wheel.pmd
+mats\new_barr01.pmd
 mats\new_mesh.pmd
 mats\newstand01.pmd
 mats\newstand02.pmd
 mats\newstand03.pmd
+mats\nissan_decal.pmd
 mats\nitroflame.pmd
 mats\no_enginebay.pmd
 mats\no_fbump.pmd
 mats\no_rbump.pmd
 mats\nsx_body.pmd
 mats\nsx_wheel.pmd
+mats\oldtyre02.pmd
+mats\orange.pmd
 mats\oz_vs10_wheel.pmd
 mats\oz_vs11_wheel.pmd
 mats\oz_vs12_wheel.pmd
@@ -2010,39 +2723,118 @@ mats\oz_vs6_wheel.pmd
 mats\oz_vs7_wheel.pmd
 mats\oz_vs8_wheel.pmd
 mats\oz_vs9_wheel.pmd
+mats\oz_wh_chblur2.pmd
 mats\palm_bark.pmd
+mats\pavement.pmd
+mats\pavement_ch.pmd
+mats\pavement_ch_corner.pmd
+mats\pavement_grass.pmd
+mats\pavement_sand.pmd
+mats\pavement_sand_corner.pmd
+mats\pavement_tunnel.pmd
+mats\petrolroof_ab.pmd
+mats\petrolstation1_ab.pmd
+mats\petrolstation_ab.pmd
 mats\peugeot_206_wheel.pmd
 mats\phonebooth.pmd
+mats\physicsphere.pmd
+mats\pipeworks.pmd
 mats\poo.pmd
+mats\poo2.pmd
+mats\poo3.pmd
+mats\poo_body.pmd
+mats\poop.pmd
+mats\pow_bricks.pmd
+mats\pow_chimwall.pmd
+mats\pow_panel.pmd
+mats\pow_roof.pmd
 mats\prelude_body.pmd
+mats\primer.pmd
+mats\railings_la2.pmd
 mats\rain1.pmd
 mats\rainsplash1.pmd
 mats\rbump.pmd
 mats\red.pmd
+mats\redgrass.pmd
 mats\rim_s.pmd
 mats\rim_s2.pmd
+mats\rims.pmd
+mats\river.pmd
+mats\river2sea.pmd
 mats\road.pmd
+mats\road01blank.pmd
+mats\road01junct.pmd
+mats\road_airport.pmd
+mats\road_camp.pmd
+mats\road_coast.pmd
+mats\road_coast_blend.pmd
+mats\road_docks.pmd
+mats\road_docks1.pmd
 mats\road_town.pmd
+mats\road_town_x.pmd
+mats\road_tunnel_imb.pmd
+mats\roadx.pmd
+mats\rob_sky04wall.pmd
+mats\roja_wheel.pmd
+mats\rollinroad.pmd
+mats\rollr_plate.pmd
+mats\rollr_plate2.pmd
+mats\rollr_plate3.pmd
+mats\rollr_plate4.pmd
+mats\rollr_plate5.pmd
 mats\roof_fix.pmd
+mats\rt_back_alley.pmd
 mats\rt_comp_fence1.pmd
 mats\rt_comp_fence1a.pmd
+mats\rt_comp_fence2.pmd
+mats\rt_comp_fence2a.pmd
+mats\rt_comp_fence3.pmd
 mats\rt_comp_fence4.pmd
 mats\rt_comp_fence5.pmd
 mats\rt_comp_redkerb.pmd
+mats\rt_comp_whitekerb2.pmd
+mats\rt_comp_wtitepave.pmd
+mats\rt_pave_red.pmd
+mats\rt_pave_red_corner.pmd
+mats\rt_pave_red_tile.pmd
+mats\rt_pave_white.pmd
+mats\rt_pave_white_corner.pmd
+mats\rt_pave_white_tile.pmd
+mats\rt_pave_white_tile_step.pmd
+mats\rt_ped_xing.pmd
+mats\rt_ped_xing_corn.pmd
+mats\rt_ped_xing_fade.pmd
+mats\rt_ped_xing_road.pmd
 mats\rt_plam_comp.pmd
+mats\rt_plam_leaf.pmd
 mats\rt_tree_top1.pmd
 mats\rubber.pmd
+mats\rubber_black.pmd
+mats\rubbish.pmd
 mats\rx7_body.pmd
+mats\rx7_body_x.pmd
+mats\rx7_bonnet.pmd
 mats\rx7_brklight.pmd
+mats\rx7_hlights_s1.pmd
+mats\rx7_hub.pmd
 mats\rx7_int.pmd
+mats\rx7_interior.pmd
 mats\rx7_lightson_front.pmd
 mats\rx7_lightson_rear.pmd
 mats\rx7_logo.pmd
+mats\rx7_mirror.pmd
 mats\rx7_misc.pmd
 mats\rx7_primer.pmd
 mats\rx7_revlight.pmd
 mats\rx7_sm_glass.pmd
+mats\rx7_spokes.pmd
+mats\rx7_spokes_vs1.pmd
+mats\rx7_whblur.pmd
+mats\rx7_whblur2.pmd
 mats\rx7_wheel.pmd
+mats\rx7_wheel_back.pmd
+mats\rx7_windows.pmd
+mats\rx7_windows2.pmd
 mats\rx8_body.pmd
 mats\rx8_brklight.pmd
 mats\rx8_brklight2.pmd
@@ -2056,10 +2848,15 @@ mats\rx8_primer.pmd
 mats\rx8_revlight.pmd
 mats\s2000_body.pmd
 mats\s2000_glass.pmd
+mats\s2000_hlight_glass.pmd
 mats\s2000_logo.pmd
 mats\s2000_misc.pmd
 mats\s2000_primer.pmd
+mats\s2000_shiny_black.pmd
 mats\s2000_wheel.pmd
+mats\sand.pmd
+mats\sand1.pmd
+mats\sand69.pmd
 mats\scrap_barrel.pmd
 mats\scrap_car1.pmd
 mats\scrap_car2.pmd
@@ -2077,13 +2874,20 @@ mats\scrap_floortl.pmd
 mats\scrap_legs.pmd
 mats\scrap_office.pmd
 mats\scrap_scrap.pmd
+mats\scrap_sky.pmd
 mats\scrap_tip.pmd
 mats\scrap_tip1.pmd
 mats\scrap_wheels.pmd
 mats\scraper1.pmd
 mats\scrapoffice1.pmd
+mats\scratched_body.pmd
 mats\scrub.pmd
+mats\sea.pmd
+mats\sea_blue.pmd
+mats\sea_coast.pmd
+mats\sea_edge.pmd
 mats\shiny_black.pmd
+mats\shiny_exhaust.pmd
 mats\show2_bunting.pmd
 mats\show2_bunting1.pmd
 mats\show2_clouds.pmd
@@ -2111,9 +2915,11 @@ mats\show2_wood.pmd
 mats\show_blite.pmd
 mats\show_bliteshine.pmd
 mats\show_bluewall.pmd
+mats\show_ceil.pmd
 mats\show_ceil1.pmd
 mats\show_ceil2.pmd
 mats\show_ceil3.pmd
+mats\show_crate.pmd
 mats\show_flare.pmd
 mats\show_floor.pmd
 mats\show_plant.pmd
@@ -2141,26 +2947,65 @@ mats\show_waterb.pmd
 mats\show_whitew1.pmd
 mats\show_whitew2.pmd
 mats\si_chemicalplant_07.pmd
+mats\sign_frame.pmd
+mats\silver.pmd
+mats\silver_pipe_01.pmd
 mats\simpbuild01.pmd
 mats\simpbuild02.pmd
 mats\simpbuild03.pmd
 mats\simpbuild04.pmd
 mats\skip.pmd
+mats\skyscraper.pmd
+mats\skyscraper2.pmd
+mats\skyscraper3.pmd
+mats\skyscraper4.pmd
+mats\skyscraper_black.pmd
+mats\skysraper2.pmd
+mats\small_palm_base2.pmd
+mats\small_palm_base3.pmd
+mats\small_palm_base4.pmd
+mats\small_palm_top2.pmd
+mats\small_palm_top3.pmd
+mats\small_palm_top4.pmd
+mats\smallhouse3_ab.pmd
+mats\smallhouse4_ab.pmd
+mats\smallhouse_ab.pmd
+mats\smoke_grass.pmd
 mats\smoke_tarmac.pmd
+mats\smoked_glass.pmd
+mats\sofa.pmd
+mats\solidcolour.pmd
 mats\sparks1.pmd
+mats\speaker.pmd
 mats\spike02.pmd
+mats\spline.pmd
+mats\spline_in.pmd
+mats\spline_out.pmd
 mats\spoiler_brkt_vs1.pmd
 mats\ssb_bark1.pmd
 mats\ssb_bark2.pmd
 mats\ssb_bark5.pmd
+mats\ssb_bark6.pmd
 mats\ssb_bark7.pmd
 mats\ssb_bark8.pmd
+mats\ssb_leaves1.pmd
 mats\ssb_leaves1ui.pmd
+mats\ssb_leaves2.pmd
 mats\ssb_leaves2ui.pmd
+mats\ssb_leaves5.pmd
+mats\ssb_leaves6.pmd
+mats\ssb_leaves7.pmd
+mats\ssb_leaves8.pmd
+mats\ssb_leavui.pmd
+mats\stadwall.pmd
 mats\stair_scrap.pmd
 mats\stand_exhaust.pmd
+mats\steps.pmd
 mats\street_rubbish.pmd
 mats\strips.pmd
+mats\strut.pmd
+mats\struts01.pmd
+mats\supra.pmd
 mats\supra_body.pmd
 mats\supra_brklight.pmd
 mats\supra_glass.pmd
@@ -2168,17 +3013,32 @@ mats\supra_hlight.pmd
 mats\supra_int.pmd
 mats\supra_lightson.pmd
 mats\supra_logo.pmd
+mats\supra_mesh.pmd
 mats\supra_misc.pmd
 mats\supra_misc2.pmd
+mats\supra_paintwork.pmd
 mats\supra_revlight.pmd
+mats\supra_tyre.pmd
 mats\supra_wheel.pmd
 mats\tango_logo.pmd
+mats\telegraph_pole.pmd
+mats\telegraph_strut.pmd
+mats\testspecmapopaque.pmd
+mats\textestmat.pmd
 mats\tile_hotel.pmd
 mats\tile_scyscraper.pmd
 mats\tile_scyscraper99.pmd
 mats\tile_wearhouse.pmd
+mats\track.pmd
 mats\track_sand.pmd
 mats\track_tarmac.pmd
+mats\trackblue1.pmd
+mats\trackblue2.pmd
+mats\trackgrey.pmd
+mats\tracklines.pmd
+mats\trackmiddle.pmd
+mats\trackside.pmd
+mats\trackyellow.pmd
 mats\trans_body.pmd
 mats\trans_brklight.pmd
 mats\trans_detail_alpha.pmd
@@ -2187,12 +3047,69 @@ mats\trans_mesh.pmd
 mats\trans_misc.pmd
 mats\trans_no_plate.pmd
 mats\trans_wheel.pmd
+mats\transam_body.pmd
+mats\transam_glass.pmd
+mats\transam_hlight.pmd
+mats\transam_logo.pmd
+mats\transam_misc.pmd
+mats\transam_primer.pmd
+mats\trees_back_camp2.pmd
+mats\tunnel_front.pmd
+mats\tunnel_road.pmd
+mats\tunnelwall.pmd
+mats\tyre01.pmd
+mats\tyre16a.pmd
 mats\tyre_16.pmd
 mats\tyre_16_blur.pmd
+mats\tyre_16a.pmd
+mats\tyre_18.pmd
+mats\tyre_classe.pmd
+mats\tyre_classe_bk.pmd
+mats\tyre_classe_blur.pmd
+mats\tyre_ev08_bk.pmd
+mats\tyre_ev08_blur.pmd
+mats\tyre_evo8.pmd
+mats\tyre_rx7.pmd
+mats\tyre_rx7_bk.pmd
+mats\tyre_rx7_blur.pmd
+mats\tyre_slegg_blur.pmd
+mats\tyre_slegs.pmd
+mats\tyre_slegs_bk.pmd
+mats\tyre_slegs_blur.pmd
+mats\tyre_slegw.pmd
+mats\tyre_slegw_bk.pmd
+mats\tyre_slegw_blur.pmd
+mats\tyre_tread.pmd
+mats\tyre_velaiii.pmd
+mats\tyre_vella_bk.pmd
+mats\tyre_vella_blur.pmd
+mats\tyre_vellaiii.pmd
+mats\tyre_vs1.pmd
+mats\tyre_vs1_blur.pmd
+mats\tyre_vs2.pmd
+mats\tyre_vs2_alpha.pmd
+mats\tyre_vs2_rim.pmd
+mats\tyres.pmd
+mats\tyrewall.pmd
+mats\ui_amp_centre.pmd
+mats\ui_decal_vs1.pmd
+mats\ui_decal_vs2.pmd
+mats\ui_decal_vs3.pmd
+mats\ui_map01.pmd
+mats\ui_map02.pmd
+mats\ui_map03.pmd
+mats\ui_map04.pmd
+mats\ui_map05.pmd
+mats\ui_map06.pmd
+mats\ui_map07.pmd
+mats\ui_map08.pmd
+mats\ui_map_blue.pmd
 mats\ui_map_car.pmd
 mats\ui_map_centre.pmd
+mats\ui_map_grid.pmd
 mats\ui_map_white.pmd
 mats\ui_map_yellow.pmd
+mats\ui_respect.pmd
 mats\ui_respect01.pmd
 mats\ui_respect02.pmd
 mats\ui_respect03.pmd
@@ -2202,30 +3119,68 @@ mats\ui_respect06.pmd
 mats\ui_respect07.pmd
 mats\ui_respect08.pmd
 mats\uni_spoiler_brkts.pmd
+mats\vella_fade.pmd
+mats\vertcolour.pmd
+mats\vertcolunlit.pmd
+mats\vette_black_sb.pmd
+mats\vette_body.pmd
 mats\vette_brakelights.pmd
+mats\vette_brakelights_sb.pmd
+mats\vette_carbon_sb.pmd
+mats\vette_detail_alpha_sb.pmd
+mats\vette_detail_aplha.pmd
+mats\vette_detail_soild.pmd
+mats\vette_glass.pmd
+mats\vette_glass_sb.pmd
+mats\vette_gtr_under_sb.pmd
+mats\vette_hidden_sb.pmd
 mats\vette_logo.pmd
+mats\vette_logo_sb.pmd
+mats\vette_mesh_sb.pmd
 mats\vette_misc.pmd
+mats\vette_misc_sb.pmd
+mats\vette_mod.pmd
+mats\vette_tyre.pmd
+mats\vette_tyre2.pmd
 mats\vette_wheel.pmd
+mats\vette_wheel2.pmd
+mats\vette_wheel_sb.pmd
+mats\vette_wheelx.pmd
+mats\vette_windows.pmd
 mats\vette_zo6_body.pmd
+mats\vette_zo6_body_sb.pmd
 mats\vette_zo6_int.pmd
+mats\vette_zo6_mirror.pmd
 mats\vette_zo6_primer.pmd
+mats\vette_zo6_primer_sb.pmd
+mats\vette_zo6_under.pmd
 mats\viper_body.pmd
 mats\viper_brklight.pmd
 mats\viper_fuelcap.pmd
 mats\viper_glass.pmd
 mats\viper_hlight.pmd
 mats\viper_int.pmd
+mats\viper_lightson_front.pmd
 mats\viper_lightson_rear.pmd
 mats\viper_logo.pmd
 mats\viper_misc.pmd
 mats\viper_primer.pmd
 mats\viper_revlight.pmd
 mats\viper_wheel.pmd
+mats\wa_ab_jun01.pmd
+mats\wa_ab_jun01a.pmd
+mats\wa_pie.pmd
+mats\wa_pie_struts.pmd
 mats\wa_red_pavetile.pmd
+mats\wa_road01blank.pmd
+mats\wa_road_coast.pmd
+mats\wa_roadpavecorn.pmd
 mats\wa_ruffground.pmd
 mats\wall02.pmd
+mats\wall_downtown.pmd
 mats\wall_scrap.pmd
 mats\water01.pmd
+mats\water02.pmd
 mats\wearhouse_red.pmd
 mats\wh_3000gt_blur.pmd
 mats\wh_300zx_blur.pmd
@@ -2257,21 +3212,32 @@ mats\wh_bbs_vs7_lod.pmd
 mats\wh_bbs_vs8_blur.pmd
 mats\wh_bbs_vs8_blur_s.pmd
 mats\wh_bbs_vs8_lod.pmd
+mats\wh_bbs_vs9_blur.pmd
+mats\wh_bk_222.pmd
 mats\wh_black.pmd
 mats\wh_celica_2_blur.pmd
+mats\wh_charger_blur.pmd
 mats\wh_civic_97_blur.pmd
 mats\wh_civicr_blur.pmd
 mats\wh_clio_blur.pmd
+mats\wh_cobra_blur.pmd
 mats\wh_corolla_blur.pmd
 mats\wh_corsa_blur.pmd
 mats\wh_crx_blur.pmd
 mats\wh_dodge_srt_blur.pmd
+mats\wh_enkei_vs1_blur.pmd
+mats\wh_ev0_blur.pmd
 mats\wh_evo8_blur.pmd
+mats\wh_evo8_blur_s.pmd
+mats\wh_evo8_lod.pmd
 mats\wh_focus_blur.pmd
 mats\wh_focus_blur_s.pmd
 mats\wh_fto_blur.pmd
 mats\wh_golf_blur.pmd
 mats\wh_gtr_blur.pmd
+mats\wh_imp1_blur.pmd
+mats\wh_konig_vs1_blur.pmd
+mats\wh_konig_vs2_blur.pmd
 mats\wh_monaro_blur.pmd
 mats\wh_mr2_blur.pmd
 mats\wh_mr2_blur_s.pmd
@@ -2282,6 +3248,53 @@ mats\wh_mustang2_blur.pmd
 mats\wh_mustang68_blur.pmd
 mats\wh_neon_blur.pmd
 mats\wh_nsx_blur.pmd
+mats\wh_ox_vellaii.pmd
+mats\wh_oz_antarec.pmd
+mats\wh_oz_antares.pmd
+mats\wh_oz_antblur.pmd
+mats\wh_oz_antblur2.pmd
+mats\wh_oz_chblur.pmd
+mats\wh_oz_chblur2.pmd
+mats\wh_oz_chrono.pmd
+mats\wh_oz_cla_blur.pmd
+mats\wh_oz_cla_blur2.pmd
+mats\wh_oz_classe.pmd
+mats\wh_oz_f1cup.pmd
+mats\wh_oz_f1cup_blur.pmd
+mats\wh_oz_f1cup_blur2.pmd
+mats\wh_oz_f2cup.pmd
+mats\wh_oz_opera3_c.pmd
+mats\wh_oz_opera3blur.pmd
+mats\wh_oz_opera3blur2.pmd
+mats\wh_oz_opera3blur_g.pmd
+mats\wh_oz_operaiii.pmd
+mats\wh_oz_operaiiic.pmd
+mats\wh_oz_operaiiis.pmd
+mats\wh_oz_operblur.pmd
+mats\wh_oz_operblur2.pmd
+mats\wh_oz_sleg.pmd
+mats\wh_oz_slegblur2.pmd
+mats\wh_oz_slegblur2_g.pmd
+mats\wh_oz_slegblur2_s.pmd
+mats\wh_oz_slegblur_g.pmd
+mats\wh_oz_slegblur_s.pmd
+mats\wh_oz_slegfblur.pmd
+mats\wh_oz_slegfblur2.pmd
+mats\wh_oz_slegfblur3.pmd
+mats\wh_oz_slegforg.pmd
+mats\wh_oz_slegforg2.pmd
+mats\wh_oz_slegg.pmd
+mats\wh_oz_slegger_g.pmd
+mats\wh_oz_slegger_s.pmd
+mats\wh_oz_slegger_w.pmd
+mats\wh_oz_velblur.pmd
+mats\wh_oz_velblur2.pmd
+mats\wh_oz_vella.pmd
+mats\wh_oz_vella_rim.pmd
+mats\wh_oz_vella_rim2.pmd
+mats\wh_oz_vellaii.pmd
+mats\wh_oz_vellaiic.pmd
+mats\wh_oz_volc.pmd
 mats\wh_oz_vs10_blur.pmd
 mats\wh_oz_vs10_blur_s.pmd
 mats\wh_oz_vs10_lod.pmd
@@ -2303,6 +3316,7 @@ mats\wh_oz_vs15_lod.pmd
 mats\wh_oz_vs16_blur.pmd
 mats\wh_oz_vs16_blur_s.pmd
 mats\wh_oz_vs16_lod.pmd
+mats\wh_oz_vs1__lod.pmd
 mats\wh_oz_vs1_blur.pmd
 mats\wh_oz_vs1_blur_s.pmd
 mats\wh_oz_vs1_lod.pmd
@@ -2331,9 +3345,12 @@ mats\wh_oz_vs9_blur.pmd
 mats\wh_oz_vs9_blur_s.pmd
 mats\wh_oz_vs9_lod.pmd
 mats\wh_peugeot_206_blur.pmd
+mats\wh_peugeot_206_blur2.pmd
+mats\wh_roja_blur.pmd
 mats\wh_rx7_blur.pmd
 mats\wh_s2000_blur.pmd
 mats\wh_supra_blur.pmd
+mats\wh_supra_blur2.pmd
 mats\wh_trans_blur.pmd
 mats\wh_vette_blur.pmd
 mats\wh_viper_blur.pmd
@@ -2373,6 +3390,7 @@ mats\wheel_aros_vs9_18.pmd
 mats\wheel_aros_vs9_18_b.pmd
 mats\wheel_aros_vs9_18_bs.pmd
 mats\wheel_aros_vs9_18_lod.pmd
+mats\wheel_bbs_s1.pmd
 mats\wheel_bbs_vs10_18.pmd
 mats\wheel_bbs_vs10_18_b.pmd
 mats\wheel_bbs_vs10_18_bs.pmd
@@ -2417,6 +3435,7 @@ mats\wheel_bbs_vs9_18_lod.pmd
 mats\wheel_beetle.pmd
 mats\wheel_beetle_b.pmd
 mats\wheel_beetle_bs.pmd
+mats\wheel_bk_102.pmd
 mats\wheel_bl_3000gt.pmd
 mats\wheel_bl_300zx.pmd
 mats\wheel_bl_350z.pmd
@@ -2431,6 +3450,7 @@ mats\wheel_bl_aros_vs8.pmd
 mats\wheel_bl_aros_vs9.pmd
 mats\wheel_bl_bbs_vs1.pmd
 mats\wheel_bl_bbs_vs10.pmd
+mats\wheel_bl_bbs_vs1_.pmd
 mats\wheel_bl_bbs_vs2.pmd
 mats\wheel_bl_bbs_vs3.pmd
 mats\wheel_bl_bbs_vs4.pmd
@@ -2442,12 +3462,15 @@ mats\wheel_bl_bbs_vs9.pmd
 mats\wheel_bl_camaro70.pmd
 mats\wheel_bl_celica.pmd
 mats\wheel_bl_celica_2.pmd
+mats\wheel_bl_charger.pmd
 mats\wheel_bl_civic_97.pmd
 mats\wheel_bl_civicr.pmd
 mats\wheel_bl_clio.pmd
+mats\wheel_bl_cobra.pmd
 mats\wheel_bl_corolla.pmd
 mats\wheel_bl_corsa.pmd
 mats\wheel_bl_crx.pmd
+mats\wheel_bl_dodge_srt.pmd
 mats\wheel_bl_enkei_vs1.pmd
 mats\wheel_bl_enkei_vs2.pmd
 mats\wheel_bl_enkei_vs3.pmd
@@ -2460,6 +3483,7 @@ mats\wheel_bl_focus.pmd
 mats\wheel_bl_fto.pmd
 mats\wheel_bl_golf.pmd
 mats\wheel_bl_gtr.pmd
+mats\wheel_bl_imp1.pmd
 mats\wheel_bl_konig_vs1.pmd
 mats\wheel_bl_konig_vs10.pmd
 mats\wheel_bl_konig_vs11.pmd
@@ -2484,12 +3508,16 @@ mats\wheel_bl_momo_vs2.pmd
 mats\wheel_bl_momo_vs3.pmd
 mats\wheel_bl_momo_vs4.pmd
 mats\wheel_bl_momo_vs5.pmd
+mats\wheel_bl_monaro.pmd
 mats\wheel_bl_mr2.pmd
 mats\wheel_bl_mrs.pmd
 mats\wheel_bl_mustang2.pmd
 mats\wheel_bl_mustang68.pmd
 mats\wheel_bl_neon.pmd
 mats\wheel_bl_nsx.pmd
+mats\wheel_bl_oz_classe.pmd
+mats\wheel_bl_oz_slegg.pmd
+mats\wheel_bl_oz_vella.pmd
 mats\wheel_bl_oz_vs1.pmd
 mats\wheel_bl_oz_vs10.pmd
 mats\wheel_bl_oz_vs11.pmd
@@ -2508,8 +3536,11 @@ mats\wheel_bl_oz_vs6.pmd
 mats\wheel_bl_oz_vs7.pmd
 mats\wheel_bl_oz_vs8.pmd
 mats\wheel_bl_oz_vs9.pmd
+mats\wheel_bl_peugeot_206.pmd
+mats\wheel_bl_roja.pmd
 mats\wheel_bl_rx7.pmd
 mats\wheel_bl_s2000.pmd
+mats\wheel_bl_slegg.pmd
 mats\wheel_bl_speed_vs1.pmd
 mats\wheel_bl_speed_vs2.pmd
 mats\wheel_bl_speed_vs3.pmd
@@ -2783,17 +3814,31 @@ mats\wheel_speed_vs8_17.pmd
 mats\wheel_speed_vs8_17_b.pmd
 mats\wheel_speed_vs8_17_bs.pmd
 mats\wheel_speed_vs8_17_lod.pmd
+mats\wheeliebin.pmd
+mats\white.pmd
+mats\win01_shn.pmd
 mats\win02_shn.pmd
 mats\win03_opq.pmd
 mats\win03_shn.pmd
 mats\win04_shn.pmd
 mats\window02a.pmd
 mats\window03a.pmd
+mats\window_clear.pmd
+mats\window_rub.pmd
+mats\windows.pmd
 mats\wingswest_logo.pmd
 mats\x5_body.pmd
 mats\x5_misc.pmd
 mats\x5_noplate.pmd
 mats\x5_wheel.pmd
+mats\x_gar_bk.pmd
+mats\x_gar_floor1.pmd
+mats\x_gar_floor2.pmd
+mats\x_gar_front.pmd
+mats\x_gar_roof.pmd
+mats\x_gar_side1.pmd
+mats\x_gar_side2.pmd
+mats\yellowgrass.pmd
 mesh.ddt
 mesh\3000gt_bonnet.d8m
 mesh\3000gt_bonnet_vs1.d8m
@@ -6762,6 +7807,12 @@ mesh\wrx2_sskirt_vs2_l.d8m
 mesh\wrx2_sskirt_vs2_r.d8m
 mesh\wrx2_sskirt_vs3_l.d8m
 mesh\wrx2_sskirt_vs3_r.d8m
+mg_cycpath.ddt
+mg_harbwall.ddt
+mg_pave1.ddt
+mg_pave2.ddt
+mg_sand.ddt
+mg_simproad.ddt
 mod.txt
 moddefs.txt
 models\3000gt_stock.boh
@@ -6819,8 +7870,11 @@ models\vw_corrado_stock.boh
 models\wrx2_stock.boh
 moon.ddt
 moon_env.ddt
+mount1.ddt
+mountside.ddt
 mrs_root.d8m
 multi_light.ddt
+new_barr01.ddt
 newjettexte.txt
 newstand01.ddt
 newstand01l2.d8m
@@ -6828,6 +7882,7 @@ newstand02.ddt
 newstand02l2.d8m
 newstand03.ddt
 newstand03l2.d8m
+nissan_decal.ddt
 nitroflame.ddt
 nitros.txt
 no_enginebay.ddt
@@ -6851,29 +7906,55 @@ oldscrap02_bot.d8m
 oldscrap02_mida.d8m
 oldscrap02_midb.d8m
 oldscrap02_top.d8m
+oldtyre01.ddt
+oldtyre02.ddt
 outside_garage.boh
 outside_garage.d8m
 outsidegarage.boh
 palm_bark.ddt
+pavement.ddt
+pavement_ch.ddt
+pavement_ch_corner.ddt
+pavement_grass.ddt
+pavement_sand.ddt
+pavement_sand_corner.ddt
+pavement_tile.ddt
+petrolroof_ab.ddt
+petrolstation1_ab.ddt
+petrolstation_ab.ddt
 phonebooth.d8m
 phonebooth.ddt
 polish.txt
 poo.boh
 poo.txt
+poop.ddt
 proc_material_tarmac_bumpynoise.dds
 proc_material_tarmac_camber_function.dds
 proc_material_tarmacnight_camber_function.dds
 proc_material_tarmacnoshadow_bumpynoise.dds
 proc_material_tarmacnoshadow_camber_function.dds
 profanities.txt
+ps2_arcade_env.ddt
+ps2_dealer_env.ddt
 ps2_gar_env.ddt
+ps2_scrapyard_env.ddt
+ps2_show1_env.ddt
+ps2_show2_env.ddt
+pylon.ddt
 rain1.ddt
 rainsmear.ddt
 rbump_collidee.ocd
 rbump_collider.ocd
 redbrdgesimp.ddt
 resessft.d8m
+road_coast.ddt
+road_coast_2.ddt
+road_coast_2_trans.ddt
+road_coast_blend.ddt
+road_side.ddt
 roadnoise_dxt1.dds
+roja_wheel.ddt
+roja_wheel_blur.ddt
 rolling_road.boh
 rolling_roadbox.d8m
 rollingarage.boh
@@ -6881,21 +7962,34 @@ rollingarage.d8m
 rollingfront.d8m
 rollinggarage.boh
 rollingrear.d8m
+rollr_plate.ddt
+rollr_plate2.ddt
+rollr_plate3.ddt
+rollr_plate4.ddt
+rollr_plate5.ddt
+roofgs.ddt
 root.d8m
+rt_back_alley.ddt
 rt_comp_fence1.d8m
 rt_comp_fence1.ddt
+rt_comp_fence2.ddt
+rt_comp_fence3.ddt
 rt_comp_fence4.d8m
 rt_comp_fence4.ddt
 rt_comp_fence5.d8m
 rt_comp_fence5.ddt
 rt_comp_palm.ddt
 rt_comp_redkerb.ddt
+rt_comp_whitekerb.ddt
+rt_comp_whitekerb2.ddt
 rt_palm_comp.d8m
 rt_pave_red_tile.ddt
+rt_plam_leaf.ddt
 rt_ruffground.ddt
 rt_tree_top1.d8m
 rt_tree_top1.ddt
 rubber.ddt
+rubish.ddt
 russian.txt
 rx7_bonnet.d8m
 rx7_bonnet_vs1.d8m
@@ -6925,6 +8019,18 @@ rx7_sskirt_vs2_l.d8m
 rx7_sskirt_vs2_r.d8m
 rx7_stock.boh
 s2000_scratch_body.ddt
+sal_hotel2_top.ddt
+sal_hotel2_win1.ddt
+sal_hotel2_win2.ddt
+sal_hotel2_win3.ddt
+sal_hotel2_win4.ddt
+sal_hotel3_brick.ddt
+sal_hotel3_brick2.ddt
+sal_hotel3_win1.ddt
+sal_hotel3_win2.ddt
+sand.ddt
+sand1.ddt
+sand69.ddt
 scrap_barrel.ddt
 scrap_car1.ddt
 scrap_car2.ddt
@@ -6942,6 +8048,7 @@ scrap_floor_tr.ddt
 scrap_legs.ddt
 scrap_office.ddt
 scrap_scrap.ddt
+scrap_sky.ddt
 scrap_tip.ddt
 scrap_tip1.ddt
 scrap_wheels.ddt
@@ -6951,9 +8058,13 @@ scrapyard.boh
 scrapyard.d8m
 scrapyard_env.dds
 scrub.ddt
+sea.ddt
+sea_blue.ddt
+sea_coast.ddt
 show1_env.dds
 show2_bunting1.ddt
 show2_cloud.ddt
+show2_crate.ddt
 show2_door.ddt
 show2_elec.ddt
 show2_lamp.ddt
@@ -7013,11 +8124,20 @@ show_water.ddt
 show_waterb.ddt
 show_whitew1.ddt
 show_whitew2.ddt
+showroom1.boh
 showroom2.boh
 showroom3.boh
 showroom3.d8m
 showroom3floor.d8m
+si_chemicalplant_02.ddt
+si_chemicalplant_03.ddt
+si_chemicalplant_04.ddt
+si_chemicalplant_06.ddt
 si_chemicalplant_07.ddt
+si_warehouse_01.ddt
+si_warehouse_02.ddt
+silo.ddt
+silver_pipe_01.ddt
 simpblock01_c.d8m
 simpblock01_d.d8m
 simpblock02_c.d8m
@@ -7030,7 +8150,18 @@ skid_a_01.ddt
 skidsand_a_01.ddt
 skip.d8m
 skip.ddt
+skyscraper.ddt
+skyscraper_black.ddt
 skyscraper_light02c.ddt
+small_palm_base2.ddt
+small_palm_base3.ddt
+small_palm_base4.ddt
+small_palm_top2.ddt
+small_palm_top3.ddt
+small_palm_top4.ddt
+smallhouse3_ab.ddt
+smallhouse4_ab.ddt
+smallhouse_ab.ddt
 smk_a_01.ddt
 southside beach.tdf
 southside beach_0.pqh
@@ -7039,9 +8170,14 @@ southside beach_1.pqh
 southside beach_1.sqh
 southside beach_3.pqh
 southside beach_3.sqh
+southside beach_eve_dry.atm
+southside beach_eve_wet.atm
 southside beach_morn_dry.atm
+southside beach_morn_wet.atm
 southside beach_night_dry.atm
+southside beach_night_wet.atm
 southside beach_noon_dry.atm
+southside beach_noon_wet.atm
 southside beach_shad_morn.shd
 southside beach_shad_night.shd
 southside beach_shad_noon.shd
@@ -7073,6 +8209,7 @@ southside_r4_intro.cam
 southside_r4_rev_intro.cam
 southside_sprint01_intro.cam
 spanish.txt
+speaker.ddt
 speedway_cruise01_intro.cam
 speedway_p2p_intro.cam
 speedway_p2p_rev_intro.cam
@@ -7103,19 +8240,27 @@ ssb_tree_8_l1.d8m
 ssb_tree_bark1.ddt
 ssb_tree_bark4.ddt
 ssb_tree_bark5.ddt
+ssb_tree_bark6.ddt
 sskirt_l_collidee.ocd
 sskirt_l_collider.ocd
 sskirt_r.d8m
 sskirt_r_collidee.ocd
 sskirt_r_collider.ocd
 st_sinus.dds
+stadwall.ddt
 stair_scrap.ddt
+stand_exhaust.ddt
+stationbase01.ddt
+steps.ddt
+stonetower.ddt
 street_rubbish.ddt
+strut.ddt
 struts01.ddt
 sun01.ddt
 sun01_env.ddt
 sun01_env_red.ddt
 sun01_env_red1.ddt
+sun_flare01.ddt
 sun_flare04.ddt
 sun_flare05.ddt
 sun_flare06.ddt
@@ -7124,6 +8269,8 @@ sunred.ddt
 superspeedway_speedway_p2p1_rev.spl
 surfaceeffects.txt
 suspensions.txt
+telegraph_pole.ddt
+telegraph_strut.ddt
 temp.txt
 testenv.dds
 textures\3000gt_body.ddt
@@ -8145,10 +9292,16 @@ textures\wrx2_braklight.ddt
 textures\wrx2_fuel_cap.ddt
 textures\wrx2_lightson.ddt
 textures\wrx2_revlight.ddt
+trackmiddle.ddt
+tracks.ddt
+trackside.ddt
+trackslines.ddt
+trees_back_camp2.ddt
 turbos.txt
 tyre_16.ddt
 tyre_16_blur.ddt
 tyres.txt
+tyrewall_xbox.ddt
 ui_anderson_p2p01_gui.boh
 ui_anderson_p2p01_map.boh
 ui_anderson_p2p01_rev_gui.boh
@@ -8243,11 +9396,18 @@ ui_angelwest_r1_map.boh
 ui_angelwest_r1_rev_gui.boh
 ui_angelwest_r1_rev_map.boh
 ui_angelwest_r2_gui.boh
+ui_angelwest_r2_map.boh
 ui_angelwest_r2_rev_gui.boh
+ui_angelwest_r2_rev_map.boh
 ui_angelwest_r3_gui.boh
+ui_angelwest_r3_map.boh
 ui_angelwest_r3_rev_gui.boh
+ui_angelwest_r3_rev_map.boh
 ui_angelwest_r4_gui.boh
+ui_angelwest_r4_map.boh
 ui_angelwest_r4_rev_gui.boh
+ui_angelwest_r4_rev_map.boh
+ui_angelwest_sprint01_map.boh
 ui_angelwestside_centre01.d8m
 ui_angelwestside_centre02.d8m
 ui_angelwestside_centre03.d8m
@@ -8443,8 +9603,10 @@ ui_map_car.boh
 ui_map_car.d8m
 ui_map_car.ddt
 ui_map_centre.ddt
+ui_map_grid.ddt
 ui_map_white.ddt
 ui_map_yellow.ddt
+ui_respect.ddt
 ui_respect01.ddt
 ui_respect02.ddt
 ui_respect03.ddt
@@ -8473,18 +9635,34 @@ ui_southside_p2p01_gui.boh
 ui_southside_p2p01_map.boh
 ui_southside_p2p01_rev_gui.boh
 ui_southside_p2p01_rev_map.boh
+ui_southside_r1_01_gui.boh
+ui_southside_r1_01_map.boh
+ui_southside_r1_01_rev_gui.boh
+ui_southside_r1_01_rev_map.boh
 ui_southside_r1_gui.boh
 ui_southside_r1_map.boh
 ui_southside_r1_rev_gui.boh
 ui_southside_r1_rev_map.boh
+ui_southside_r2_01_gui.boh
+ui_southside_r2_01_map.boh
+ui_southside_r2_01_rev_gui.boh
+ui_southside_r2_01_rev_map.boh
 ui_southside_r2_gui.boh
 ui_southside_r2_map.boh
 ui_southside_r2_rev_gui.boh
 ui_southside_r2_rev_map.boh
+ui_southside_r3_01_gui.boh
+ui_southside_r3_01_map.boh
+ui_southside_r3_01_rev_gui.boh
+ui_southside_r3_01_rev_map.boh
 ui_southside_r3_gui.boh
 ui_southside_r3_map.boh
 ui_southside_r3_rev_gui.boh
 ui_southside_r3_rev_map.boh
+ui_southside_r4_01_gui.boh
+ui_southside_r4_01_map.boh
+ui_southside_r4_01_rev_gui.boh
+ui_southside_r4_01_rev_map.boh
 ui_southside_r4_gui.boh
 ui_southside_r4_map.boh
 ui_southside_r4_rev_gui.boh
@@ -8537,21 +9715,48 @@ ui_westanderson_yellow02.d8m
 ui_westanderson_yellow03.d8m
 ui_westanderson_yellow04.d8m
 ui_westanderson_yellow05.d8m
+vent01.ddt
 vette_body.ddt
 vssver.scc
+wa_jun01.ddt
+wa_jun02.ddt
 wa_road01.ddt
+wa_road01blank.ddt
+wa_roadpavecorn.ddt
+wall01.ddt
 wall02.ddt
 wall_scrap.ddt
 water01.ddt
+water02.ddt
 west anderson.tdf
 west anderson_2.pqh
 west anderson_2.sqh
+west anderson_anderson_cruise01.cld
+west anderson_anderson_p2p01.cld
+west anderson_anderson_r1.cld
+west anderson_anderson_r1.d8m
 west anderson_anderson_r1_rev.cld
 west anderson_anderson_r1_rev.d8m
 west anderson_anderson_r1_rev.d8w
 west anderson_anderson_r1_rev.ocl
 west anderson_anderson_r1_rev.spl
+west anderson_anderson_r2.cld
+west anderson_anderson_r2.d8m
+west anderson_anderson_r2_rev.cld
+west anderson_anderson_r3.cld
+west anderson_anderson_r3.d8m
+west anderson_anderson_r3_rev.cld
+west anderson_anderson_r4.cld
+west anderson_anderson_r4_rev.cld
+west anderson_anderson_sprint.cld
 west anderson_eve_dry.atm
+west anderson_eve_wet.atm
+west anderson_morn_dry.atm
+west anderson_morn_wet.atm
+west anderson_night_dry.atm
+west anderson_night_wet.atm
+west anderson_noon_dry.atm
+west anderson_noon_wet.atm
 west anderson_shad_eve.shd
 wheel_aros_v1.ddt
 wheel_aros_v1_blur.ddt
@@ -8848,6 +10053,7 @@ wheel_oz_vs11_19_blur_l1.d8m
 wheel_oz_vs11_19_blur_l2.d8m
 wheel_oz_vs11_19_blur_l3.d8m
 wheel_oz_vs11_19_l0.d8m
+wheel_oz_vs11_19_l1.boh
 wheel_oz_vs11_19_l1.d8m
 wheel_oz_vs11_19_l2.d8m
 wheel_oz_vs11_19_l3.d8m
@@ -9031,13 +10237,19 @@ wheel_speed_vs7_17_blur.d8m
 wheel_speed_vs8_17.d8m
 wheel_speed_vs8_17_blur.d8m
 wheel_vs2.boh
+wheelibin.ddt
 wheels.bkup
 wheels.txt
+white.ddt
+window01_at.ddt
 window02_at.ddt
 window02a.ddt
 window03_at.ddt
 window03a.ddt
 window04_at.ddt
+window04a.ddt
+window_alpha.ddt
+window_rub.ddt
 windows\arcade_championship.ui
 windows\arcade_loader_anim.ui
 windows\arcade_loading.ui
