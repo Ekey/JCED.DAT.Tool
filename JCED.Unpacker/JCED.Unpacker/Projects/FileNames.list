@@ -8784,6 +8784,7 @@ textures\transam_body.ddt
 textures\tyre_16.ddt
 textures\tyre_16_blur.ddt
 textures\ui_acura.ddt
+textures\ui_aem_off.ddt
 textures\ui_aem_on.ddt
 textures\ui_aero_off.ddt
 textures\ui_aero_on.ddt
@@ -8795,6 +8796,7 @@ textures\ui_alpine_01.ddt
 textures\ui_alpine_02.ddt
 textures\ui_alpine_03.ddt
 textures\ui_alpine_04.ddt
+textures\ui_alpine_off.ddt
 textures\ui_alpine_on.ddt
 textures\ui_alpine_tv.ddt
 textures\ui_arcade_image1.ddt
@@ -8851,6 +8853,7 @@ textures\ui_bbs_vs7.ddt
 textures\ui_bbs_vs9.ddt
 textures\ui_behindyou.ddt
 textures\ui_betscreen_01.ddt
+textures\ui_bilstein_off.ddt
 textures\ui_bilstein_on.ddt
 textures\ui_binklogo.ddt
 textures\ui_blue_yellow1.ddt
@@ -8859,11 +8862,14 @@ textures\ui_bomex_off.ddt
 textures\ui_bomex_on.ddt
 textures\ui_bonnet_off.ddt
 textures\ui_bonnet_on.ddt
+textures\ui_borla_off.ddt
 textures\ui_borla_on.ddt
 textures\ui_botarrow.ddt
 textures\ui_brake_off.ddt
 textures\ui_brake_on.ddt
+textures\ui_brembo_off.ddt
 textures\ui_brembo_on.ddt
+textures\ui_bridgestone_off.ddt
 textures\ui_bridgestone_on.ddt
 textures\ui_calendar_help_outline.ddt
 textures\ui_calendar_select.ddt
@@ -8950,7 +8956,9 @@ textures\ui_dials_off.ddt
 textures\ui_dials_on.ddt
 textures\ui_dodge.ddt
 textures\ui_dolby.ddt
+textures\ui_ebc_off.ddt
 textures\ui_ebc_on.ddt
+textures\ui_eibach_off.ddt
 textures\ui_eibach_on.ddt
 textures\ui_enkei_off.ddt
 textures\ui_enkei_on.ddt
@@ -8961,10 +8969,13 @@ textures\ui_enkei_vs4.ddt
 textures\ui_enkei_vs5.ddt
 textures\ui_enkei_vs6.ddt
 textures\ui_esrb.ddt
+textures\ui_exhaust_off.ddt
 textures\ui_exhaust_on.ddt
+textures\ui_falken_off.ddt
 textures\ui_falken_on.ddt
 textures\ui_fbump_off.ddt
 textures\ui_fbump_on.ddt
+textures\ui_ferodo_off.ddt
 textures\ui_ferodo_on.ddt
 textures\ui_fiat.ddt
 textures\ui_flag_euro.ddt
@@ -8985,6 +8996,7 @@ textures\ui_flyer_urbanmaulerz.ddt
 textures\ui_flyer_vixens.ddt
 textures\ui_ford.ddt
 textures\ui_friends.ddt
+textures\ui_garrett_off.ddt
 textures\ui_garrett_on.ddt
 textures\ui_gauge_gearlight.ddt
 textures\ui_gauge_needle.ddt
@@ -9001,6 +9013,7 @@ textures\ui_gridwalk_select.ddt
 textures\ui_hks_off.ddt
 textures\ui_hks_on.ddt
 textures\ui_holden.ddt
+textures\ui_holley_off.ddt
 textures\ui_holley_on.ddt
 textures\ui_honda.ddt
 textures\ui_horn_off.ddt
@@ -9017,6 +9030,7 @@ textures\ui_incar_nostext.ddt
 textures\ui_incar_turbotxt.ddt
 textures\ui_injen_off.ddt
 textures\ui_injen_on.ddt
+textures\ui_janspeed_off.ddt
 textures\ui_janspeed_on.ddt
 textures\ui_juicegames_logo.ddt
 textures\ui_juicelogo.ddt
@@ -9026,7 +9040,9 @@ textures\ui_kenwood_01.ddt
 textures\ui_kenwood_02.ddt
 textures\ui_kenwood_03.ddt
 textures\ui_kenwood_04.ddt
+textures\ui_kenwood_off.ddt
 textures\ui_kenwood_on.ddt
+textures\ui_koni_off.ddt
 textures\ui_koni_on.ddt
 textures\ui_konig_off.ddt
 textures\ui_konig_on.ddt
@@ -9094,9 +9110,11 @@ textures\ui_nissan.ddt
 textures\ui_nitro_off.ddt
 textures\ui_nitro_on.ddt
 textures\ui_no.ddt
+textures\ui_nos_off.ddt
 textures\ui_nos_on.ddt
 textures\ui_nuuk_off.ddt
 textures\ui_nuuk_on.ddt
+textures\ui_nx_off.ddt
 textures\ui_nx_on.ddt
 textures\ui_online.ddt
 textures\ui_opel.ddt
@@ -9131,6 +9149,7 @@ textures\ui_part_airfilter.ddt
 textures\ui_peugeot.ddt
 textures\ui_pipercross_off.ddt
 textures\ui_pipercross_on.ddt
+textures\ui_pirelli_off.ddt
 textures\ui_pirelli_on.ddt
 textures\ui_players.ddt
 textures\ui_pontiac.ddt
@@ -9138,6 +9157,7 @@ textures\ui_powered_by_gamespy.ddt
 textures\ui_progress_bar.ddt
 textures\ui_progress_overlay.ddt
 textures\ui_ps2_car.ddt
+textures\ui_rage_off.ddt
 textures\ui_rage_on.ddt
 textures\ui_rbump_off.ddt
 textures\ui_rbump_on.ddt
@@ -9163,6 +9183,7 @@ textures\ui_sony.ddt
 textures\ui_sony_02.ddt
 textures\ui_sony_02_small.ddt
 textures\ui_sony_small.ddt
+textures\ui_spax_off.ddt
 textures\ui_spax_on.ddt
 textures\ui_speed_vs1.ddt
 textures\ui_speed_vs2.ddt
@@ -9231,9 +9252,11 @@ textures\ui_turbo_on.ddt
 textures\ui_tyre_off.ddt
 textures\ui_tyre_on.ddt
 textures\ui_unlocked.ddt
+textures\ui_unlocked_off.ddt
 textures\ui_unlocked_on.ddt
 textures\ui_veilside_off.ddt
 textures\ui_veilside_on.ddt
+textures\ui_venom_off.ddt
 textures\ui_venom_on.ddt
 textures\ui_video_again.ddt
 textures\ui_video_again_on.ddt
@@ -9258,7 +9281,9 @@ textures\ui_wings_off.ddt
 textures\ui_wings_on.ddt
 textures\ui_wrongway.ddt
 textures\ui_yes.ddt
+textures\ui_yokohama_off.ddt
 textures\ui_yokohama_on.ddt
+textures\ui_zex_off.ddt
 textures\ui_zex_on.ddt
 textures\uni_spoiler_brkt.ddt
 textures\vette_2_body.ddt
