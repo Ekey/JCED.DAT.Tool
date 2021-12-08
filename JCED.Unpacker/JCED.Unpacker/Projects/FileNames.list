@@ -145,13 +145,74 @@ anderson_r4_intro.cam
 anderson_r4_rev_intro.cam
 anderson_sprint_intro.cam
 angel north central.tdf
+angel north central_0.pqh
+angel north central_0.sqh
 angel north central_1.pqh
 angel north central_1.sqh
+angel north central_2.pqh
+angel north central_2.sqh
+angel north central_3.pqh
+angel north central_3.sqh
+angel north central_angel_north_cruise01.cld
+angel north central_angel_north_cruise01.d8m
+angel north central_angel_north_cruise01.d8w
+angel north central_angel_north_cruise01.ocl
+angel north central_angel_north_cruise01.spl
+angel north central_angel_north_p2p01.cld
+angel north central_angel_north_p2p01.d8m
+angel north central_angel_north_p2p01.d8w
+angel north central_angel_north_p2p01.ocl
+angel north central_angel_north_p2p01.spl
+angel north central_angel_north_p2p_rev.cld
+angel north central_angel_north_p2p_rev.d8m
+angel north central_angel_north_p2p_rev.d8w
+angel north central_angel_north_p2p_rev.ocl
+angel north central_angel_north_p2p_rev.spl
+angel north central_angel_north_r1.cld
+angel north central_angel_north_r1.d8m
+angel north central_angel_north_r1.d8w
+angel north central_angel_north_r1.ocl
+angel north central_angel_north_r1.spl
+angel north central_angel_north_r1_rev.cld
+angel north central_angel_north_r1_rev.d8m
+angel north central_angel_north_r1_rev.d8w
+angel north central_angel_north_r1_rev.ocl
+angel north central_angel_north_r1_rev.spl
+angel north central_angel_north_r2.cld
+angel north central_angel_north_r2.d8m
+angel north central_angel_north_r2.d8w
+angel north central_angel_north_r2.ocl
+angel north central_angel_north_r2.spl
+angel north central_angel_north_r2_rev.cld
+angel north central_angel_north_r2_rev.d8m
+angel north central_angel_north_r2_rev.d8w
+angel north central_angel_north_r2_rev.ocl
+angel north central_angel_north_r2_rev.spl
+angel north central_angel_north_r3.cld
+angel north central_angel_north_r3.d8m
+angel north central_angel_north_r3.d8w
+angel north central_angel_north_r3.ocl
+angel north central_angel_north_r3.spl
 angel north central_angel_north_r3_rev.cld
 angel north central_angel_north_r3_rev.d8m
 angel north central_angel_north_r3_rev.d8w
 angel north central_angel_north_r3_rev.ocl
 angel north central_angel_north_r3_rev.spl
+angel north central_angel_north_r4.cld
+angel north central_angel_north_r4.d8m
+angel north central_angel_north_r4.d8w
+angel north central_angel_north_r4.ocl
+angel north central_angel_north_r4.spl
+angel north central_angel_north_r4_rev.cld
+angel north central_angel_north_r4_rev.d8m
+angel north central_angel_north_r4_rev.d8w
+angel north central_angel_north_r4_rev.ocl
+angel north central_angel_north_r4_rev.spl
+angel north central_angel_north_sprint01.cld
+angel north central_angel_north_sprint01.d8m
+angel north central_angel_north_sprint01.d8w
+angel north central_angel_north_sprint01.ocl
+angel north central_angel_north_sprint01.spl
 angel north central_eve_dry.atm
 angel north central_eve_wet.atm
 angel north central_morn_dry.atm
@@ -160,6 +221,9 @@ angel north central_night_dry.atm
 angel north central_night_wet.atm
 angel north central_noon_dry.atm
 angel north central_noon_wet.atm
+angel north central_shad_eve.shd
+angel north central_shad_morn.shd
+angel north central_shad_night.shd
 angel north central_shad_noon.shd
 angel superspeedway.tdf
 angel superspeedway_0.pqh
@@ -243,18 +307,74 @@ angel superspeedway_speedway_sprint01.d8w
 angel superspeedway_speedway_sprint01.ocl
 angel superspeedway_speedway_sprint01.spl
 angel westside.tdf
+angel westside_0.pqh
+angel westside_0.sqh
 angel westside_1.pqh
 angel westside_1.sqh
+angel westside_2.pqh
+angel westside_2.sqh
+angel westside_3.pqh
+angel westside_3.sqh
+angel westside_angelwest_cruise01.cld
+angel westside_angelwest_cruise01.d8m
+angel westside_angelwest_cruise01.d8w
+angel westside_angelwest_cruise01.ocl
+angel westside_angelwest_cruise01.spl
 angel westside_angelwest_p2p01.cld
 angel westside_angelwest_p2p01.d8m
 angel westside_angelwest_p2p01.d8w
 angel westside_angelwest_p2p01.ocl
 angel westside_angelwest_p2p01.spl
+angel westside_angelwest_p2p01_rev.cld
+angel westside_angelwest_p2p01_rev.d8m
+angel westside_angelwest_p2p01_rev.d8w
+angel westside_angelwest_p2p01_rev.ocl
+angel westside_angelwest_p2p01_rev.spl
+angel westside_angelwest_r1.cld
+angel westside_angelwest_r1.d8m
+angel westside_angelwest_r1.d8w
+angel westside_angelwest_r1.ocl
+angel westside_angelwest_r1.spl
 angel westside_angelwest_r1_rev.cld
 angel westside_angelwest_r1_rev.d8m
 angel westside_angelwest_r1_rev.d8w
 angel westside_angelwest_r1_rev.ocl
 angel westside_angelwest_r1_rev.spl
+angel westside_angelwest_r2.cld
+angel westside_angelwest_r2.d8m
+angel westside_angelwest_r2.d8w
+angel westside_angelwest_r2.ocl
+angel westside_angelwest_r2.spl
+angel westside_angelwest_r2_rev.cld
+angel westside_angelwest_r2_rev.d8m
+angel westside_angelwest_r2_rev.d8w
+angel westside_angelwest_r2_rev.ocl
+angel westside_angelwest_r2_rev.spl
+angel westside_angelwest_r3.cld
+angel westside_angelwest_r3.d8m
+angel westside_angelwest_r3.d8w
+angel westside_angelwest_r3.ocl
+angel westside_angelwest_r3.spl
+angel westside_angelwest_r3_rev.cld
+angel westside_angelwest_r3_rev.d8m
+angel westside_angelwest_r3_rev.d8w
+angel westside_angelwest_r3_rev.ocl
+angel westside_angelwest_r3_rev.spl
+angel westside_angelwest_r4.cld
+angel westside_angelwest_r4.d8m
+angel westside_angelwest_r4.d8w
+angel westside_angelwest_r4.ocl
+angel westside_angelwest_r4.spl
+angel westside_angelwest_r4_rev.cld
+angel westside_angelwest_r4_rev.d8m
+angel westside_angelwest_r4_rev.d8w
+angel westside_angelwest_r4_rev.ocl
+angel westside_angelwest_r4_rev.spl
+angel westside_angelwest_sprint01.cld
+angel westside_angelwest_sprint01.d8m
+angel westside_angelwest_sprint01.d8w
+angel westside_angelwest_sprint01.ocl
+angel westside_angelwest_sprint01.spl
 angel westside_eve_dry.atm
 angel westside_eve_wet.atm
 angel westside_morn_dry.atm
@@ -263,6 +383,9 @@ angel westside_night_dry.atm
 angel westside_night_wet.atm
 angel westside_noon_dry.atm
 angel westside_noon_wet.atm
+angel westside_shad_eve.shd
+angel westside_shad_morn.shd
+angel westside_shad_night.shd
 angel westside_shad_noon.shd
 angel_city.boh
 angel_north_cruise01_intro.cam
@@ -353,10 +476,24 @@ buildingsite_girders.ddt
 buildingsite_windows.ddt
 cables01.ddt
 campbell hills.tdf
+campbell hills_0.pqh
+campbell hills_0.sqh
 campbell hills_1.pqh
 campbell hills_1.sqh
+campbell hills_2.pqh
+campbell hills_2.sqh
 campbell hills_3.pqh
 campbell hills_3.sqh
+campbell hills_campbell_cruise01.cld
+campbell hills_campbell_cruise01.d8m
+campbell hills_campbell_cruise01.d8w
+campbell hills_campbell_cruise01.ocl
+campbell hills_campbell_cruise01.spl
+campbell hills_campbell_p2p01.cld
+campbell hills_campbell_p2p01.d8m
+campbell hills_campbell_p2p01.d8w
+campbell hills_campbell_p2p01.ocl
+campbell hills_campbell_p2p01.spl
 campbell hills_campbell_p2p01_rev.cld
 campbell hills_campbell_p2p01_rev.d8m
 campbell hills_campbell_p2p01_rev.d8w
@@ -382,6 +519,31 @@ campbell hills_campbell_r2_rev.d8m
 campbell hills_campbell_r2_rev.d8w
 campbell hills_campbell_r2_rev.ocl
 campbell hills_campbell_r2_rev.spl
+campbell hills_campbell_r3.cld
+campbell hills_campbell_r3.d8m
+campbell hills_campbell_r3.d8w
+campbell hills_campbell_r3.ocl
+campbell hills_campbell_r3.spl
+campbell hills_campbell_r3_rev.cld
+campbell hills_campbell_r3_rev.d8m
+campbell hills_campbell_r3_rev.d8w
+campbell hills_campbell_r3_rev.ocl
+campbell hills_campbell_r3_rev.spl
+campbell hills_campbell_r4.cld
+campbell hills_campbell_r4.d8m
+campbell hills_campbell_r4.d8w
+campbell hills_campbell_r4.ocl
+campbell hills_campbell_r4.spl
+campbell hills_campbell_r4_rev.cld
+campbell hills_campbell_r4_rev.d8m
+campbell hills_campbell_r4_rev.d8w
+campbell hills_campbell_r4_rev.ocl
+campbell hills_campbell_r4_rev.spl
+campbell hills_campbell_sprint01.cld
+campbell hills_campbell_sprint01.d8m
+campbell hills_campbell_sprint01.d8w
+campbell hills_campbell_sprint01.ocl
+campbell hills_campbell_sprint01.spl
 campbell hills_eve_dry.atm
 campbell hills_eve_wet.atm
 campbell hills_morn_dry.atm
@@ -390,6 +552,8 @@ campbell hills_night_dry.atm
 campbell hills_night_wet.atm
 campbell hills_noon_dry.atm
 campbell hills_noon_wet.atm
+campbell hills_shad_eve.shd
+campbell hills_shad_morn.shd
 campbell hills_shad_night.shd
 campbell hills_shad_noon.shd
 campbell_cruise01_intro.cam
@@ -847,6 +1011,8 @@ downtown angel city_0.pqh
 downtown angel city_0.sqh
 downtown angel city_1.pqh
 downtown angel city_1.sqh
+downtown angel city_2.pqh
+downtown angel city_2.sqh
 downtown angel city_3.pqh
 downtown angel city_3.sqh
 downtown angel city_downtown_cruise01.cld
@@ -859,6 +1025,11 @@ downtown angel city_downtown_p2p.d8m
 downtown angel city_downtown_p2p.d8w
 downtown angel city_downtown_p2p.ocl
 downtown angel city_downtown_p2p.spl
+downtown angel city_downtown_p2p_rev.cld
+downtown angel city_downtown_p2p_rev.d8m
+downtown angel city_downtown_p2p_rev.d8w
+downtown angel city_downtown_p2p_rev.ocl
+downtown angel city_downtown_p2p_rev.spl
 downtown angel city_downtown_r1.cld
 downtown angel city_downtown_r1.d8m
 downtown angel city_downtown_r1.d8w
@@ -869,6 +1040,11 @@ downtown angel city_downtown_r1_rev.d8m
 downtown angel city_downtown_r1_rev.d8w
 downtown angel city_downtown_r1_rev.ocl
 downtown angel city_downtown_r1_rev.spl
+downtown angel city_downtown_r2.cld
+downtown angel city_downtown_r2.d8m
+downtown angel city_downtown_r2.d8w
+downtown angel city_downtown_r2.ocl
+downtown angel city_downtown_r2.spl
 downtown angel city_downtown_r2_rev.cld
 downtown angel city_downtown_r2_rev.d8m
 downtown angel city_downtown_r2_rev.d8w
@@ -879,6 +1055,26 @@ downtown angel city_downtown_r3.d8m
 downtown angel city_downtown_r3.d8w
 downtown angel city_downtown_r3.ocl
 downtown angel city_downtown_r3.spl
+downtown angel city_downtown_r3_rev.cld
+downtown angel city_downtown_r3_rev.d8m
+downtown angel city_downtown_r3_rev.d8w
+downtown angel city_downtown_r3_rev.ocl
+downtown angel city_downtown_r3_rev.spl
+downtown angel city_downtown_r4.cld
+downtown angel city_downtown_r4.d8m
+downtown angel city_downtown_r4.d8w
+downtown angel city_downtown_r4.ocl
+downtown angel city_downtown_r4.spl
+downtown angel city_downtown_r4_rev.cld
+downtown angel city_downtown_r4_rev.d8m
+downtown angel city_downtown_r4_rev.d8w
+downtown angel city_downtown_r4_rev.ocl
+downtown angel city_downtown_r4_rev.spl
+downtown angel city_downtown_sprint.cld
+downtown angel city_downtown_sprint.d8m
+downtown angel city_downtown_sprint.d8w
+downtown angel city_downtown_sprint.ocl
+downtown angel city_downtown_sprint.spl
 downtown angel city_eve_dry.atm
 downtown angel city_eve_wet.atm
 downtown angel city_morn_dry.atm
@@ -887,6 +1083,7 @@ downtown angel city_night_dry.atm
 downtown angel city_night_wet.atm
 downtown angel city_noon_dry.atm
 downtown angel city_noon_wet.atm
+downtown angel city_shad_eve.shd
 downtown angel city_shad_morn.shd
 downtown angel city_shad_night.shd
 downtown angel city_shad_noon.shd
@@ -988,20 +1185,49 @@ eai_hotel3_roof.ddt
 eai_whouse2.ddt
 eai_whouse3.ddt
 east angel island.tdf
+east angel island_0.pqh
+east angel island_0.sqh
 east angel island_1.pqh
 east angel island_1.sqh
 east angel island_2.pqh
 east angel island_2.sqh
+east angel island_3.pqh
+east angel island_3.sqh
 east angel island_east_angel_cruise01.cld
 east angel island_east_angel_cruise01.d8m
 east angel island_east_angel_cruise01.d8w
 east angel island_east_angel_cruise01.ocl
 east angel island_east_angel_cruise01.spl
+east angel island_east_angel_p2p01.cld
+east angel island_east_angel_p2p01.d8m
+east angel island_east_angel_p2p01.d8w
+east angel island_east_angel_p2p01.ocl
+east angel island_east_angel_p2p01.spl
+east angel island_east_angel_p2p01_rev.cld
+east angel island_east_angel_p2p01_rev.d8m
+east angel island_east_angel_p2p01_rev.d8w
+east angel island_east_angel_p2p01_rev.ocl
+east angel island_east_angel_p2p01_rev.spl
 east angel island_east_angel_r1.cld
 east angel island_east_angel_r1.d8m
 east angel island_east_angel_r1.d8w
 east angel island_east_angel_r1.ocl
 east angel island_east_angel_r1.spl
+east angel island_east_angel_r1_rev.cld
+east angel island_east_angel_r1_rev.d8m
+east angel island_east_angel_r1_rev.d8w
+east angel island_east_angel_r1_rev.ocl
+east angel island_east_angel_r1_rev.spl
+east angel island_east_angel_r2.cld
+east angel island_east_angel_r2.d8m
+east angel island_east_angel_r2.d8w
+east angel island_east_angel_r2.ocl
+east angel island_east_angel_r2.spl
+east angel island_east_angel_r2_rev.cld
+east angel island_east_angel_r2_rev.d8m
+east angel island_east_angel_r2_rev.d8w
+east angel island_east_angel_r2_rev.ocl
+east angel island_east_angel_r2_rev.spl
 east angel island_east_angel_r3.cld
 east angel island_east_angel_r3.d8m
 east angel island_east_angel_r3.d8w
@@ -1012,6 +1238,21 @@ east angel island_east_angel_r3_rev.d8m
 east angel island_east_angel_r3_rev.d8w
 east angel island_east_angel_r3_rev.ocl
 east angel island_east_angel_r3_rev.spl
+east angel island_east_angel_r4.cld
+east angel island_east_angel_r4.d8m
+east angel island_east_angel_r4.d8w
+east angel island_east_angel_r4.ocl
+east angel island_east_angel_r4.spl
+east angel island_east_angel_r4_rev.cld
+east angel island_east_angel_r4_rev.d8m
+east angel island_east_angel_r4_rev.d8w
+east angel island_east_angel_r4_rev.ocl
+east angel island_east_angel_r4_rev.spl
+east angel island_east_angel_sprint.cld
+east angel island_east_angel_sprint.d8m
+east angel island_east_angel_sprint.d8w
+east angel island_east_angel_sprint.ocl
+east angel island_east_angel_sprint.spl
 east angel island_eve_dry.atm
 east angel island_eve_wet.atm
 east angel island_morn_dry.atm
@@ -1021,6 +1262,8 @@ east angel island_night_wet.atm
 east angel island_noon_dry.atm
 east angel island_noon_wet.atm
 east angel island_shad_eve.shd
+east angel island_shad_morn.shd
+east angel island_shad_night.shd
 east angel island_shad_noon.shd
 east_angel_cruise01_intro.cam
 east_angel_p2p01_intro.cam
@@ -1059,6 +1302,16 @@ engstrom district_engstrom_cruise01.d8m
 engstrom district_engstrom_cruise01.d8w
 engstrom district_engstrom_cruise01.ocl
 engstrom district_engstrom_cruise01.spl
+engstrom district_engstrom_p2p01.cld
+engstrom district_engstrom_p2p01.d8m
+engstrom district_engstrom_p2p01.d8w
+engstrom district_engstrom_p2p01.ocl
+engstrom district_engstrom_p2p01.spl
+engstrom district_engstrom_p2p01_rev.cld
+engstrom district_engstrom_p2p01_rev.d8m
+engstrom district_engstrom_p2p01_rev.d8w
+engstrom district_engstrom_p2p01_rev.ocl
+engstrom district_engstrom_p2p01_rev.spl
 engstrom district_engstrom_r1.cld
 engstrom district_engstrom_r1.d8m
 engstrom district_engstrom_r1.d8w
@@ -1074,11 +1327,31 @@ engstrom district_engstrom_r2.d8m
 engstrom district_engstrom_r2.d8w
 engstrom district_engstrom_r2.ocl
 engstrom district_engstrom_r2.spl
+engstrom district_engstrom_r2_rev.cld
+engstrom district_engstrom_r2_rev.d8m
+engstrom district_engstrom_r2_rev.d8w
+engstrom district_engstrom_r2_rev.ocl
+engstrom district_engstrom_r2_rev.spl
 engstrom district_engstrom_r3.cld
 engstrom district_engstrom_r3.d8m
 engstrom district_engstrom_r3.d8w
 engstrom district_engstrom_r3.ocl
 engstrom district_engstrom_r3.spl
+engstrom district_engstrom_r3_rev.cld
+engstrom district_engstrom_r3_rev.d8m
+engstrom district_engstrom_r3_rev.d8w
+engstrom district_engstrom_r3_rev.ocl
+engstrom district_engstrom_r3_rev.spl
+engstrom district_engstrom_r4.cld
+engstrom district_engstrom_r4.d8m
+engstrom district_engstrom_r4.d8w
+engstrom district_engstrom_r4.ocl
+engstrom district_engstrom_r4.spl
+engstrom district_engstrom_r4_rev.cld
+engstrom district_engstrom_r4_rev.d8m
+engstrom district_engstrom_r4_rev.d8w
+engstrom district_engstrom_r4_rev.ocl
+engstrom district_engstrom_r4_rev.spl
 engstrom district_engstrom_sprint01.cld
 engstrom district_engstrom_sprint01.d8m
 engstrom district_engstrom_sprint01.d8w
@@ -8760,6 +9033,8 @@ southside beach_0.pqh
 southside beach_0.sqh
 southside beach_1.pqh
 southside beach_1.sqh
+southside beach_2.pqh
+southside beach_2.sqh
 southside beach_3.pqh
 southside beach_3.sqh
 southside beach_eve_dry.atm
@@ -8770,14 +9045,45 @@ southside beach_night_dry.atm
 southside beach_night_wet.atm
 southside beach_noon_dry.atm
 southside beach_noon_wet.atm
+southside beach_shad_eve.shd
 southside beach_shad_morn.shd
 southside beach_shad_night.shd
 southside beach_shad_noon.shd
+southside beach_southside_cruise01.cld
+southside beach_southside_cruise01.d8m
+southside beach_southside_cruise01.d8w
+southside beach_southside_cruise01.ocl
+southside beach_southside_cruise01.spl
+southside beach_southside_p2p01.cld
+southside beach_southside_p2p01.d8m
+southside beach_southside_p2p01.d8w
+southside beach_southside_p2p01.ocl
+southside beach_southside_p2p01.spl
 southside beach_southside_p2p01_rev.cld
 southside beach_southside_p2p01_rev.d8m
 southside beach_southside_p2p01_rev.d8w
 southside beach_southside_p2p01_rev.ocl
 southside beach_southside_p2p01_rev.spl
+southside beach_southside_r1.cld
+southside beach_southside_r1.d8m
+southside beach_southside_r1.d8w
+southside beach_southside_r1.ocl
+southside beach_southside_r1.spl
+southside beach_southside_r1_rev.cld
+southside beach_southside_r1_rev.d8m
+southside beach_southside_r1_rev.d8w
+southside beach_southside_r1_rev.ocl
+southside beach_southside_r1_rev.spl
+southside beach_southside_r2.cld
+southside beach_southside_r2.d8m
+southside beach_southside_r2.d8w
+southside beach_southside_r2.ocl
+southside beach_southside_r2.spl
+southside beach_southside_r2_rev.cld
+southside beach_southside_r2_rev.d8m
+southside beach_southside_r2_rev.d8w
+southside beach_southside_r2_rev.ocl
+southside beach_southside_r2_rev.spl
 southside beach_southside_r3.cld
 southside beach_southside_r3.d8m
 southside beach_southside_r3.d8w
@@ -8788,6 +9094,21 @@ southside beach_southside_r3_rev.d8m
 southside beach_southside_r3_rev.d8w
 southside beach_southside_r3_rev.ocl
 southside beach_southside_r3_rev.spl
+southside beach_southside_r4.cld
+southside beach_southside_r4.d8m
+southside beach_southside_r4.d8w
+southside beach_southside_r4.ocl
+southside beach_southside_r4.spl
+southside beach_southside_r4_rev.cld
+southside beach_southside_r4_rev.d8m
+southside beach_southside_r4_rev.d8w
+southside beach_southside_r4_rev.ocl
+southside beach_southside_r4_rev.spl
+southside beach_southside_sprint01.cld
+southside beach_southside_sprint01.d8m
+southside beach_southside_sprint01.d8w
+southside beach_southside_sprint01.ocl
+southside beach_southside_sprint01.spl
 southside_cruise01_intro.cam
 southside_p2p01_intro.cam
 southside_p2p01_rev_intro.cam
@@ -10165,10 +10486,14 @@ ui_angelnorth_centre_sprint.d8m
 ui_angelnorth_map01.boh
 ui_angelnorth_map01.d8m
 ui_angelnorth_map02.boh
+ui_angelnorth_map02.d8m
 ui_angelnorth_map03.boh
 ui_angelnorth_map03.d8m
 ui_angelnorth_map04.boh
+ui_angelnorth_map04.d8m
+ui_angelnorth_p2p_map.d8m
 ui_angelnorth_sprint_gui.d8m
+ui_angelnorth_sprint_map.d8m
 ui_angelnorth_yellow01.d8m
 ui_angelnorth_yellow02.d8m
 ui_angelnorth_yellow03.d8m
@@ -10182,6 +10507,8 @@ ui_angelsuper_centre05.d8m
 ui_angelsuper_map01.d8m
 ui_angelsuper_map02.d8m
 ui_angelsuper_map03.d8m
+ui_angelsuper_map04.d8m
+ui_angelsuper_map_sprint.d8m
 ui_angelsuper_p2p01.d8m
 ui_angelsuper_yellow01.d8m
 ui_angelsuper_yellow02.d8m
@@ -10215,7 +10542,11 @@ ui_angelwestside_centre03.d8m
 ui_angelwestside_centre04.d8m
 ui_angelwestside_centre05.d8m
 ui_angelwestside_map01.d8m
+ui_angelwestside_map02.d8m
+ui_angelwestside_map03.d8m
+ui_angelwestside_map04.d8m
 ui_angelwestside_mapp2p01.d8m
+ui_angelwestside_sprint_map.d8m
 ui_angelwestside_yellow01.d8m
 ui_angelwestside_yellow02.d8m
 ui_angelwestside_yellow03.d8m
@@ -10230,7 +10561,9 @@ ui_campbell_map01.d8m
 ui_campbell_map02.boh
 ui_campbell_map02.d8m
 ui_campbell_map03.boh
+ui_campbell_map03.d8m
 ui_campbell_map04.boh
+ui_campbell_map04.d8m
 ui_campbell_p2p01_gui.boh
 ui_campbell_p2p01_map.boh
 ui_campbell_p2p01_map01.d8m
@@ -10257,6 +10590,7 @@ ui_campbell_sprint01_map.boh
 ui_campbell_sprint01_rev_gui.boh
 ui_campbell_sprint01_rev_map.boh
 ui_campbell_sprint_map.boh
+ui_campbell_sprint_map.d8m
 ui_campbell_yellow01.d8m
 ui_campbell_yellow02.d8m
 ui_campbell_yellow03.d8m
@@ -10279,6 +10613,7 @@ ui_downtown_map02.d8m
 ui_downtown_map03.boh
 ui_downtown_map03.d8m
 ui_downtown_map04.boh
+ui_downtown_map04.d8m
 ui_downtown_map09.boh
 ui_downtown_map09.d8m
 ui_downtown_p2p_gui.boh
@@ -10307,6 +10642,7 @@ ui_downtown_sprint01_rev_gui.boh
 ui_downtown_sprint01_rev_map.boh
 ui_downtown_sprint_gui.boh
 ui_downtown_sprint_map.boh
+ui_downtown_sprint_map.d8m
 ui_downtown_yellow01.d8m
 ui_downtown_yellow02.d8m
 ui_downtown_yellow03.d8m
@@ -10348,10 +10684,14 @@ ui_eastangel_centre05.d8m
 ui_eastangel_map01.boh
 ui_eastangel_map01.d8m
 ui_eastangel_map02.boh
+ui_eastangel_map02.d8m
 ui_eastangel_map03.boh
 ui_eastangel_map03.d8m
 ui_eastangel_map04.boh
+ui_eastangel_map04.d8m
 ui_eastangel_map09.boh
+ui_eastangel_map09.d8m
+ui_eastangel_sprint_map.d8m
 ui_eastangel_yellow01.d8m
 ui_eastangel_yellow02.d8m
 ui_eastangel_yellow03.d8m
@@ -10369,9 +10709,11 @@ ui_engstrom_p2p01_gui.boh
 ui_engstrom_p2p01_map.boh
 ui_engstrom_p2p01_rev_gui.boh
 ui_engstrom_p2p01_rev_map.boh
+ui_engstrom_p2p_map.d8m
 ui_engstrom_r01_map.d8m
 ui_engstrom_r02_map.d8m
 ui_engstrom_r03_map.d8m
+ui_engstrom_r04_map.d8m
 ui_engstrom_r1_gui.boh
 ui_engstrom_r1_map.boh
 ui_engstrom_r1_rev_gui.boh
@@ -10427,10 +10769,13 @@ ui_southside_centre04.d8m
 ui_southside_centre05.d8m
 ui_southside_centre_sprint.d8m
 ui_southside_map01.boh
+ui_southside_map01.d8m
 ui_southside_map02.boh
+ui_southside_map02.d8m
 ui_southside_map03.boh
 ui_southside_map03.d8m
 ui_southside_map04.boh
+ui_southside_map04.d8m
 ui_southside_map05.d8m
 ui_southside_p2p01_gui.boh
 ui_southside_p2p01_map.boh
@@ -10473,6 +10818,7 @@ ui_southside_sprint01_map.boh
 ui_southside_sprint01_rev_gui.boh
 ui_southside_sprint01_rev_map.boh
 ui_southside_sprint_map.boh
+ui_southside_sprint_map.d8m
 ui_southside_yellow01.d8m
 ui_southside_yellow02.d8m
 ui_southside_yellow03.d8m
@@ -10511,6 +10857,11 @@ ui_westanderson_centre03.d8m
 ui_westanderson_centre04.d8m
 ui_westanderson_centre05.d8m
 ui_westanderson_map01.d8m
+ui_westanderson_map02.d8m
+ui_westanderson_map03.d8m
+ui_westanderson_map04.d8m
+ui_westanderson_p2p01_map.d8m
+ui_westanderson_sprint_map.d8m
 ui_westanderson_yellow01.d8m
 ui_westanderson_yellow02.d8m
 ui_westanderson_yellow03.d8m
@@ -10531,12 +10882,34 @@ wall_scrap.ddt
 water01.ddt
 water02.ddt
 west anderson.tdf
+west anderson_0.pqh
+west anderson_0.sqh
+west anderson_1.pqh
+west anderson_1.sqh
 west anderson_2.pqh
 west anderson_2.sqh
+west anderson_3.pqh
+west anderson_3.sqh
 west anderson_anderson_cruise01.cld
+west anderson_anderson_cruise01.d8m
+west anderson_anderson_cruise01.d8w
+west anderson_anderson_cruise01.ocl
+west anderson_anderson_cruise01.spl
 west anderson_anderson_p2p01.cld
+west anderson_anderson_p2p01.d8m
+west anderson_anderson_p2p01.d8w
+west anderson_anderson_p2p01.ocl
+west anderson_anderson_p2p01.spl
+west anderson_anderson_p2p01_rev.cld
+west anderson_anderson_p2p01_rev.d8m
+west anderson_anderson_p2p01_rev.d8w
+west anderson_anderson_p2p01_rev.ocl
+west anderson_anderson_p2p01_rev.spl
 west anderson_anderson_r1.cld
 west anderson_anderson_r1.d8m
+west anderson_anderson_r1.d8w
+west anderson_anderson_r1.ocl
+west anderson_anderson_r1.spl
 west anderson_anderson_r1_rev.cld
 west anderson_anderson_r1_rev.d8m
 west anderson_anderson_r1_rev.d8w
@@ -10544,13 +10917,39 @@ west anderson_anderson_r1_rev.ocl
 west anderson_anderson_r1_rev.spl
 west anderson_anderson_r2.cld
 west anderson_anderson_r2.d8m
+west anderson_anderson_r2.d8w
+west anderson_anderson_r2.ocl
+west anderson_anderson_r2.spl
 west anderson_anderson_r2_rev.cld
+west anderson_anderson_r2_rev.d8m
+west anderson_anderson_r2_rev.d8w
+west anderson_anderson_r2_rev.ocl
+west anderson_anderson_r2_rev.spl
 west anderson_anderson_r3.cld
 west anderson_anderson_r3.d8m
+west anderson_anderson_r3.d8w
+west anderson_anderson_r3.ocl
+west anderson_anderson_r3.spl
 west anderson_anderson_r3_rev.cld
+west anderson_anderson_r3_rev.d8m
+west anderson_anderson_r3_rev.d8w
+west anderson_anderson_r3_rev.ocl
+west anderson_anderson_r3_rev.spl
 west anderson_anderson_r4.cld
+west anderson_anderson_r4.d8m
+west anderson_anderson_r4.d8w
+west anderson_anderson_r4.ocl
+west anderson_anderson_r4.spl
 west anderson_anderson_r4_rev.cld
+west anderson_anderson_r4_rev.d8m
+west anderson_anderson_r4_rev.d8w
+west anderson_anderson_r4_rev.ocl
+west anderson_anderson_r4_rev.spl
 west anderson_anderson_sprint.cld
+west anderson_anderson_sprint.d8m
+west anderson_anderson_sprint.d8w
+west anderson_anderson_sprint.ocl
+west anderson_anderson_sprint.spl
 west anderson_eve_dry.atm
 west anderson_eve_wet.atm
 west anderson_morn_dry.atm
@@ -10560,6 +10959,9 @@ west anderson_night_wet.atm
 west anderson_noon_dry.atm
 west anderson_noon_wet.atm
 west anderson_shad_eve.shd
+west anderson_shad_morn.shd
+west anderson_shad_night.shd
+west anderson_shad_noon.shd
 wheel_aros_v1.ddt
 wheel_aros_v1_blur.ddt
 wheel_aros_v2.ddt
