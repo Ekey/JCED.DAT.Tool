@@ -1713,6 +1713,7 @@ gen_shadow.d8m
 gen_shadow.ddt
 gen_shadow01.ddt
 german.txt
+glow.fxo
 goldengate.ddt
 goldengate_con.ddt
 goldengate_strut.ddt
@@ -1780,6 +1781,12 @@ gtr_stock.boh
 gtr_under.ddt
 gtr_wheel.ddt
 harbourwall.ddt
+hatch0.dds
+hatch1.dds
+hatch2.dds
+hatch3.dds
+hatch4.dds
+hatch5.dds
 headlight_b.ddt
 headlight_l.ddt
 heathaze.ddt
@@ -1839,6 +1846,7 @@ lorry01a.ddt
 mag_exhaust.ddt
 material#28.ddt
 material_2dblur.fxo
+material_2dblur.fxo.old
 material_2texmodulare.fxo
 material_2texmodularespec.fxo
 material_ambientlit.fxo
@@ -1865,6 +1873,7 @@ material_fadetoconstcolour.fxo
 material_font.fxo
 material_glass.fxo
 material_grass.fxo
+material_hatch.fxo
 material_heathaze.fxo
 material_lightflare.fxo
 material_line.fxo
@@ -1890,6 +1899,7 @@ material_stdfadeout.fxo
 material_stdopaquenoshad.fxo
 material_stdopaqueshad.fxo
 material_stdopaqueshadnight.fxo
+material_streaks.fxo
 material_tarmac.fxo
 material_tarmacnight.fxo
 material_tarmacnoshadow.fxo
@@ -8666,6 +8676,7 @@ mesh\wrx2_sskirt_vs2_l.d8m
 mesh\wrx2_sskirt_vs2_r.d8m
 mesh\wrx2_sskirt_vs3_l.d8m
 mesh\wrx2_sskirt_vs3_r.d8m
+metallicflakes.fxo
 mg_cycpath.ddt
 mg_harbwall.ddt
 mg_pave1.ddt
@@ -8752,6 +8763,7 @@ noise2.dds
 noise2_64_dxt3.dds
 noise2_dxt1.dds
 noisedxt1.dds
+noisysine.dds
 none.d8m
 nonprofanities.txt
 object01.d8m
@@ -9010,6 +9022,8 @@ simpbuild01.ddt
 simpbuild02.ddt
 simpbuild03.ddt
 simpbuild04.ddt
+simple.fxo
+simple2.fxo
 sine_function.dds
 skid_a_01.ddt
 skidsand_a_01.ddt
@@ -10416,6 +10430,7 @@ textures\wrx2_lightson.ddt
 textures\wrx2_revlight.ddt
 trackmiddle.ddt
 tracks.ddt
+tracksfilelist.txt
 trackside.ddt
 trackslines.ddt
 trees_back_camp2.ddt
