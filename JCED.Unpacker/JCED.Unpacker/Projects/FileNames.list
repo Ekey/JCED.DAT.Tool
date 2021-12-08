@@ -9639,11 +9639,16 @@ textures\ui_flyer_legion.ddt
 textures\ui_flyer_lords.ddt
 textures\ui_flyer_omegatau.ddt
 textures\ui_flyer_partsponsor.ddt
+textures\ui_flyer_pinkslip.ddt
+textures\ui_flyer_player1.ddt
+textures\ui_flyer_player2.ddt
+textures\ui_flyer_player3.ddt
 textures\ui_flyer_prototype.ddt
 textures\ui_flyer_sponsored_eng.ddt
 textures\ui_flyer_urbanchaos.ddt
 textures\ui_flyer_urbanmaulerz.ddt
 textures\ui_flyer_vixens.ddt
+textures\ui_flyer_wildcats.ddt
 textures\ui_ford.ddt
 textures\ui_friends.ddt
 textures\ui_garage_itembar1.ddt
@@ -9705,6 +9710,8 @@ textures\ui_incar_turbotxt.ddt
 textures\ui_infobox_left.ddt
 textures\ui_injen_off.ddt
 textures\ui_injen_on.ddt
+textures\ui_jackson_off.ddt
+textures\ui_jackson_on.ddt
 textures\ui_janspeed_off.ddt
 textures\ui_janspeed_on.ddt
 textures\ui_juicegames_logo.ddt
@@ -9834,6 +9841,12 @@ textures\ui_pan5_ora1.ddt
 textures\ui_pan5_purple.ddt
 textures\ui_pan5_yel.ddt
 textures\ui_part_airfilter.ddt
+textures\ui_part_backbox.ddt
+textures\ui_part_brakes.ddt
+textures\ui_part_nitro.ddt
+textures\ui_part_suspension.ddt
+textures\ui_part_turbo.ddt
+textures\ui_part_tyres.ddt
 textures\ui_peugeot.ddt
 textures\ui_pipercross_off.ddt
 textures\ui_pipercross_on.ddt
@@ -9957,6 +9970,8 @@ textures\ui_tints_on.ddt
 textures\ui_titleblink.ddt
 textures\ui_toparrow.ddt
 textures\ui_topsweep.ddt
+textures\ui_toyo_off.ddt
+textures\ui_toyo_on.ddt
 textures\ui_toyota.ddt
 textures\ui_tribal_career_01.ddt
 textures\ui_tribal_career_02.ddt
@@ -9993,6 +10008,7 @@ textures\ui_video_slowmo.ddt
 textures\ui_video_slowmo_on.ddt
 textures\ui_videostill.ddt
 textures\ui_volkswagen.ddt
+textures\ui_vw.ddt
 textures\ui_westanderson.ddt
 textures\ui_wheel_off.ddt
 textures\ui_wheel_on.ddt
